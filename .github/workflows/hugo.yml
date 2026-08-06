@@ -58,3 +58,8 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # Les deploiements de ce repo tournent autour de 10 min, soit pile le timeout
+          # par defaut de l'action : les builds echouaient sur "Timeout reached, aborting"
+          # alors que le build Hugo etait bon. 30 min de marge.
+          timeout: 1800000

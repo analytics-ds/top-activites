@@ -1,0 +1,11 @@
+# Ce fichier est le CNAME GitHub Pages du site, mis de cote volontairement.
+#
+# Tant que top-activites.fr n'est pas reserve et pointe vers GitHub Pages, la
+# presence de static/CNAME fait echouer les deploiements : Pages essaie de valider
+# le domaine custom et de provisionner le certificat TLS sur un domaine qui ne
+# resout pas, le job deploy reste en deployment_in_progress puis timeout.
+#
+# AU BRANCHEMENT DNS : remettre ce fichier en static/CNAME (contenu ci-dessous),
+# ou simplement declarer le domaine dans Settings > Pages.
+#
+# top-activites.fr

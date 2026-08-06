@@ -5,7 +5,7 @@
     <div class="container container-narrow">
         <div class="author-head">
             {{ if .Params.photo }}
-            <span class="author-avatar author-avatar-photo"><img src="{{ .Params.photo | relURL }}" alt="{{ .Title }}" style="object-position: {{ .Params.photoPos | default "center top" }};" loading="lazy" width="88" height="88"></span>
+            <span class="author-avatar author-avatar-photo"><img src="{{ strings.TrimPrefix "/" .Params.photo | relURL }}" alt="{{ .Title }}" style="object-position: {{ .Params.photoPos | default "center top" }};" loading="lazy" width="88" height="88"></span>
             {{ else }}
             <span class="author-avatar">{{ with .Params.avatarInitials }}{{ . }}{{ else }}{{ substr .Title 0 1 }}{{ end }}</span>
             {{ end }}
@@ -64,7 +64,7 @@
     {{ with .Params.role }}"jobTitle": "{{ . }}",{{ end }}
     {{ with .Params.bio }}"description": "{{ . | plainify }}",{{ end }}
     "url": "{{ .Permalink }}",
-    {{ with .Params.photo }}"image": "{{ . | absURL }}",{{ end }}
+    {{ with .Params.photo }}"image": "{{ strings.TrimPrefix "/" . | absURL }}",{{ end }}
     "worksFor": { "@type": "Organization", "name": "{{ .Site.Title }}", "url": "{{ .Site.BaseURL }}" }
     {{- $sa := slice }}{{ with .Params.linkedin }}{{ $sa = $sa | append . }}{{ end }}{{ with .Params.instagram }}{{ $sa = $sa | append . }}{{ end }}{{ with .Params.x }}{{ $sa = $sa | append . }}{{ end }}
     {{- if $sa }},"sameAs": [{{ range $i, $u := $sa }}{{ if $i }},{{ end }}"{{ $u }}"{{ end }}]{{ end }}

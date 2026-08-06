@@ -25,7 +25,7 @@
             <div class="article-hero-grid{{ if and (not .Params.image) (not $authorPhoto) }} no-image{{ end }}">
                 <div class="article-hero-content">
                     {{ with .Params.categories }}
-                    <a href="{{ "/categories/" | relURL }}{{ index . 0 | urlize }}/" class="article-hero-category">{{ index . 0 }}</a>
+                    <a href="{{ "categories/" | relURL }}{{ index . 0 | urlize }}/" class="article-hero-category">{{ index . 0 }}</a>
                     {{ end }}
                     <h1>{{ partial "resolveyear" .Title }}</h1>
                     {{ with .Description }}
@@ -34,10 +34,10 @@
                     <div class="article-hero-meta">
                         {{ with .Params.author }}
                         <div class="article-hero-author">
-                            <span class="article-hero-avatar{{ if $authorPhoto }} has-photo{{ end }}">{{ if $authorPhoto }}<img src="{{ $authorPhoto | relURL }}" alt="{{ . }}">{{ else }}{{ $authorInitials }}{{ end }}</span>
+                            <span class="article-hero-avatar{{ if $authorPhoto }} has-photo{{ end }}">{{ if $authorPhoto }}<img src="{{ strings.TrimPrefix "/" $authorPhoto | relURL }}" alt="{{ . }}">{{ else }}{{ $authorInitials }}{{ end }}</span>
                             <span class="article-hero-author-text">
                                 <span class="article-hero-author-label">Par</span>
-                                <strong><a href="{{ with $authorURL }}{{ . }}{{ else }}{{ "/authors/" | relLangURL }}{{ $.Params.author | urlize }}/{{ end }}">{{ . }}</a></strong>
+                                <strong><a href="{{ with $authorURL }}{{ . }}{{ else }}{{ "authors/" | relLangURL }}{{ $.Params.author | urlize }}/{{ end }}">{{ . }}</a></strong>
                             </span>
                         </div>
                         {{ end }}
@@ -55,7 +55,7 @@
                 </div>
                 {{ else if $authorPhoto }}
                 <div class="article-hero-author-card">
-                    <span class="hero-author-photo"><img src="{{ $authorPhoto | relURL }}" alt="{{ .Params.author }}"></span>
+                    <span class="hero-author-photo"><img src="{{ strings.TrimPrefix "/" $authorPhoto | relURL }}" alt="{{ .Params.author }}"></span>
                     <span class="hero-author-by">{{ if eq .Site.Language.Lang "en" }}Written by{{ else }}Écrit par{{ end }}</span>
                     <strong>{{ .Params.author }}</strong>
                     {{ with $authorRole }}<span class="hero-author-role">{{ . }}</span>{{ end }}
@@ -114,7 +114,7 @@
 
                 <div class="article-tags">
                     {{ range .Params.tags }}
-                    <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
+                    <a href="{{ "tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
                     {{ end }}
                 </div>
             </div>

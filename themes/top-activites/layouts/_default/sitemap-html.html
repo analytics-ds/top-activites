@@ -22,7 +22,7 @@
                 <h2>{{ if $isEn }}Main pages{{ else }}Pages principales{{ end }}</h2>
                 <ul class="sitemap-list">
                     <li>
-                        <a href="{{ "/" | relLangURL }}">{{ if $isEn }}Home{{ else }}Accueil{{ end }}</a>
+                        <a href="{{ "" | relLangURL }}">{{ if $isEn }}Home{{ else }}Accueil{{ end }}</a>
                     </li>
                     {{ range .Site.Menus.main }}
                     <li>

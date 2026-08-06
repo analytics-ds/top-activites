@@ -1,11 +1,11 @@
 {{- $en := eq .Site.Language.Lang "en" -}}
 <div class="france-map-wrap">
   <svg class="france-map" viewBox="0 0 364 350" role="img" aria-label="{{ if $en }}Map of France cities{{ else }}Carte de France des villes{{ end }}">
-    <image href="{{ "/images/carte-france.png" | relURL }}" x="0" y="0" width="364" height="350"/>
+    <image href="{{ "images/carte-france.png" | relURL }}" x="0" y="0" width="364" height="350"/>
     {{ range site.Data.villes }}
       {{- $count := 0 -}}
       {{- with (index site.Taxonomies.villes .slug) }}{{ $count = len . }}{{ end -}}
-      {{- $href := printf "/villes/%s/" .slug | relLangURL -}}
+      {{- $href := printf "villes/%s/" .slug | relLangURL -}}
       {{- if .active -}}
       <a class="ville is-active" href="{{ $href }}" aria-label="{{ .name }}">
         <circle class="ville-halo" cx="{{ .cx }}" cy="{{ .cy }}" r="16"/>

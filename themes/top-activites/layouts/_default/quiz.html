@@ -61,7 +61,7 @@
     var GRP = {{ $grpL | jsonify | safeJS }};
     var HUB = {{ $hubMap | jsonify | safeJS }};
     var EN = {{ $en }};
-    var BASE = "{{ "/" | relLangURL }}";
+    var BASE = "{{ "" | relLangURL }}";
     var answers = {};
 
     var steps = Array.prototype.slice.call(document.querySelectorAll('.quiz-step'));

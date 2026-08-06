@@ -76,81 +76,11 @@
 # - Eviter les KW trop concurrentiels pour un blog qui demarre (preferer la
 #   longue traine).
 
-articles:
+# ATTENTION, 2026-08-07 : cette roadmap contenait encore les 7 mots-cles de
+# meilleur-transport (velo electrique, voiture de societe, scooter...), herites
+# de la duplication du repo, avec des published_url pointant vers
+# meilleur-transport.com. Elles ont ete retirees : une routine branchee dessus
+# aurait publie du hors-sujet en duplicate d'un blog vivant du reseau.
+# A remplir avec de vrais mots-cles de sorties et activites de groupe a Paris.
 
-  - kw: "meilleur velo electrique 2026"
-    category: "Particuliers"
-    volume: null
-    kd: null
-    scheduled_date: "2026-04-28"
-    status: done
-    published_date: "2026-04-28"
-    published_url_fr: "https://meilleur-transport.com/blog/meilleur-velo-electrique-2026/"
-    published_url_en: "https://meilleur-transport.com/en/blog/best-electric-bike-2026/"
-    error: null
-
-  - kw: "comment choisir sa voiture de societe"
-    category: "Professionnels"
-    volume: null
-    kd: null
-    scheduled_date: "2026-05-01"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: null
-
-  - kw: "trottinette electrique ou velo electrique"
-    category: "Particuliers"
-    volume: null
-    kd: null
-    scheduled_date: "2026-05-05"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: null
-
-  - kw: "location voiture longue duree professionnel"
-    category: "Professionnels"
-    volume: null
-    kd: null
-    scheduled_date: "2026-05-08"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: null
-
-  - kw: "meilleure voiture electrique pas chere"
-    category: "Particuliers"
-    volume: null
-    kd: null
-    scheduled_date: "2026-05-12"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: null
-
-  - kw: "comment optimiser frais de transport entreprise"
-    category: "Professionnels"
-    volume: null
-    kd: null
-    scheduled_date: "2026-05-15"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: null
-
-  - kw: "scooter electrique ville"
-    category: "Particuliers"
-    volume: null
-    kd: null
-    scheduled_date: "2026-05-19"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: null
+articles: []

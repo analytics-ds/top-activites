@@ -1,7 +1,17 @@
 {{- /* Pages de tags : noindex permanent (contenu maigre / duplication avec catégories).
      Règle conservée même après la mise en production du site. */ -}}
 {{- $isTagPage := or (eq .Type "tags") (eq .Section "tags") }}
-{{- if $isTagPage }}
+{{- /* Garde-fou : tant que le site n'est pas servi sur son domaine final, tout est en noindex.
+     Évite l'indexation de l'URL de préversion GitHub Pages (qui exposerait l'org du réseau)
+     et le duplicate avec le domaine définitif. Se désactive tout seul dès que le DNS pointe. */ -}}
+{{- $prodHost := "top-activites.fr" }}
+{{- $isProdHost := strings.Contains (urls.Parse .Site.BaseURL).Host $prodHost }}
+{{- if not $isProdHost }}
+<!-- Préversion (hors domaine final) : noindex complet, volontaire -->
+<meta name="robots" content="noindex, nofollow">
+<meta name="googlebot" content="noindex, nofollow">
+<meta name="bingbot" content="noindex, nofollow">
+{{- else if $isTagPage }}
 <!-- Pages de tags : noindex permanent -->
 <meta name="robots" content="noindex, follow">
 <meta name="googlebot" content="noindex, follow">

@@ -1,0 +1,131 @@
+{{ define "main" }}
+{{ $en := eq .Site.Language.Lang "en" }}
+{{ $occL := cond $en (dict "team-building" "Team building" "evg" "Stag party" "evjf" "Hen party" "afterwork" "Afterwork" "anniversaire" "Birthday" "entre-amis" "With friends") (dict "team-building" "Team building" "evg" "EVG" "evjf" "EVJF" "afterwork" "Afterwork" "anniversaire" "Anniversaire" "entre-amis" "Entre amis") }}
+{{ $ambL := cond $en (dict "sportif" "Sporty" "convivial" "Convivial" "insolite" "Unusual" "festif" "Festive" "reflexion" "Puzzle") (dict "sportif" "Sportif" "convivial" "Convivial" "insolite" "Insolite" "festif" "Festif" "reflexion" "Réflexion") }}
+{{ $grpL := cond $en (dict "petit" "Small group" "moyen" "Medium group" "grand" "Large group") (dict "petit" "Petit groupe" "moyen" "Groupe moyen" "grand" "Grand groupe") }}
+{{ $hubMap := dict "team-building" "team-building-seminaires" "evg" "evg" "evjf" "evjf" "afterwork" "afterwork" "anniversaire" "activites-insolites" "entre-amis" "bars-lieux-ludiques" }}
+
+<section class="quiz-hero">
+    <div class="container container-narrow">
+        <h1>{{ .Title }}</h1>
+        {{ with .Description }}<p class="quiz-hero-desc">{{ . }}</p>{{ end }}
+    </div>
+</section>
+
+<section class="quiz">
+    <div class="container container-narrow">
+        <div class="quiz-progress" hidden><span class="quiz-progress-bar"></span></div>
+
+        <div class="quiz-step quiz-intro" data-step="0">
+            <p class="quiz-intro-text">{{ if $en }}Three questions, and we tell you which type of group activity is made for you in Paris.{{ else }}Trois questions, et on te dit quel type de sortie de groupe est fait pour toi à Paris.{{ end }}</p>
+            <button type="button" class="btn-cta quiz-start">{{ if $en }}Start the quiz{{ else }}Commencer le quiz{{ end }}</button>
+        </div>
+
+        <div class="quiz-step" data-step="1" hidden>
+            <p class="quiz-q">{{ if $en }}What's the occasion?{{ else }}C'est pour quelle occasion&nbsp;?{{ end }}</p>
+            <div class="quiz-options">
+                {{ range $slug, $label := $occL }}<button type="button" class="quiz-opt" data-key="occasion" data-value="{{ $slug }}">{{ $label }}</button>{{ end }}
+            </div>
+        </div>
+
+        <div class="quiz-step" data-step="2" hidden>
+            <p class="quiz-q">{{ if $en }}What vibe are you after?{{ else }}Tu cherches quelle ambiance&nbsp;?{{ end }}</p>
+            <div class="quiz-options">
+                {{ range $slug, $label := $ambL }}<button type="button" class="quiz-opt" data-key="ambiance" data-value="{{ $slug }}">{{ $label }}</button>{{ end }}
+            </div>
+        </div>
+
+        <div class="quiz-step" data-step="3" hidden>
+            <p class="quiz-q">{{ if $en }}How big is the group?{{ else }}Vous êtes combien&nbsp;?{{ end }}</p>
+            <div class="quiz-options">
+                {{ range $slug, $label := $grpL }}<button type="button" class="quiz-opt" data-key="groupe" data-value="{{ $slug }}">{{ $label }}</button>{{ end }}
+            </div>
+        </div>
+
+        <div class="quiz-step quiz-result" data-step="4" hidden>
+            <p class="quiz-result-label">{{ if $en }}Your match{{ else }}Ton résultat{{ end }}</p>
+            <p class="quiz-profile"></p>
+            <div class="quiz-result-cards"></div>
+            <a class="btn-cta quiz-hub-cta" href="#">{{ if $en }}See all ideas{{ else }}Voir toutes les idées{{ end }}</a>
+            <button type="button" class="quiz-restart">{{ if $en }}Restart{{ else }}Recommencer{{ end }}</button>
+            <p class="quiz-neutral">{{ if $en }}Neutral selection: we also list competing venues, ranked on merit.{{ else }}Sélection neutre&nbsp;: on cite aussi les lieux concurrents, classés au mérite.{{ end }}</p>
+        </div>
+    </div>
+</section>
+
+<script>
+(function(){
+    var ACTIVITES = {{ site.Data.activites | jsonify | safeJS }};
+    var OCC = {{ $occL | jsonify | safeJS }};
+    var AMB = {{ $ambL | jsonify | safeJS }};
+    var GRP = {{ $grpL | jsonify | safeJS }};
+    var HUB = {{ $hubMap | jsonify | safeJS }};
+    var EN = {{ $en }};
+    var BASE = "{{ "/" | relLangURL }}";
+    var answers = {};
+
+    var steps = Array.prototype.slice.call(document.querySelectorAll('.quiz-step'));
+    var progress = document.querySelector('.quiz-progress');
+    var bar = document.querySelector('.quiz-progress-bar');
+
+    function show(step){
+        steps.forEach(function(s){ s.hidden = parseInt(s.getAttribute('data-step'),10) !== step; });
+        if (progress){ progress.hidden = (step === 0 || step === 4); bar.style.width = (step/3*100) + '%'; }
+        window.scrollTo({top: 0, behavior: 'smooth'});
+    }
+
+    document.querySelector('.quiz-start').addEventListener('click', function(){ show(1); });
+
+    document.querySelectorAll('.quiz-opt').forEach(function(btn){
+        btn.addEventListener('click', function(){
+            answers[btn.getAttribute('data-key')] = btn.getAttribute('data-value');
+            var next = parseInt(btn.closest('.quiz-step').getAttribute('data-step'),10) + 1;
+            if (next <= 3) { show(next); } else { render(); show(4); }
+        });
+    });
+
+    function score(a){
+        var s = 0;
+        if (a.occasions && a.occasions.indexOf(answers.occasion) !== -1) s += 3;
+        if (a.ambiance === answers.ambiance) s += 2;
+        if (a.groupe === answers.groupe) s += 1;
+        return s;
+    }
+
+    function render(){
+        var ranked = ACTIVITES.map(function(a){ return {a:a, s:score(a)}; })
+            .sort(function(x,y){ return y.s - x.s; });
+        var top = ranked.filter(function(r){ return r.s > 0; }).slice(0,3);
+        if (top.length === 0) top = ranked.slice(0,3);
+
+        var profile = document.querySelector('.quiz-profile');
+        profile.textContent = (EN ? 'A ' : '') + OCC[answers.occasion]
+            + (EN ? ' outing, ' : ' en mode ') + AMB[answers.ambiance].toLowerCase()
+            + (EN ? ' vibe, ' : ', ') + GRP[answers.groupe].toLowerCase() + '.';
+
+        var wrap = document.querySelector('.quiz-result-cards');
+        wrap.innerHTML = '';
+        top.forEach(function(r){
+            var a = r.a;
+            var card = document.createElement('article');
+            card.className = 'quiz-card';
+            var occTags = (a.occasions || []).map(function(o){ return '<span class="finder-tag">' + (OCC[o]||o) + '</span>'; }).join('');
+            card.innerHTML =
+                '<div class="quiz-card-top"><span class="finder-card-amb amb-' + a.ambiance + '">' + (AMB[a.ambiance]||a.ambiance) + '</span></div>'
+                + '<h3>' + a.name + '</h3>'
+                + '<p class="quiz-card-type">' + (EN ? a.type_en : a.type) + ' &middot; ' + (GRP[a.groupe]||a.groupe) + '</p>'
+                + '<div class="quiz-card-occ">' + occTags + '</div>';
+            wrap.appendChild(card);
+        });
+
+        var cta = document.querySelector('.quiz-hub-cta');
+        cta.href = BASE + HUB[answers.occasion] + '/';
+        cta.textContent = (EN ? 'See all ideas: ' : 'Voir toutes les idées : ') + OCC[answers.occasion];
+    }
+
+    document.querySelector('.quiz-restart').addEventListener('click', function(){ answers = {}; show(0); });
+
+    show(0);
+})();
+</script>
+{{ end }}

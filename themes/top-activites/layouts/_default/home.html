@@ -1,0 +1,123 @@
+{{ define "main" }}
+{{ $en := eq .Site.Language.Lang "en" }}
+
+<!-- Hero -->
+<section class="hero">
+    <div class="hero-content">
+        <span class="hero-tagline">{{ if $en }}Group outings and activities in Paris{{ else }}Sorties et activités de groupe à Paris{{ end }}</span>
+        <h1>{{ if $en }}Find the right outing for your team, your friends, your events.{{ else }}Trouvez la bonne sortie pour votre équipe, vos amis, vos événements.{{ end }}</h1>
+        <div class="hero-features">
+            <span class="hero-feature">{{ if $en }}Independent{{ else }}100% indépendant{{ end }}</span>
+            <span class="hero-feature">{{ if $en }}Argued selections{{ else }}Sélections argumentées{{ end }}</span>
+        </div>
+        <a class="btn-cta hero-cta" href="{{ "/trouver-une-activite/" | relLangURL }}">{{ if $en }}Find your activity{{ else }}Trouve ton activité{{ end }}</a>
+    </div>
+</section>
+
+<!-- Explorer par occasion / univers (hubs) -->
+<section class="section types-section">
+    <div class="container">
+        <div class="section-header">
+            <div class="section-header-text">
+                <h2>{{ if $en }}Browse by occasion{{ else }}Explorer par occasion{{ end }}</h2>
+                <p>{{ if $en }}Team building, hen and stag parties, afterwork, unusual activities and more.{{ else }}Team building, EVJF, EVG, afterwork, activités insolites et plus encore.{{ end }}</p>
+            </div>
+        </div>
+        <div class="types-grid">
+            {{ range .Site.Home.Sections }}
+            {{ if and (ne .Section "blog") (ne .Section "en") (ne .Section "actualites") }}
+            <a href="{{ .RelPermalink }}" class="type-card">
+                <span class="type-icon">{{ partial "hub-icon" .Section }}</span>
+                <h4>{{ .Title }}</h4>
+                <span>{{ with .Params.description }}{{ . }}{{ end }}</span>
+            </a>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- Carte de France -->
+<section class="section villes-section">
+    <div class="container">
+        <div class="section-header">
+            <div class="section-header-text">
+                <h2>{{ if $en }}Coming across France{{ else }}Bientôt dans toute la France{{ end }}</h2>
+                <p>{{ if $en }}Paris to start with, more cities very soon.{{ else }}Paris pour commencer, d'autres villes très vite.{{ end }}</p>
+            </div>
+        </div>
+        {{ partial "carte-france.html" . }}
+    </div>
+</section>
+
+<!-- A la une (actu, push auto) -->
+{{ with site.GetPage "/actualites" }}
+{{ $items := .RegularPagesRecursive.ByDate.Reverse }}
+{{ if $items }}
+<section class="section actu-home" style="background-color: var(--background-alt);">
+    <div class="container">
+        <div class="section-header">
+            <div class="section-header-text">
+                <h2>{{ if $en }}Latest news{{ else }}À la une{{ end }}</h2>
+                <p>{{ if $en }}The freshest outings in Paris{{ else }}L'actu des sorties à Paris, mise à jour en continu{{ end }}</p>
+            </div>
+            <a href="{{ .RelPermalink }}" class="section-link">{{ if $en }}All news{{ else }}Toute l'actu{{ end }} &rarr;</a>
+        </div>
+        <div class="actu-home-grid">
+            {{ $featured := index $items 0 }}
+            <a class="actu-featured" href="{{ $featured.RelPermalink }}">
+                {{ with $featured.Params.categories }}<span class="actu-badge">{{ index . 0 }}</span>{{ end }}
+                <h3>{{ $featured.Title }}</h3>
+                <p>{{ $featured.Description }}</p>
+                <span class="actu-date">{{ time.Format "2 January 2006" $featured.Date }}</span>
+            </a>
+            <div class="actu-side">
+                {{ range first 4 (after 1 $items) }}
+                <a class="actu-item" href="{{ .RelPermalink }}">
+                    {{ with .Params.categories }}<span class="actu-badge">{{ index . 0 }}</span>{{ end }}
+                    <h4>{{ .Title }}</h4>
+                    <span class="actu-date">{{ time.Format "2 January 2006" .Date }}</span>
+                </a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+
+<!-- Média indépendant -->
+<section class="why-section">
+    <div class="container">
+        <div class="why-grid">
+            <div class="why-text">
+                <span class="cta-eyebrow">{{ if $en }}Independent media{{ else }}Média indépendant{{ end }}</span>
+                <h2>{{ if $en }}Neutral, argued, useful.{{ else }}Neutre, argumenté, utile.{{ end }}</h2>
+                <p>{{ if $en }}No sponsored content, no commercial affiliation. Selections are made on the merit of venues and activities, citing several options so you can decide.{{ else }}Aucun contenu sponsorisé, aucune affiliation commerciale. Les sélections sont faites sur le mérite des lieux et des activités, en citant plusieurs options pour vous aider à choisir.{{ end }}</p>
+                <a href="{{ "/a-propos/" | relURL }}" class="btn-primary-green">{{ if $en }}Learn more{{ else }}En savoir plus{{ end }} &rarr;</a>
+            </div>
+            <div class="why-features">
+                <div class="why-feature">
+                    <div>
+                        <h4>{{ if $en }}Argued selections{{ else }}Sélections argumentées{{ end }}</h4>
+                        <p>{{ if $en }}Rankings, comparisons and practical guides for each occasion.{{ else }}Classements, comparatifs et guides pratiques pour chaque occasion.{{ end }}</p>
+                    </div>
+                </div>
+                <div class="why-feature">
+                    <div>
+                        <h4>{{ if $en }}Kept up to date{{ else }}Tenu à jour{{ end }}</h4>
+                        <p>{{ if $en }}Content is revised so it stays current all year round.{{ else }}Les contenus sont revus pour rester d'actualité toute l'année.{{ end }}</p>
+                    </div>
+                </div>
+                <div class="why-feature">
+                    <div>
+                        <h4>{{ if $en }}Paris &amp; Île-de-France{{ else }}Paris &amp; Île-de-France{{ end }}</h4>
+                        <p>{{ if $en }}A local scope, from group outings to corporate events.{{ else }}Un périmètre local, de la sortie entre amis à l'événement d'entreprise.{{ end }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ end }}

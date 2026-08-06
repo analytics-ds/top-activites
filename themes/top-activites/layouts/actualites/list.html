@@ -1,0 +1,53 @@
+{{ define "main" }}
+{{ $en := eq .Site.Language.Lang "en" }}
+
+<section class="finder-hero">
+    <div class="container container-narrow">
+        <h1>{{ .Title }}</h1>
+        {{ with .Description }}<p class="finder-hero-desc">{{ . }}</p>{{ end }}
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        {{ with .Sections }}
+        <div class="section-header">
+            <div class="section-header-text">
+                <h2>{{ if $en }}Sections{{ else }}Les rubriques{{ end }}</h2>
+            </div>
+        </div>
+        <div class="types-grid">
+            {{ range . }}
+            <a href="{{ .RelPermalink }}" class="type-card">
+                <h4>{{ .Title }}</h4>
+                <span>{{ with .Params.description }}{{ . }}{{ end }}</span>
+            </a>
+            {{ end }}
+        </div>
+        {{ end }}
+
+        {{ $articles := .RegularPagesRecursive }}
+        {{ if $articles }}
+        <div class="section-header" style="margin-top: var(--space-lg);">
+            <div class="section-header-text">
+                <h2>{{ if $en }}Latest{{ else }}Les derniers articles{{ end }}</h2>
+            </div>
+        </div>
+        <div class="articles-list">
+            {{ range first 10 ($articles.ByDate.Reverse) }}
+            <article class="article-card-horizontal">
+                <div class="article-body">
+                    <div class="article-meta">
+                        {{ with .Params.categories }}<span class="article-category">{{ index . 0 }}</span>{{ end }}
+                        <time>{{ time.Format "2 January 2006" .Date }}</time>
+                    </div>
+                    <h3><a href="{{ .RelPermalink }}">{{ partial "resolveyear" .Title }}</a></h3>
+                    <p>{{ .Description }}</p>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}

@@ -1,0 +1,143 @@
+baseURL = "https://top-activites.fr/"
+removePathAccents = true
+title = "Top Activités"
+theme = "top-activites"
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+enableEmoji = false
+buildFuture = false
+
+[languages]
+  [languages.fr]
+    languageCode = "fr-FR"
+    languageName = "Français"
+    weight = 1
+    title = "Top Activités"
+    [languages.fr.params]
+      description = "Découvrez les meilleures sorties et activités de groupe à Paris. Team building, séminaire, EVG, EVJF, bars ludiques et activités insolites."
+
+    [[languages.fr.menus.main]]
+      identifier = "team-building"
+      name = "Team building"
+      url = "/team-building-seminaires/"
+      weight = 1
+    [[languages.fr.menus.main]]
+      identifier = "evjf"
+      name = "EVJF"
+      url = "/evjf/"
+      weight = 2
+    [[languages.fr.menus.main]]
+      identifier = "evg"
+      name = "EVG"
+      url = "/evg/"
+      weight = 3
+    [[languages.fr.menus.main]]
+      identifier = "afterwork"
+      name = "Afterwork"
+      url = "/afterwork/"
+      weight = 4
+    [[languages.fr.menus.main]]
+      identifier = "bars-ludiques"
+      name = "Bars & jeux"
+      url = "/bars-lieux-ludiques/"
+      weight = 5
+    [[languages.fr.menus.main]]
+      identifier = "insolites"
+      name = "Insolite"
+      url = "/activites-insolites/"
+      weight = 6
+    [[languages.fr.menus.main]]
+      identifier = "actu"
+      name = "Actu"
+      url = "/actualites/"
+      weight = 7
+
+  [languages.en]
+    languageCode = "en-US"
+    languageName = "English"
+    weight = 2
+    title = "Top Activities"
+    contentDir = "content/en"
+    [languages.en.params]
+      description = "Discover the best group outings and activities in Paris. Team building, seminars, bachelor party, bachelorette party, fun bars and unusual activities."
+
+    [[languages.en.menus.main]]
+      identifier = "team-building"
+      name = "Team building & seminars"
+      url = "/en/team-building-seminaires/"
+      weight = 1
+    [[languages.en.menus.main]]
+      identifier = "bachelorette"
+      name = "Bachelorette"
+      url = "/en/evjf/"
+      weight = 2
+    [[languages.en.menus.main]]
+      identifier = "bachelor"
+      name = "Bachelor"
+      url = "/en/evg/"
+      weight = 3
+    [[languages.en.menus.main]]
+      identifier = "afterwork"
+      name = "Afterwork"
+      url = "/en/afterwork/"
+      weight = 4
+    [[languages.en.menus.main]]
+      identifier = "fun-bars"
+      name = "Fun bars & venues"
+      url = "/en/bars-lieux-ludiques/"
+      weight = 5
+    [[languages.en.menus.main]]
+      identifier = "unusual"
+      name = "Unusual activities"
+      url = "/en/activites-insolites/"
+      weight = 6
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"
+  ville = "villes"
+
+[params]
+  theme_name = "top-activites"
+  author_name = "La rédaction"
+  author_url = ""
+  author_job_title = "Experts en sorties et activités de groupe à Paris"
+  color_primary = "#20A4F3"
+  color_primary_light = "#e8f5fe"
+  color_background = "#FFFFFF"
+  color_background_alt = "#F5F5F5"
+  color_accent = "#16202b"
+  color_cta = "#FF3366"
+  color_text = "#16202b"
+  color_mint = "#DDFBD2"
+  color_lime = "#C2E812"
+  color_orange = "#FCAB64"
+  font_heading = "Inter"
+  font_body = "Inter"
+  font_ui = "Inter"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+  page = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# Desactiver la minification XML pour avoir un sitemap lisible
+[minify]
+  disableXML = true

@@ -1,0 +1,74 @@
+{{ define "main" }}
+{{ $en := eq .Site.Language.Lang "en" }}
+
+<section class="author-hero">
+    <div class="container container-narrow">
+        <div class="author-head">
+            {{ if .Params.photo }}
+            <span class="author-avatar author-avatar-photo"><img src="{{ .Params.photo | relURL }}" alt="{{ .Title }}" style="object-position: {{ .Params.photoPos | default "center top" }};" loading="lazy" width="88" height="88"></span>
+            {{ else }}
+            <span class="author-avatar">{{ with .Params.avatarInitials }}{{ . }}{{ else }}{{ substr .Title 0 1 }}{{ end }}</span>
+            {{ end }}
+            <div>
+                <h1>{{ .Title }}</h1>
+                {{ with .Params.role }}<p class="author-role">{{ . }}</p>{{ end }}
+            </div>
+        </div>
+        {{ with .Params.bio }}<p class="author-bio">{{ . }}</p>{{ end }}
+        {{ with .Params.expertise }}
+        <div class="author-expertise">
+            {{ range . }}<span class="finder-tag">{{ . }}</span>{{ end }}
+        </div>
+        {{ end }}
+        {{ if or .Params.funfact .Params.likes }}
+        <div class="author-perso">
+            {{ with .Params.funfact }}
+            <blockquote class="author-perso-quote">{{ if $en }}“{{ . }}”{{ else }}«&nbsp;{{ . }}&nbsp;»{{ end }}</blockquote>
+            {{ end }}
+            {{ with .Params.likes }}
+            <div class="author-perso-item">
+                <span class="author-perso-label">{{ if $en }}Where to find them{{ else }}{{ if eq $.Params.gender "f" }}On la croise à{{ else }}On le croise à{{ end }}{{ end }}</span>
+                <ul class="author-likes-list">{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+            </div>
+            {{ end }}
+        </div>
+        {{ end }}
+    </div>
+</section>
+
+<section class="list-content">
+    <div class="container">
+        <h2 class="author-articles-title">{{ if $en }}Articles by {{ else }}Articles de {{ end }}{{ .Title }}</h2>
+        <div class="articles-list">
+            {{ range .Pages.ByDate.Reverse }}
+            <article class="article-card-horizontal">
+                <div class="article-body">
+                    <div class="article-meta">
+                        {{ with .Params.categories }}<span class="article-category">{{ index . 0 }}</span>{{ end }}
+                        <time>{{ time.Format "2 January 2006" .Date }}</time>
+                    </div>
+                    <h3><a href="{{ .RelPermalink }}">{{ partial "resolveyear" .Title }}</a></h3>
+                    <p>{{ .Description }}</p>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "{{ .Title }}",
+    {{ with .Params.role }}"jobTitle": "{{ . }}",{{ end }}
+    {{ with .Params.bio }}"description": "{{ . | plainify }}",{{ end }}
+    "url": "{{ .Permalink }}",
+    {{ with .Params.photo }}"image": "{{ . | absURL }}",{{ end }}
+    "worksFor": { "@type": "Organization", "name": "{{ .Site.Title }}", "url": "{{ .Site.BaseURL }}" }
+    {{- $sa := slice }}{{ with .Params.linkedin }}{{ $sa = $sa | append . }}{{ end }}{{ with .Params.instagram }}{{ $sa = $sa | append . }}{{ end }}{{ with .Params.x }}{{ $sa = $sa | append . }}{{ end }}
+    {{- if $sa }},"sameAs": [{{ range $i, $u := $sa }}{{ if $i }},{{ end }}"{{ $u }}"{{ end }}]{{ end }}
+    {{- with .Params.expertise }},"knowsAbout": [{{ range $i, $e := . }}{{ if $i }},{{ end }}"{{ $e }}"{{ end }}]{{ end }}
+}
+</script>
+{{ end }}

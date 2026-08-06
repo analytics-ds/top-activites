@@ -1,0 +1,82 @@
+<footer class="site-footer">
+    <div class="footer-container">
+        <div class="footer-grid">
+            <div class="footer-col">
+                <div class="footer-logo">
+                    <img src="{{ "/images/logo-centre.png" | relURL }}" alt="{{ .Site.Title }}" width="96" height="96">
+                </div>
+                <p>{{ .Site.Params.description }}</p>
+                <p style="margin-top: 1rem;">
+                    &#9993; <a href="mailto:contact@top-activites.fr">contact@top-activites.fr</a>
+                </p>
+            </div>
+
+            {{ if eq .Site.Language.Lang "en" }}
+
+            <div class="footer-col">
+                <h4>Occasions</h4>
+                <ul>
+                    <li><a href="/en/team-building-seminaires/">Team building &amp; seminars</a></li>
+                    <li><a href="/en/evjf/">Hen party (EVJF)</a></li>
+                    <li><a href="/en/evg/">Stag party (EVG)</a></li>
+                    <li><a href="/en/afterwork/">Afterwork</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Activities</h4>
+                <ul>
+                    <li><a href="/en/bars-lieux-ludiques/">Bars &amp; leisure venues</a></li>
+                    <li><a href="/en/activites-insolites/">Unusual activities</a></li>
+                    <li><a href="/en/blog/">Blog</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Information</h4>
+                <ul>
+                    <li><a href="/en/about/">About</a></li>
+                    <li><a href="/en/contact/">Contact</a></li>
+                    <li><a href="/en/sitemap/">Site map</a></li>
+                </ul>
+            </div>
+
+            {{ else }}
+
+            <div class="footer-col">
+                <h4>Occasions</h4>
+                <ul>
+                    <li><a href="/team-building-seminaires/">Team building &amp; séminaires</a></li>
+                    <li><a href="/evjf/">EVJF</a></li>
+                    <li><a href="/evg/">EVG</a></li>
+                    <li><a href="/afterwork/">Afterwork</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Activités</h4>
+                <ul>
+                    <li><a href="/bars-lieux-ludiques/">Bars &amp; lieux ludiques</a></li>
+                    <li><a href="/activites-insolites/">Activités insolites</a></li>
+                    <li><a href="/blog/">Blog</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Informations</h4>
+                <ul>
+                    <li><a href="/a-propos/">À propos</a></li>
+                    <li><a href="/contact/">Contact</a></li>
+                    <li><a href="/mentions-legales/">Mentions légales</a></li>
+                    <li><a href="/plan-du-site/">Plan du site</a></li>
+                </ul>
+            </div>
+
+            {{ end }}
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; {{ now.Year }} {{ .Site.Title }}. {{ if eq .Site.Language.Lang "en" }}All rights reserved.{{ else }}Tous droits réservés.{{ end }}</p>
+            <div class="footer-social">
+                <a href="#" aria-label="Instagram">i</a>
+                <a href="#" aria-label="TikTok">t</a>
+                <a href="#" aria-label="LinkedIn">in</a>
+            </div>
+        </div>
+    </div>
+</footer>

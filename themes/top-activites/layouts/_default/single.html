@@ -1,0 +1,165 @@
+{{ define "main" }}
+
+{{ $url := .Permalink }}
+{{ $title := .Title }}
+{{ $authorInitials := "" }}
+{{ with .Params.author }}
+  {{ $parts := split . " " }}
+  {{ range $parts }}
+    {{ $authorInitials = printf "%s%s" $authorInitials (substr . 0 1) }}
+  {{ end }}
+{{ end }}
+{{ $authorPhoto := "" }}{{ $authorRole := "" }}{{ $authorURL := "" }}
+{{ $an := .Params.author }}
+{{ with site.GetPage "/authors" }}
+  {{ range .Pages }}
+    {{ if eq .Title $an }}
+      {{ $authorPhoto = .Params.photo }}{{ $authorRole = .Params.role }}{{ $authorURL = .RelPermalink }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<article class="single-article">
+    <header class="article-hero">
+        <div class="container">
+            <div class="article-hero-grid{{ if and (not .Params.image) (not $authorPhoto) }} no-image{{ end }}">
+                <div class="article-hero-content">
+                    {{ with .Params.categories }}
+                    <a href="{{ "/categories/" | relURL }}{{ index . 0 | urlize }}/" class="article-hero-category">{{ index . 0 }}</a>
+                    {{ end }}
+                    <h1>{{ partial "resolveyear" .Title }}</h1>
+                    {{ with .Description }}
+                    <p class="article-hero-description">{{ . }}</p>
+                    {{ end }}
+                    <div class="article-hero-meta">
+                        {{ with .Params.author }}
+                        <div class="article-hero-author">
+                            <span class="article-hero-avatar{{ if $authorPhoto }} has-photo{{ end }}">{{ if $authorPhoto }}<img src="{{ $authorPhoto | relURL }}" alt="{{ . }}">{{ else }}{{ $authorInitials }}{{ end }}</span>
+                            <span class="article-hero-author-text">
+                                <span class="article-hero-author-label">Par</span>
+                                <strong><a href="{{ with $authorURL }}{{ . }}{{ else }}{{ "/authors/" | relLangURL }}{{ $.Params.author | urlize }}/{{ end }}">{{ . }}</a></strong>
+                            </span>
+                        </div>
+                        {{ end }}
+                        <span class="article-hero-sep"></span>
+                        <span class="article-hero-date">{{ if eq .Site.Language.Lang "en" }}Updated on{{ else }}Mis à jour le{{ end }} {{ time.Format "2 January 2006" (default .Date .Lastmod) }}</span>
+                        <span class="article-hero-sep"></span>
+                        <span class="article-hero-reading">Lecture&nbsp;: {{ .ReadingTime }}&nbsp;min</span>
+                        <span class="article-hero-sep"></span>
+                        <span class="article-hero-verified">{{ partial "icon" "check" }} Données vérifiées</span>
+                    </div>
+                </div>
+                {{ if .Params.image }}
+                <div class="article-hero-image">
+                    <img src="{{ .Params.image }}" alt="{{ with .Params.imageAlt }}{{ . }}{{ else }}{{ .Title }}{{ end }}" loading="eager">
+                </div>
+                {{ else if $authorPhoto }}
+                <div class="article-hero-author-card">
+                    <span class="hero-author-photo"><img src="{{ $authorPhoto | relURL }}" alt="{{ .Params.author }}"></span>
+                    <span class="hero-author-by">{{ if eq .Site.Language.Lang "en" }}Written by{{ else }}Écrit par{{ end }}</span>
+                    <strong>{{ .Params.author }}</strong>
+                    {{ with $authorRole }}<span class="hero-author-role">{{ . }}</span>{{ end }}
+                </div>
+                {{ end }}
+            </div>
+            <div class="article-hero-share">
+                <span class="article-hero-share-label">Partager&nbsp;:</span>
+                <a class="share-btn share-linkedin" target="_blank" rel="noopener" href="https://www.linkedin.com/sharing/share-offsite/?url={{ $url }}" aria-label="Partager sur LinkedIn">
+                    {{ partial "icon" "linkedin" }}
+                    <span class="share-btn-label">LinkedIn</span>
+                </a>
+                <a class="share-btn share-x" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?url={{ $url }}&text={{ $title }}" aria-label="Partager sur X">
+                    {{ partial "icon" "x-twitter" }}
+                    <span class="share-btn-label">X</span>
+                </a>
+                <a class="share-btn share-fb" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u={{ $url }}" aria-label="Partager sur Facebook">
+                    {{ partial "icon" "facebook" }}
+                    <span class="share-btn-label">Facebook</span>
+                </a>
+                <a class="share-btn share-reddit" target="_blank" rel="noopener" href="https://reddit.com/submit?url={{ $url }}&title={{ $title }}" aria-label="Partager sur Reddit">
+                    {{ partial "icon" "reddit" }}
+                    <span class="share-btn-label">Reddit</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <div class="article-body">
+        <div class="container article-body-grid">
+            <aside class="article-toc">
+                <div class="article-toc-inner">
+                    <p class="article-toc-title">Sommaire</p>
+                    <nav class="article-toc-nav">
+                        {{ .TableOfContents }}
+                    </nav>
+                </div>
+            </aside>
+
+            <div class="article-content">
+                {{ with .Params.tldr }}
+                <aside class="article-tldr">
+                    <h2 class="article-tldr-title">En bref</h2>
+                    {{ with $.Params.tldrIntro }}
+                    <p>{{ . }}</p>
+                    {{ end }}
+                    <ul>
+                        {{ range . }}
+                        <li>{{ . | markdownify }}</li>
+                        {{ end }}
+                    </ul>
+                </aside>
+                {{ end }}
+
+                {{ .Content }}
+
+                <div class="article-tags">
+                    {{ range .Params.tags }}
+                    <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="article-footer">
+        <div class="container container-narrow">
+            <nav class="article-nav">
+                {{ with .PrevInSection }}
+                <a href="{{ .RelPermalink }}" class="nav-prev">
+                    <span class="nav-label">Article precedent</span>
+                    <span class="nav-title">{{ .Title }}</span>
+                </a>
+                {{ end }}
+                {{ with .NextInSection }}
+                <a href="{{ .RelPermalink }}" class="nav-next">
+                    <span class="nav-label">Article suivant</span>
+                    <span class="nav-title">{{ .Title }}</span>
+                </a>
+                {{ end }}
+            </nav>
+        </div>
+    </footer>
+</article>
+
+<script>
+(function(){
+  var links = document.querySelectorAll('.article-toc-nav a');
+  var sections = Array.from(links).map(function(a){
+    var id = a.getAttribute('href').replace('#','');
+    return {link: a, el: document.getElementById(id)};
+  }).filter(function(s){ return s.el; });
+  function onScroll(){
+    var y = window.scrollY + 120;
+    var current = null;
+    sections.forEach(function(s){
+      if (s.el.offsetTop <= y) current = s;
+    });
+    links.forEach(function(a){ a.classList.remove('is-active'); });
+    if (current) current.link.classList.add('is-active');
+  }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  onScroll();
+})();
+</script>
+
+{{ end }}

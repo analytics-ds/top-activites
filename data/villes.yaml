@@ -1,0 +1,34 @@
+# Villes de la carte de France interactive.
+# cx/cy = position sur le SVG (viewBox 0 0 364 350, cale sur le PNG static/images/carte-france.png).
+# active = ville ouverte (le reste = "a venir"). Le compteur est calcule automatiquement (taxonomie "villes").
+# Pour repositionner un point, ajuster cx (0=gauche..364=droite) et cy (0=haut..350=bas).
+- name: "Paris"
+  slug: "paris"
+  cx: 189
+  cy: 105
+  active: true
+- name: "Lille"
+  slug: "lille"
+  cx: 205
+  cy: 42
+  active: false
+- name: "Nantes"
+  slug: "nantes"
+  cx: 98
+  cy: 158
+  active: false
+- name: "Lyon"
+  slug: "lyon"
+  cx: 242
+  cy: 195
+  active: false
+- name: "Toulouse"
+  slug: "toulouse"
+  cx: 156
+  cy: 282
+  active: false
+- name: "Marseille"
+  slug: "marseille"
+  cx: 262
+  cy: 288
+  active: false

@@ -1,0 +1,71 @@
+{{ define "main" }}
+
+{{- /* Plan du site bilingue : affiche uniquement les pages de la langue courante.
+       Hugo agrege les taxonomies cross-language, on filtre donc via .Lang. */ -}}
+{{- $currentLang := .Lang -}}
+{{- $isEn := eq $currentLang "en" -}}
+
+<section class="sitemap-page">
+    <header class="list-header">
+        <div class="container">
+            <h1>{{ if $isEn }}Site map{{ else }}Plan du site{{ end }}</h1>
+            <p class="list-description">
+                {{ if $isEn }}All pages of {{ else }}Toutes les pages de {{ end }}{{ .Site.Title }}
+            </p>
+        </div>
+    </header>
+
+    <div class="sitemap-content">
+        <div class="container container-narrow">
+
+            <div class="sitemap-section">
+                <h2>{{ if $isEn }}Main pages{{ else }}Pages principales{{ end }}</h2>
+                <ul class="sitemap-list">
+                    <li>
+                        <a href="{{ "/" | relLangURL }}">{{ if $isEn }}Home{{ else }}Accueil{{ end }}</a>
+                    </li>
+                    {{ range .Site.Menus.main }}
+                    <li>
+                        <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+
+            {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
+                {{- /* Filtre par prefix d'URL : /en/ pour l'anglais, racine pour le francais */ -}}
+                {{- $pagesInLang := slice -}}
+                {{- range $taxonomy.Pages.ByDate.Reverse -}}
+                    {{- $hasEnPrefix := hasPrefix .RelPermalink "/en/" -}}
+                    {{- if $isEn -}}
+                        {{- if $hasEnPrefix -}}{{- $pagesInLang = $pagesInLang | append . -}}{{- end -}}
+                    {{- else -}}
+                        {{- if not $hasEnPrefix -}}{{- $pagesInLang = $pagesInLang | append . -}}{{- end -}}
+                    {{- end -}}
+                {{- end -}}
+                {{- if $pagesInLang }}
+            <div class="sitemap-section">
+                <h2>{{ $key | humanize | title }}</h2>
+                <ul class="sitemap-list">
+                    {{- range $pagesInLang }}
+                    <li>
+                        <a href="{{ .RelPermalink }}">{{ partial "resolveyear" .Title }}</a>
+                        <span class="sitemap-date">
+                            {{- with .Params.lastmod }}
+                                {{ (time .).Format "02/01/2006" }}
+                            {{- else }}
+                                {{ .Date.Format "02/01/2006" }}
+                            {{- end }}
+                        </span>
+                    </li>
+                    {{- end }}
+                </ul>
+            </div>
+                {{- end }}
+            {{ end }}
+
+        </div>
+    </div>
+</section>
+
+{{ end }}

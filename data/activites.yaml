@@ -1,0 +1,69 @@
+# Base d'activites qui alimente le finder et le quiz.
+# occasions (slugs) : team-building, evg, evjf, afterwork, anniversaire, entre-amis
+# ambiance : sportif | convivial | insolite | festif | reflexion
+# budget : 1 (eco) | 2 (moyen) | 3 (premium)   groupe : petit | moyen | grand
+# ville : paris (pour l'instant)
+- name: "Bomb Squad"
+  ville: "paris"
+  type: "Action game"
+  type_en: "Action game"
+  ambiance: "sportif"
+  budget: 2
+  groupe: "grand"
+  occasions: ["team-building", "evg", "anniversaire", "entre-amis"]
+- name: "PAN Bar"
+  ville: "paris"
+  type: "Bar de loisir"
+  type_en: "Leisure bar"
+  ambiance: "convivial"
+  budget: 2
+  groupe: "grand"
+  occasions: ["team-building", "evg", "evjf", "afterwork", "anniversaire", "entre-amis"]
+- name: "The Game"
+  ville: "paris"
+  type: "Escape game"
+  type_en: "Escape game"
+  ambiance: "reflexion"
+  budget: 2
+  groupe: "petit"
+  occasions: ["team-building", "entre-amis", "evg"]
+- name: "BAM Karaoke Box"
+  ville: "paris"
+  type: "Karaoke"
+  type_en: "Karaoke"
+  ambiance: "festif"
+  budget: 2
+  groupe: "moyen"
+  occasions: ["evjf", "anniversaire", "afterwork", "entre-amis"]
+- name: "Le 3bis"
+  ville: "paris"
+  type: "Bar a jeux"
+  type_en: "Games bar"
+  ambiance: "convivial"
+  budget: 2
+  groupe: "moyen"
+  occasions: ["afterwork", "entre-amis", "anniversaire"]
+- name: "Lancer de hache"
+  ville: "paris"
+  type: "Sensations"
+  type_en: "Thrills"
+  ambiance: "sportif"
+  budget: 2
+  groupe: "moyen"
+  occasions: ["team-building", "evg", "entre-amis"]
+- name: "Atelier cuisine en equipe"
+  ville: "paris"
+  type: "Atelier"
+  type_en: "Workshop"
+  ambiance: "convivial"
+  budget: 3
+  groupe: "moyen"
+  occasions: ["team-building", "evjf", "entre-amis"]
+- name: "Chasse au tresor urbaine"
+  ville: "paris"
+  type: "Jeu de piste"
+  type_en: "Treasure hunt"
+  ambiance: "insolite"
+  budget: 1
+  groupe: "grand"
+  occasions: ["team-building", "evg", "evjf", "entre-amis"]

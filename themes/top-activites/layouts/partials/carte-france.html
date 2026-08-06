@@ -1,0 +1,25 @@
+{{- $en := eq .Site.Language.Lang "en" -}}
+<div class="france-map-wrap">
+  <svg class="france-map" viewBox="0 0 364 350" role="img" aria-label="{{ if $en }}Map of France cities{{ else }}Carte de France des villes{{ end }}">
+    <image href="{{ "/images/carte-france.png" | relURL }}" x="0" y="0" width="364" height="350"/>
+    {{ range site.Data.villes }}
+      {{- $count := 0 -}}
+      {{- with (index site.Taxonomies.villes .slug) }}{{ $count = len . }}{{ end -}}
+      {{- $href := printf "/villes/%s/" .slug | relLangURL -}}
+      {{- if .active -}}
+      <a class="ville is-active" href="{{ $href }}" aria-label="{{ .name }}">
+        <circle class="ville-halo" cx="{{ .cx }}" cy="{{ .cy }}" r="16"/>
+        <circle class="ville-dot" cx="{{ .cx }}" cy="{{ .cy }}" r="7"/>
+        <text class="ville-name" x="{{ .cx }}" y="{{ sub .cy 16 }}" text-anchor="middle">{{ .name }}</text>
+        <text class="ville-count" x="{{ .cx }}" y="{{ add .cy 26 }}" text-anchor="middle">{{ $count }} {{ if $en }}spot{{ if ne $count 1 }}s{{ end }}{{ else }}lieu{{ if ne $count 1 }}x{{ end }}{{ end }}</text>
+      </a>
+      {{- else -}}
+      <g class="ville is-soon" aria-label="{{ .name }}">
+        <circle class="ville-dot" cx="{{ .cx }}" cy="{{ .cy }}" r="6"/>
+        <text class="ville-name" x="{{ .cx }}" y="{{ sub .cy 15 }}" text-anchor="middle">{{ .name }}</text>
+        <text class="ville-count" x="{{ .cx }}" y="{{ add .cy 25 }}" text-anchor="middle">{{ if $en }}soon{{ else }}bientôt{{ end }}</text>
+      </g>
+      {{- end -}}
+    {{ end }}
+  </svg>
+</div>

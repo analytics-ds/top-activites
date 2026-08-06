@@ -1,0 +1,10 @@
+# {{ .Site.Title }}
+# {{ .Site.BaseURL }}
+
+User-agent: *
+Allow: /
+
+# Pas d'indexation pour l'espace admin
+Disallow: /admin/
+
+Sitemap: {{ "sitemap.xml" | absURL }}

@@ -1,0 +1,12 @@
+public/
+resources/
+.hugo_build.lock
+.DS_Store
+node_modules/
+# Suivi interne du dev (neutralite : ne jamais publier sur le repo public)
+ETAT-DEV.md
+
+# Mecanique interne (jamais publiee : neutralite du media)
+CLAUDE.md
+MEMORY.md
+.claude/

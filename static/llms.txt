@@ -1,0 +1,66 @@
+# Top Activités
+
+> Découvrez les meilleures sorties et activités de groupe à Paris. Team building, séminaires, EVJF, EVG, bars ludiques, activités insolites et bien plus.
+
+## À propos
+
+Top Activités est un média éditorial indépendant consacré aux sorties et activités de groupe à Paris. Aucun contenu sponsorisé, aucune affiliation commerciale. Les sélections sont argumentées sur le mérite des lieux et activités, citant clients et concurrents pour rester neutre. Le site couvre les occasions professionnelles (team building, séminaires), les événements privés (EVJF, EVG, anniversaires) et les sorties entre amis.
+
+## Hubs principaux (FR)
+
+- Team building & séminaires : https://analytics-ds.github.io/top-activites/team-building-seminaires/
+- EVJF : https://analytics-ds.github.io/top-activites/evjf/
+- EVG : https://analytics-ds.github.io/top-activites/evg/
+- Afterwork : https://analytics-ds.github.io/top-activites/afterwork/
+- Bars & lieux ludiques : https://analytics-ds.github.io/top-activites/bars-lieux-ludiques/
+- Activités insolites : https://analytics-ds.github.io/top-activites/activites-insolites/
+
+## Articles de référence (FR)
+
+- Team building à Paris : les meilleures activités de groupe : https://analytics-ds.github.io/top-activites/blog/team-building-12-activites-originales/
+
+## Auteurs (FR)
+
+Média signé par des auteurs identifiés, spécialistes de leur domaine (E-E-A-T).
+
+- Sarah Nguyen, spécialiste team building & événements d'entreprise : https://analytics-ds.github.io/top-activites/authors/sarah-nguyen/
+- Thomas Bérard, chroniqueur bars, afterwork & vie nocturne : https://analytics-ds.github.io/top-activites/authors/thomas-berard/
+- Ursule Degarde, journaliste sorties insolites & anniversaires : https://analytics-ds.github.io/top-activites/authors/ursule-degarde/
+
+## Actualités (FR)
+
+- Actualités & agenda des sorties à Paris : https://analytics-ds.github.io/top-activites/actualites/
+- Actu chaude (ouvertures, nouveautés, tendances) : https://analytics-ds.github.io/top-activites/actualites/actu-chaude/
+- Agenda (événements, saison, week-end) : https://analytics-ds.github.io/top-activites/actualites/agenda/
+
+## Pages utiles (FR)
+
+- À propos (média indépendant, méthode éditoriale) : https://analytics-ds.github.io/top-activites/a-propos/
+- Trouver une activité (sélecteur par filtres) : https://analytics-ds.github.io/top-activites/trouver-une-activite/
+- Quiz : quelle activité de groupe est faite pour vous : https://analytics-ds.github.io/top-activites/quiz/
+
+## Hubs principaux (EN)
+
+- Team building & seminars : https://analytics-ds.github.io/top-activites/en/team-building-seminaires/
+- Bachelorette : https://analytics-ds.github.io/top-activites/en/evjf/
+- Bachelor : https://analytics-ds.github.io/top-activites/en/evg/
+- Afterwork : https://analytics-ds.github.io/top-activites/en/afterwork/
+- Fun bars & venues : https://analytics-ds.github.io/top-activites/en/bars-lieux-ludiques/
+- Unusual activities : https://analytics-ds.github.io/top-activites/en/activites-insolites/
+
+## Articles de référence (EN)
+
+- Team building in Paris: the best group activities : https://analytics-ds.github.io/top-activites/en/blog/team-building-12-activites-originales/
+
+## Informations techniques
+
+- Générateur : Hugo (site statique)
+- Multilingue : français (défaut) + anglais
+- Sitemap : https://analytics-ds.github.io/top-activites/sitemap.xml
+- Schema.org : Organization, BlogPosting, BreadcrumbList, WebSite, FAQPage, ItemList
+- Indépendance : aucun contenu sponsorisé, aucune affiliation commerciale
+
+## Contact
+
+- URL : https://analytics-ds.github.io/top-activites/
+- Email : contact@top-activites.fr

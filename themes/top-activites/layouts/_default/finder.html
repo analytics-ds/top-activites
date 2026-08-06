@@ -1,0 +1,102 @@
+{{ define "main" }}
+{{ $en := eq .Site.Language.Lang "en" }}
+{{ $occL := cond $en (dict "team-building" "Team building" "evg" "Stag party" "evjf" "Hen party" "afterwork" "Afterwork" "anniversaire" "Birthday" "entre-amis" "With friends") (dict "team-building" "Team building" "evg" "EVG" "evjf" "EVJF" "afterwork" "Afterwork" "anniversaire" "Anniversaire" "entre-amis" "Entre amis") }}
+{{ $ambL := cond $en (dict "sportif" "Sporty" "convivial" "Convivial" "insolite" "Unusual" "festif" "Festive" "reflexion" "Puzzle") (dict "sportif" "Sportif" "convivial" "Convivial" "insolite" "Insolite" "festif" "Festif" "reflexion" "Réflexion") }}
+{{ $grpL := cond $en (dict "petit" "Small group" "moyen" "Medium group" "grand" "Large group") (dict "petit" "Petit groupe" "moyen" "Groupe moyen" "grand" "Grand groupe") }}
+{{ $budL := dict "1" "€" "2" "€€" "3" "€€€" }}
+
+<section class="finder-hero">
+    <div class="container container-narrow">
+        <h1>{{ .Title }}</h1>
+        {{ with .Description }}<p class="finder-hero-desc">{{ . }}</p>{{ end }}
+    </div>
+</section>
+
+<section class="finder">
+    <div class="container">
+        <div class="finder-controls" role="search">
+            <label class="finder-field">
+                <span>{{ if $en }}Occasion{{ else }}Occasion{{ end }}</span>
+                <select data-filter="occasion">
+                    <option value="">{{ if $en }}All occasions{{ else }}Toutes les occasions{{ end }}</option>
+                    {{ range $slug, $label := $occL }}<option value="{{ $slug }}">{{ $label }}</option>{{ end }}
+                </select>
+            </label>
+            <label class="finder-field">
+                <span>{{ if $en }}Vibe{{ else }}Ambiance{{ end }}</span>
+                <select data-filter="ambiance">
+                    <option value="">{{ if $en }}Any vibe{{ else }}Toutes ambiances{{ end }}</option>
+                    {{ range $slug, $label := $ambL }}<option value="{{ $slug }}">{{ $label }}</option>{{ end }}
+                </select>
+            </label>
+            <label class="finder-field">
+                <span>{{ if $en }}Group{{ else }}Groupe{{ end }}</span>
+                <select data-filter="groupe">
+                    <option value="">{{ if $en }}Any size{{ else }}Toutes tailles{{ end }}</option>
+                    {{ range $slug, $label := $grpL }}<option value="{{ $slug }}">{{ $label }}</option>{{ end }}
+                </select>
+            </label>
+            <label class="finder-field">
+                <span>{{ if $en }}Budget{{ else }}Budget{{ end }}</span>
+                <select data-filter="budget">
+                    <option value="">{{ if $en }}Any budget{{ else }}Tous budgets{{ end }}</option>
+                    <option value="1">€</option>
+                    <option value="2">€€</option>
+                    <option value="3">€€€</option>
+                </select>
+            </label>
+            <button type="button" class="finder-reset">{{ if $en }}Reset{{ else }}Réinitialiser{{ end }}</button>
+        </div>
+
+        <p class="finder-count"><span data-count>0</span> {{ if $en }}activities{{ else }}activités{{ end }}</p>
+
+        <div class="finder-grid">
+            {{ range site.Data.activites }}
+            <article class="finder-card" data-occasions="{{ delimit .occasions " " }}" data-ambiance="{{ .ambiance }}" data-budget="{{ .budget }}" data-groupe="{{ .groupe }}" data-ville="{{ .ville }}">
+                <div class="finder-card-top">
+                    <span class="finder-card-amb amb-{{ .ambiance }}">{{ index $ambL .ambiance }}</span>
+                    <span class="finder-card-budget">{{ index $budL (printf "%d" .budget) }}</span>
+                </div>
+                <h3>{{ .name }}</h3>
+                <p class="finder-card-type">{{ if $en }}{{ .type_en }}{{ else }}{{ .type }}{{ end }} · {{ index $grpL .groupe }}</p>
+                <div class="finder-card-occ">
+                    {{ range .occasions }}<span class="finder-tag">{{ index $occL . }}</span>{{ end }}
+                </div>
+            </article>
+            {{ end }}
+        </div>
+
+        <p class="finder-empty" hidden>{{ if $en }}No activity matches these filters. Try widening your search.{{ else }}Aucune activité ne correspond. Élargissez votre recherche.{{ end }}</p>
+    </div>
+</section>
+
+<script>
+(function(){
+    var selects = document.querySelectorAll('.finder-controls select');
+    var cards = Array.prototype.slice.call(document.querySelectorAll('.finder-card'));
+    var countEl = document.querySelector('[data-count]');
+    var emptyEl = document.querySelector('.finder-empty');
+    var resetBtn = document.querySelector('.finder-reset');
+
+    function apply(){
+        var f = {};
+        selects.forEach(function(s){ f[s.getAttribute('data-filter')] = s.value; });
+        var visible = 0;
+        cards.forEach(function(c){
+            var occ = c.getAttribute('data-occasions').split(' ');
+            var ok = (!f.occasion || occ.indexOf(f.occasion) !== -1)
+                && (!f.ambiance || c.getAttribute('data-ambiance') === f.ambiance)
+                && (!f.groupe || c.getAttribute('data-groupe') === f.groupe)
+                && (!f.budget || c.getAttribute('data-budget') === f.budget);
+            c.style.display = ok ? '' : 'none';
+            if (ok) visible++;
+        });
+        if (countEl) countEl.textContent = visible;
+        if (emptyEl) emptyEl.hidden = visible !== 0;
+    }
+    selects.forEach(function(s){ s.addEventListener('change', apply); });
+    if (resetBtn) resetBtn.addEventListener('click', function(){ selects.forEach(function(s){ s.value=''; }); apply(); });
+    apply();
+})();
+</script>
+{{ end }}

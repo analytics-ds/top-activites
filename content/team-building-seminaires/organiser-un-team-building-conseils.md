@@ -2,8 +2,8 @@
 title: "Organiser un team building : 10 conseils à prendre en compte en {annee}"
 seoTitle: "Organiser un team building : 10 conseils pour ne rien rater"
 description: "Les 10 points à cadrer avant de réserver un team building : objectif, budget par personne, effectif réel, accessibilité, logistique et suivi. Guide pratique."
-date: 2026-08-18
-lastmod: 2026-08-18
+date: 2026-08-17
+lastmod: 2026-08-17
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building et séminaires"]

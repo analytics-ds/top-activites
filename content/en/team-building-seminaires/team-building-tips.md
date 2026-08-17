@@ -2,8 +2,8 @@
 title: "Organising a team building: 10 things to get right in {annee}"
 seoTitle: "Organising a team building: 10 tips to get it right"
 description: "The 10 points to settle before booking a team building: objective, budget per person, real headcount, accessibility, logistics and follow-up. A practical guide."
-date: 2026-08-18
-lastmod: 2026-08-18
+date: 2026-08-17
+lastmod: 2026-08-17
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building"]

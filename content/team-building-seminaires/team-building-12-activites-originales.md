@@ -3,12 +3,13 @@ title: "Team building à Paris : les meilleures activités de groupe en {annee}"
 seoTitle: "Team building à Paris : activités originales en {annee}"
 description: "Sélection d'activités de team building à Paris, du plus sportif au plus convivial, avec les repères pour choisir selon l'effectif, l'ambiance et le budget."
 date: 2026-07-20
-lastmod: 2026-07-20
+lastmod: 2026-08-18
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building et séminaires"]
 tags: ["team building", "activité de groupe", "séminaire", "Paris"]
 villes: ["Paris"]
+aliases: ["/blog/team-building-12-activites-originales/"]
 translationKey: "team-building-paris"
 tldr:
   - "Pour **se dépenser en équipe**, les activités type action game ou sport indoor conviennent aux groupes de 40 à 50 personnes."

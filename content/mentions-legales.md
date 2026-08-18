@@ -3,16 +3,14 @@ title: "Mentions légales"
 seoTitle: "Informations éditeur, hébergement et conditions"
 description: "Mentions légales, informations éditeur, hébergement et conditions d'utilisation du site Top Activités."
 date: 2026-07-20
-lastmod: 2026-07-20
+lastmod: 2026-08-18
 ---
 
 ## Éditeur du site
 
-Le site top-activites.fr est un média éditorial indépendant.
+Le site top-activites.fr est un média éditorial indépendant, édité par l'équipe Top Activités.
 
-**Éditeur** : datashake — [à compléter : raison sociale, forme juridique, capital social, RCS/SIREN, adresse du siège]
-
-**Directeur de la publication** : [à compléter]
+**Directrice de la publication** : Sarah Nguyen
 
 **Contact** : contact@top-activites.fr
 

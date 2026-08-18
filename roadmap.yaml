@@ -220,6 +220,10 @@ articles_manuels_open_data:
     category: "Bars et lieux ludiques"
     volume: 390
     priorite: 1
+    status: done
+    published_date: 2026-08-18
+    published_url_fr: "https://top-activites.fr/bars-lieux-ludiques/plus-grandes-terrasses-bars-paris/"
+    published_url_en: "https://top-activites.fr/en/bars-lieux-ludiques/biggest-bar-terraces-paris/"
 
   - kw: "meilleur bar paris"
     angle: "Selection editoriale + data storytelling Sirene (nb de bars par quartier, ouvertures/fermetures)"

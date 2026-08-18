@@ -83,4 +83,154 @@
 # aurait publie du hors-sujet en duplicate d'un blog vivant du reseau.
 # A remplir avec de vrais mots-cles de sorties et activites de groupe a Paris.
 
-articles: []
+# Volumes Haloscan verifies le 2026-08-18 (moyenne mensuelle France).
+# kd laisse a null (Haloscan ne fournit pas de KD comparable).
+# Cadence : 2 evergreen/semaine (mardi et vendredi), pour rester sous la limite
+# de 4 publications/semaine en comptant l'actu.
+
+articles:
+  - kw: "bar rooftop paris"
+    category: "Bars et lieux ludiques"
+    volume: 579
+    kd: null
+    scheduled_date: 2026-08-21
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "evjf paris"
+    category: "EVJF"
+    volume: 880
+    kd: null
+    scheduled_date: 2026-08-25
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "karaoke paris"
+    category: "Bars et lieux ludiques"
+    volume: 600
+    kd: null
+    scheduled_date: 2026-08-28
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "afterwork paris"
+    category: "Afterwork"
+    volume: 800
+    kd: null
+    scheduled_date: 2026-09-01
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "lancer de hache paris"
+    category: "Activités insolites"
+    volume: 3385
+    kd: null
+    scheduled_date: 2026-09-04
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "activites evg paris"
+    category: "EVG"
+    volume: 127
+    kd: null
+    scheduled_date: 2026-09-08
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "activite insolite paris"
+    category: "Activités insolites"
+    volume: 171
+    kd: null
+    scheduled_date: 2026-09-11
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "bar insolite paris"
+    category: "Bars et lieux ludiques"
+    volume: 100
+    kd: null
+    scheduled_date: 2026-09-15
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "ou feter son anniversaire a paris"
+    category: "Activités insolites"
+    volume: 880
+    kd: null
+    scheduled_date: 2026-09-18
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "team building original"
+    category: "Team building et séminaires"
+    volume: 5
+    kd: null
+    scheduled_date: 2026-09-22
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+# -----------------------------------------------------------------------
+# VOLET OPEN DATA — PRODUCTION MANUELLE UNIQUEMENT (ne pas passer en auto)
+# -----------------------------------------------------------------------
+# Ces articles s'appuient sur un pull de donnees publiques (Sirene NAF 56.30Z,
+# opendata.paris.fr terrasses-autorisations) que l'agent auto ne sait pas faire.
+# A produire en session Claude avec Charlie. Cle distincte : la skill
+# /create-article-auto ne lit que `articles`, elle ignore cette liste.
+#
+# Faisabilite validee le 2026-08-18 :
+#   - Sirene via recherche-entreprises.api.gouv.fr : 3677 bars actifs a Paris,
+#     43 creations depuis juin 2026, avec enseigne/adresse/date (tri editorial requis)
+#   - opendata Paris terrasses-autorisations : 24 220 autorisations avec enseigne,
+#     typologie, dimensions, arrondissement
+
+articles_manuels_open_data:
+  - kw: "terrasse bar paris"          # + "plus belle terrasse paris" (260) en secondaire
+    angle: "Les plus grandes terrasses de bars de Paris, arrondissement par arrondissement (donnees officielles Ville de Paris)"
+    source: "opendata.paris.fr terrasses-autorisations"
+    category: "Bars et lieux ludiques"
+    volume: 390
+    priorite: 1
+
+  - kw: "meilleur bar paris"
+    angle: "Selection editoriale + data storytelling Sirene (nb de bars par quartier, ouvertures/fermetures)"
+    source: "recherche-entreprises.api.gouv.fr NAF 56.30Z"
+    category: "Bars et lieux ludiques"
+    volume: 880
+    priorite: 2
+
+  - kw: "nouveau bar paris"
+    angle: "Page evergreen 'les nouveaux bars a Paris' mise a jour chaque mois via le pull Sirene (seed du rendez-vous mensuel actu)"
+    source: "recherche-entreprises.api.gouv.fr NAF 56.30Z, creations du mois"
+    category: "Bars et lieux ludiques"
+    volume: 170
+    priorite: 3

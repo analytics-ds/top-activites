@@ -126,14 +126,14 @@
             <nav class="article-nav">
                 {{ with .PrevInSection }}
                 <a href="{{ .RelPermalink }}" class="nav-prev">
-                    <span class="nav-label">Article precedent</span>
-                    <span class="nav-title">{{ .Title }}</span>
+                    <span class="nav-label">{{ if eq .Site.Language.Lang "en" }}Previous article{{ else }}Article précédent{{ end }}</span>
+                    <span class="nav-title">{{ partial "resolveyear" .Title }}</span>
                 </a>
                 {{ end }}
                 {{ with .NextInSection }}
                 <a href="{{ .RelPermalink }}" class="nav-next">
-                    <span class="nav-label">Article suivant</span>
-                    <span class="nav-title">{{ .Title }}</span>
+                    <span class="nav-label">{{ if eq .Site.Language.Lang "en" }}Next article{{ else }}Article suivant{{ end }}</span>
+                    <span class="nav-title">{{ partial "resolveyear" .Title }}</span>
                 </a>
                 {{ end }}
             </nav>

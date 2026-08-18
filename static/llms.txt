@@ -8,59 +8,65 @@ Top Activités est un média éditorial indépendant consacré aux sorties et ac
 
 ## Hubs principaux (FR)
 
-- Team building & séminaires : https://analytics-ds.github.io/top-activites/team-building-seminaires/
-- EVJF : https://analytics-ds.github.io/top-activites/evjf/
-- EVG : https://analytics-ds.github.io/top-activites/evg/
-- Afterwork : https://analytics-ds.github.io/top-activites/afterwork/
-- Bars & lieux ludiques : https://analytics-ds.github.io/top-activites/bars-lieux-ludiques/
-- Activités insolites : https://analytics-ds.github.io/top-activites/activites-insolites/
+- Team building & séminaires : https://top-activites.fr/team-building-seminaires/
+- EVJF : https://top-activites.fr/evjf/
+- EVG : https://top-activites.fr/evg/
+- Afterwork : https://top-activites.fr/afterwork/
+- Bars & lieux ludiques : https://top-activites.fr/bars-lieux-ludiques/
+- Activités insolites : https://top-activites.fr/activites-insolites/
 
 ## Articles de référence (FR)
 
-- Team building à Paris : les meilleures activités de groupe : https://analytics-ds.github.io/top-activites/blog/team-building-12-activites-originales/
+- Team building à Paris : les meilleures activités de groupe : https://top-activites.fr/team-building-seminaires/team-building-12-activites-originales/
+- Organiser un team building : les conseils qui changent tout : https://top-activites.fr/team-building-seminaires/organiser-un-team-building-conseils/
+- Bars à jeux à Paris : 7 adresses pour jouer un verre à la main : https://top-activites.fr/bars-lieux-ludiques/bars-a-jeux-paris/
+- Terrasse de bar à Paris : les 8 plus grandes (données officielles Ville de Paris) : https://top-activites.fr/bars-lieux-ludiques/plus-grandes-terrasses-bars-paris/
 
 ## Auteurs (FR)
 
 Média signé par des auteurs identifiés, spécialistes de leur domaine (E-E-A-T).
 
-- Sarah Nguyen, spécialiste team building & événements d'entreprise : https://analytics-ds.github.io/top-activites/authors/sarah-nguyen/
-- Thomas Bérard, chroniqueur bars, afterwork & vie nocturne : https://analytics-ds.github.io/top-activites/authors/thomas-berard/
-- Ursule Degarde, journaliste sorties insolites & anniversaires : https://analytics-ds.github.io/top-activites/authors/ursule-degarde/
+- Sarah Nguyen, spécialiste team building & événements d'entreprise : https://top-activites.fr/authors/sarah-nguyen/
+- Thomas Bérard, chroniqueur bars, afterwork & vie nocturne : https://top-activites.fr/authors/thomas-berard/
+- Ursule Degarde, journaliste sorties insolites & anniversaires : https://top-activites.fr/authors/ursule-degarde/
 
 ## Actualités (FR)
 
-- Actualités & agenda des sorties à Paris : https://analytics-ds.github.io/top-activites/actualites/
-- Actu chaude (ouvertures, nouveautés, tendances) : https://analytics-ds.github.io/top-activites/actualites/actu-chaude/
-- Agenda (événements, saison, week-end) : https://analytics-ds.github.io/top-activites/actualites/agenda/
+- Actualités & agenda des sorties à Paris : https://top-activites.fr/actualites/
+- Actu chaude (ouvertures, nouveautés, tendances) : https://top-activites.fr/actualites/actu-chaude/
+- Agenda (événements, saison, week-end) : https://top-activites.fr/actualites/agenda/
 
 ## Pages utiles (FR)
 
-- À propos (média indépendant, méthode éditoriale) : https://analytics-ds.github.io/top-activites/a-propos/
-- Trouver une activité (sélecteur par filtres) : https://analytics-ds.github.io/top-activites/trouver-une-activite/
-- Quiz : quelle activité de groupe est faite pour vous : https://analytics-ds.github.io/top-activites/quiz/
+- À propos (média indépendant, méthode éditoriale) : https://top-activites.fr/a-propos/
+- Trouver une activité (sélecteur par filtres) : https://top-activites.fr/trouver-une-activite/
+- Quiz : quelle activité de groupe est faite pour vous : https://top-activites.fr/quiz/
 
 ## Hubs principaux (EN)
 
-- Team building & seminars : https://analytics-ds.github.io/top-activites/en/team-building-seminaires/
-- Bachelorette : https://analytics-ds.github.io/top-activites/en/evjf/
-- Bachelor : https://analytics-ds.github.io/top-activites/en/evg/
-- Afterwork : https://analytics-ds.github.io/top-activites/en/afterwork/
-- Fun bars & venues : https://analytics-ds.github.io/top-activites/en/bars-lieux-ludiques/
-- Unusual activities : https://analytics-ds.github.io/top-activites/en/activites-insolites/
+- Team building & seminars : https://top-activites.fr/en/team-building-seminaires/
+- Bachelorette : https://top-activites.fr/en/evjf/
+- Bachelor : https://top-activites.fr/en/evg/
+- Afterwork : https://top-activites.fr/en/afterwork/
+- Fun bars & venues : https://top-activites.fr/en/bars-lieux-ludiques/
+- Unusual activities : https://top-activites.fr/en/activites-insolites/
 
 ## Articles de référence (EN)
 
-- Team building in Paris: the best group activities : https://analytics-ds.github.io/top-activites/en/blog/team-building-12-activites-originales/
+- Team building in Paris: the best group activities : https://top-activites.fr/en/team-building-seminaires/team-building-12-activites-originales/
+- Team building tips that actually work : https://top-activites.fr/en/team-building-seminaires/team-building-tips/
+- Board game bars in Paris: 7 spots to play with a drink in hand : https://top-activites.fr/en/bars-lieux-ludiques/board-game-bars-paris/
+- Biggest bar terraces in Paris (official City of Paris data) : https://top-activites.fr/en/bars-lieux-ludiques/biggest-bar-terraces-paris/
 
 ## Informations techniques
 
 - Générateur : Hugo (site statique)
 - Multilingue : français (défaut) + anglais
-- Sitemap : https://analytics-ds.github.io/top-activites/sitemap.xml
+- Sitemap : https://top-activites.fr/sitemap.xml
 - Schema.org : Organization, BlogPosting, BreadcrumbList, WebSite, FAQPage, ItemList
 - Indépendance : aucun contenu sponsorisé, aucune affiliation commerciale
 
 ## Contact
 
-- URL : https://analytics-ds.github.io/top-activites/
+- URL : https://top-activites.fr/
 - Email : contact@top-activites.fr

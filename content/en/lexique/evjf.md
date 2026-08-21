@@ -12,7 +12,7 @@ translationKey: "lexique-evjf"
 format: "definition"
 ---
 
-EVJF stands for enterrement de vie de jeune fille, the French equivalent of a bachelorette or hen party. It is a day, an evening or a weekend of activities organised by the bride-to-be's close friends, usually led by the maid of honour, to celebrate the last weeks before the wedding. The bride does not choose the programme, she discovers it: that is the whole tradition.
+EVJF stands for enterrement de vie de jeune fille, the French equivalent of a bachelorette or hen party. It is a day, an evening or a weekend of activities organised by the bride-to-be's close friends, usually led by the maid of honour, to celebrate the last weeks before the wedding. The bride does not choose the programme, she discovers it. That is the whole tradition.
 
 ## In practice
 

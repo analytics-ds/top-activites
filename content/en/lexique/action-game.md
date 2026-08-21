@@ -16,7 +16,7 @@ An action game is an immersive course made of several challenge rooms, both phys
 
 ## In practice
 
-- **Duration**: a session usually lasts around an hour, briefing included.
+- **Duration**: from about one hour to two hours depending on the venue, briefing included.
 - **Team size**: challenges are played in small teams, and large groups rotate as several teams in parallel with a final leaderboard, which makes it a great format for team building, bachelor and bachelorette parties.
 - **Physical effort**: moderate and adjustable; most venues mix dexterity, logic and agility challenges so everyone takes part.
 - **Where to find one**: in central Paris, Bomb Squad offers this format. On the outskirts, large complexes such as Koezio (Cergy, Sénart) run it on bigger surfaces.

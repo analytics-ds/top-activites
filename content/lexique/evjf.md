@@ -12,7 +12,7 @@ translationKey: "lexique-evjf"
 format: "definition"
 ---
 
-EVJF signifie enterrement de vie de jeune fille. C'est une journée, une soirée ou un week-end d'activités organisé par les proches de la future mariée, en général par la témoin, pour célébrer les dernières semaines avant le mariage. La future mariée ne choisit pas le programme, elle le découvre : c'est toute la tradition.
+EVJF signifie enterrement de vie de jeune fille. C'est une journée, une soirée ou un week-end d'activités organisé par les proches de la future mariée, en général par la témoin, pour célébrer les dernières semaines avant le mariage. La future mariée ne choisit pas le programme, elle le découvre, c'est toute la tradition.
 
 ## En pratique
 

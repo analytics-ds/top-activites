@@ -23,7 +23,7 @@ Un bar à jeux est un bar classique, avec en plus une ludothèque en libre-servi
 
 ## Bar à jeux ou social bar ?
 
-Le terme social bar désigne les bars pensés pour faire jouer et se rencontrer les gens, animations comprises. Dans les faits, la frontière avec le bar à activité est mince : PAN Bar à Paris, par exemple, mêle jeux d'arcade et sessions de groupe réservables jusqu'à 50 personnes.
+Le terme social bar désigne les bars pensés pour faire jouer et se rencontrer les gens, animations comprises. Dans les faits, la frontière avec le bar à activité est mince. PAN Bar à Paris, par exemple, propose des box de tir ludique sur écran, réservables au créneau pour des groupes jusqu'à 50 personnes, avec bar et cuisine sur place.
 
 ## Pour aller plus loin
 

@@ -24,11 +24,11 @@ La rédaction examine chaque proposition au regard de la ligne éditoriale. Un l
 
 ## Corriger une information
 
-Un prix qui a changé, un horaire obsolète, une capacité mal indiquée dans un article : signalez-le à **contact@top-activites.fr** avec le lien de l'article concerné et la source officielle. Les corrections factuelles sont traitées en priorité.
+Un prix qui a changé, un horaire obsolète, une capacité mal indiquée dans un article ? Signalez-le à **contact@top-activites.fr** avec le lien de l'article concerné et la source officielle. Les corrections factuelles sont traitées en priorité.
 
 ## Presse et partenariats
 
-Nous sommes ouverts aux échanges avec les attachés de presse et les organisateurs pour recevoir les annonces d'ouvertures, de nouveautés ou d'événements, qui alimentent nos [actualités](/actualites/). En revanche, pas de contenu sponsorisé ni d'article publicitaire : c'est la condition de la confiance de nos lecteurs.
+Nous sommes ouverts aux échanges avec les attachés de presse et les organisateurs pour recevoir les annonces d'ouvertures, de nouveautés ou d'événements, qui alimentent nos [actualités](/actualites/). En revanche, pas de contenu sponsorisé ni d'article publicitaire, c'est la condition de la confiance de nos lecteurs.
 
 ## Nous contacter
 

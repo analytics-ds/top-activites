@@ -24,11 +24,11 @@ The editorial team reviews every suggestion against the editorial line. A venue 
 
 ## Fixing a listing
 
-A price that changed, an outdated schedule, a wrong capacity in an article: report it to **contact@top-activites.fr** with the link to the article and the official source. Factual corrections are handled first.
+A price that changed, an outdated schedule, a wrong capacity in an article? Report it to **contact@top-activites.fr** with the link to the article and the official source. Factual corrections are handled first.
 
 ## Press and partnerships
 
-We welcome exchanges with press officers and organisers to receive announcements of openings, novelties or events. However, no sponsored content and no advertorials: that is the condition of our readers' trust.
+We welcome exchanges with press officers and organisers to receive announcements of openings, novelties or events. However, no sponsored content and no advertorials. That is the condition of our readers' trust.
 
 ## Contact us
 

@@ -12,11 +12,11 @@ translationKey: "lexique-action-game"
 format: "definition"
 ---
 
-Un action game est un parcours immersif composé de plusieurs salles d'épreuves, physiques et cérébrales, que ton équipe enchaîne pour marquer un maximum de points. L'image la plus parlante : un Fort Boyard urbain. Contrairement à l'escape game, on ne cherche pas à s'échapper d'une salle unique, on traverse une succession de défis chronométrés où chacun trouve son rôle, les agiles comme les cérébraux.
+Un action game est un parcours immersif composé de plusieurs salles d'épreuves, physiques et cérébrales, que ton équipe enchaîne pour marquer un maximum de points. L'image la plus parlante, c'est un Fort Boyard urbain. Contrairement à l'escape game, on ne cherche pas à s'échapper d'une salle unique, on traverse une succession de défis chronométrés où chacun trouve son rôle, les agiles comme les cérébraux.
 
 ## En pratique
 
-- **Durée** : une session dure en général autour d'une heure, briefing compris.
+- **Durée** : d'une heure environ à deux heures selon les enseignes, briefing compris.
 - **Taille de l'équipe** : les épreuves se jouent par petites équipes, et les grands groupes tournent sur plusieurs équipes en parallèle avec un classement final, ce qui en fait un très bon format de team building, d'EVG ou d'EVJF.
 - **Effort physique** : modéré et modulable, la plupart des enseignes mélangent épreuves d'adresse, de réflexion et d'agilité pour que tout le monde participe.
 - **Où en trouver** : à Paris intra-muros, Bomb Squad propose ce format en plein centre. En périphérie, des complexes comme Koezio (Cergy, Sénart) l'exploitent sur de grandes surfaces.

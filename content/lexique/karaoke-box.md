@@ -23,7 +23,7 @@ Un karaoké box est un salon privatif insonorisé que ton groupe loue à l'heure
 
 ## Le bon réflexe
 
-Regarde toujours la capacité réelle du salon avant de réserver : un box de 10 dans lequel on entasse 15 personnes, c'est la garantie de passer la soirée debout sans micro.
+Regarde toujours la capacité réelle du salon avant de réserver. Un box de 10 dans lequel on entasse 15 personnes, c'est la garantie de passer la soirée debout sans micro.
 
 ## Pour aller plus loin
 

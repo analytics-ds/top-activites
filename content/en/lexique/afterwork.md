@@ -16,7 +16,7 @@ An afterwork is a relaxed get-together with colleagues organised right after the
 
 ## In practice
 
-- **The right slot**: Tuesday and Thursday are the busiest evenings in Paris. Many bars run a happy hour between 5pm and 8pm, with reduced prices on drinks.
+- **The right slot**: Thursday is the big afterwork night in Paris, with Tuesday and Wednesday also in high demand. Many bars run a happy hour between 5pm and 8pm, with reduced prices on drinks.
 - **Budget**: whatever you drink. During happy hour, a pint or a cocktail costs noticeably less than full price.
 - **Group size**: beyond 8 to 10 people, better book a table or a dedicated space, especially on Thursday evenings.
 

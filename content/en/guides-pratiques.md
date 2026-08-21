@@ -9,4 +9,4 @@ date: 2026-08-21
 lastmod: 2026-08-21
 ---
 
-Tops give you the venues, guides give you the method. Budget per person, the right time to book, group size, logistics: everything to sort out before pulling out the company card.
+Tops give you the venues, guides give you the method. Everything to sort out before pulling out the company card: budget per person, the right time to book, group size, logistics.

@@ -23,7 +23,7 @@ A karaoke box is a soundproof private room your group rents by the hour to sing 
 
 ## The right reflex
 
-Always check the room's real capacity before booking: a box for 10 with 15 people crammed in guarantees a night spent standing without a microphone.
+Always check the room's real capacity before booking. A box for 10 with 15 people crammed in guarantees a night spent standing without a microphone.
 
 ## Going further
 

@@ -12,7 +12,7 @@ translationKey: "lexique-escape-game"
 format: "definition"
 ---
 
-Un escape game est un jeu d'évasion grandeur nature : une équipe est enfermée dans une salle décorée selon un thème (prison, laboratoire, manoir, vaisseau spatial) et doit résoudre une suite d'énigmes pour s'échapper avant la fin du temps imparti, en général 60 minutes. Un maître du jeu suit la partie en régie et distille des indices quand l'équipe bloque.
+Un escape game est un jeu d'évasion grandeur nature. Une équipe est enfermée dans une salle décorée selon un thème (prison, laboratoire, manoir, vaisseau spatial) et doit résoudre une suite d'énigmes pour s'échapper avant la fin du temps imparti, en général 60 minutes. Un maître du jeu suit la partie en régie et distille des indices quand l'équipe bloque.
 
 ## En pratique
 

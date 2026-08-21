@@ -12,7 +12,7 @@ translationKey: "lexique-escape-game"
 format: "definition"
 ---
 
-An escape game (or escape room) is a real-life puzzle adventure: a team is locked in a room decorated around a theme (prison, laboratory, manor, spaceship) and must solve a chain of puzzles to escape before time runs out, usually 60 minutes. A game master follows the session from a control room and drops hints when the team gets stuck.
+An escape game (or escape room) is a real-life puzzle adventure. A team is locked in a room decorated around a theme (prison, laboratory, manor, spaceship) and must solve a chain of puzzles to escape before time runs out, usually 60 minutes. A game master follows the session from a control room and drops hints when the team gets stuck.
 
 ## In practice
 

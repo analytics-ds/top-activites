@@ -16,7 +16,7 @@ Un afterwork est un moment convivial entre collègues organisé juste après la 
 
 ## En pratique
 
-- **Le bon créneau** : mardi et jeudi sont les soirs les plus courus à Paris. Beaucoup de bars proposent une happy hour entre 17h et 20h, avec des tarifs réduits sur les boissons.
+- **Le bon créneau** : le jeudi est le grand soir de l'afterwork à Paris, et les mardis et mercredis sont aussi très demandés. Beaucoup de bars proposent une happy hour entre 17h et 20h, avec des tarifs réduits sur les boissons.
 - **Budget** : celui de tes consommations. En happy hour, une pinte ou un cocktail coûte sensiblement moins cher qu'en tarif plein.
 - **Taille du groupe** : au-delà de 8 à 10 personnes, mieux vaut réserver une table ou un espace, surtout le jeudi soir.
 

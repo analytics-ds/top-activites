@@ -23,7 +23,7 @@ A board game bar is a regular bar with, on top, a self-service game library or a
 
 ## Board game bar or social bar?
 
-The term social bar covers bars designed to make people play and meet, entertainment included. In practice, the line with the activity bar is thin: PAN Bar in Paris, for instance, mixes arcade games and bookable group sessions for up to 50 people.
+The term social bar covers bars designed to make people play and meet, entertainment included. In practice, the line with the activity bar is thin. PAN Bar in Paris, for instance, offers playful screen-based shooting booths, bookable by slot for groups of up to 50 people, with a bar and kitchen on site.
 
 ## Going further
 

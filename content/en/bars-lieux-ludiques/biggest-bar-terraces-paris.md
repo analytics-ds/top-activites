@@ -10,6 +10,7 @@ categories: ["Fun bars & venues"]
 tags: ["terrace", "bar", "afterwork", "night out", "Paris"]
 villes: ["Paris"]
 translationKey: "grandes-terrasses-paris"
+format: "top"
 tldr:
   - "Paris currently has **24,220 active terrace permits** covering 14,795 venues, according to the city's open data registry."
   - "The largest permitted terrace where you can grab a drink belongs to **Billy Mango** on the Canal Saint-Martin, with a combined 960 sqm, ahead of La Rotonde Stalingrad and its 900 sqm."

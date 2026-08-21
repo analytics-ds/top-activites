@@ -10,6 +10,7 @@ categories: ["Bars et lieux ludiques"]
 tags: ["bar à jeux", "bar insolite", "afterwork", "sortie entre amis", "Paris"]
 villes: ["Paris"]
 translationKey: "bars-a-jeux-paris"
+format: "top"
 tldr:
   - "Côté jeux de société, le droit de jeu tourne entre **3 et 5 euros par personne**, c'est la sortie la moins chère de la liste."
   - "Côté activité (tir, fléchettes, karaoké), compte plutôt **10 à 39 euros de l'heure**, facturés à la piste ou au box, pas par tête."

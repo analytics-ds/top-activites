@@ -9,6 +9,7 @@ authors: ["Sarah Nguyen"]
 categories: ["Team building"]
 tags: ["team building", "seminar", "organisation", "company"]
 translationKey: "organiser-team-building-conseils"
+format: "guide"
 tldr:
   - "The starting point is never the activity but **the objective**. A team that has just doubled in size does not need the same thing as a team that is worn out."
   - "Set your **budget per person** before you start looking. Everything plays out between 25 euros for the activity alone and 100 euros for a full day with catering."

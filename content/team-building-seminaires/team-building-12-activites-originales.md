@@ -11,6 +11,7 @@ tags: ["team building", "activité de groupe", "séminaire", "Paris"]
 villes: ["Paris"]
 aliases: ["/blog/team-building-12-activites-originales/"]
 translationKey: "team-building-paris"
+format: "top"
 tldr:
   - "Pour **se dépenser en équipe**, les activités type action game ou sport indoor conviennent aux groupes de 40 à 50 personnes."
   - "Pour une soirée **plus conviviale**, un bar de loisir avec restauration réunit jusqu'à 150 personnes."

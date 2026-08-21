@@ -10,6 +10,7 @@ categories: ["Fun bars & venues"]
 tags: ["game bar", "unusual bar", "afterwork", "night out with friends", "Paris"]
 villes: ["Paris"]
 translationKey: "bars-a-jeux-paris"
+format: "top"
 tldr:
   - "For board games, the play fee sits between **3 and 5 euros per person**, easily the cheapest group night out in this list."
   - "For activity bars (shooting, darts, karaoke), expect **10 to 39 euros per hour**, billed per lane or per room rather than per head."

@@ -9,6 +9,7 @@ authors: ["Sarah Nguyen"]
 categories: ["Team building et séminaires"]
 tags: ["team building", "séminaire", "organisation", "entreprise"]
 translationKey: "organiser-team-building-conseils"
+format: "guide"
 tldr:
   - "Le point de départ n'est jamais l'activité mais **l'objectif**, et une équipe qui vient de doubler n'a pas besoin de la même chose qu'une équipe fatiguée."
   - "Cadre ton **budget par personne** avant de chercher, tout se joue entre 25 euros pour une activité seule et 100 euros pour une journée complète avec repas."

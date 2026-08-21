@@ -11,6 +11,7 @@ tags: ["team building", "group activity", "seminar", "Paris"]
 villes: ["Paris"]
 aliases: ["/en/blog/team-building-12-activites-originales/"]
 translationKey: "team-building-paris"
+format: "top"
 tldr:
   - "To **get moving as a team**, action-game or indoor-sport formats suit groups of 40 to 50 people."
   - "For a **more relaxed evening**, a leisure bar with catering hosts up to 150 people."

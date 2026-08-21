@@ -67,13 +67,13 @@
                 <summary>{{ if eq .Site.Language.Lang "en" }}Info{{ else }}Infos{{ end }}</summary>
                 <div class="infos-menu" role="menu">
                     <a href="{{ "quiz/" | relLangURL }}">{{ if eq .Site.Language.Lang "en" }}Quiz: your ideal activity{{ else }}Quiz : ton activité idéale{{ end }}</a>
-                    <a href="{{ "blog/" | relURL }}">{{ if eq .Site.Language.Lang "en" }}Rankings &amp; tops{{ else }}Tops &amp; classements{{ end }}</a>
-                    <a href="{{ "blog/" | relURL }}">{{ if eq .Site.Language.Lang "en" }}Practical guides{{ else }}Guides pratiques{{ end }}</a>
-                    <a href="{{ "blog/" | relURL }}">{{ if eq .Site.Language.Lang "en" }}Glossary{{ else }}Le lexique / c'est quoi&nbsp;?{{ end }}</a>
-                    <a href="{{ "actualites/" | relLangURL }}">{{ if eq .Site.Language.Lang "en" }}News &amp; trends{{ else }}Actualités &amp; tendances{{ end }}</a>
+                    <a href="{{ "tops/" | relLangURL }}">{{ if eq .Site.Language.Lang "en" }}Rankings &amp; tops{{ else }}Tops &amp; classements{{ end }}</a>
+                    <a href="{{ "guides-pratiques/" | relLangURL }}">{{ if eq .Site.Language.Lang "en" }}Practical guides{{ else }}Guides pratiques{{ end }}</a>
+                    <a href="{{ "lexique/" | relLangURL }}">{{ if eq .Site.Language.Lang "en" }}Glossary{{ else }}Le lexique / c'est quoi&nbsp;?{{ end }}</a>
+                    {{ if ne .Site.Language.Lang "en" }}<a href="{{ "actualites/" | relLangURL }}">Actualités &amp; tendances</a>{{ end }}
                     <hr>
-                    <a href="{{ "proposer/" | relURL }}">{{ if eq .Site.Language.Lang "en" }}Suggest a venue{{ else }}Proposer un lieu{{ end }}</a>
-                    <a href="{{ "contact/" | relURL }}">{{ if eq .Site.Language.Lang "en" }}Pro / organisers{{ else }}Espace pro / organisateurs{{ end }}</a>
+                    <a href="{{ "proposer/" | relLangURL }}">{{ if eq .Site.Language.Lang "en" }}Suggest a venue{{ else }}Proposer un lieu{{ end }}</a>
+                    <a href="{{ "espace-pro/" | relLangURL }}">{{ if eq .Site.Language.Lang "en" }}Pro / organisers{{ else }}Espace pro / organisateurs{{ end }}</a>
                 </div>
             </details>
             <a href="{{ "trouver-une-activite/" | relLangURL }}" class="btn-cta">{{ if eq .Site.Language.Lang "en" }}Find an activity{{ else }}Trouver une activité{{ end }}</a>

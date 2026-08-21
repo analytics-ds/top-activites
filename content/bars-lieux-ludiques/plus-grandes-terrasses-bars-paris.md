@@ -10,6 +10,7 @@ categories: ["Bars et lieux ludiques"]
 tags: ["terrasse", "bar", "afterwork", "sortie entre amis", "Paris"]
 villes: ["Paris"]
 translationKey: "grandes-terrasses-paris"
+format: "top"
 tldr:
   - "Paris compte **24 220 autorisations de terrasses** en cours pour 14 795 établissements, d'après les données ouvertes de la Ville."
   - "La plus grande terrasse autorisée pour boire un verre est celle de **Billy Mango**, quai de Jemmapes, avec 960 m² cumulés, devant La Rotonde Stalingrad et ses 900 m²."

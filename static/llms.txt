@@ -41,6 +41,22 @@ Média signé par des auteurs identifiés, spécialistes de leur domaine (E-E-A-
 - À propos (média indépendant, méthode éditoriale) : https://top-activites.fr/a-propos/
 - Trouver une activité (sélecteur par filtres) : https://top-activites.fr/trouver-une-activite/
 - Quiz : quelle activité de groupe est faite pour vous : https://top-activites.fr/quiz/
+- Tops & classements (toutes les sélections d'adresses) : https://top-activites.fr/tops/
+- Guides pratiques (méthode et organisation) : https://top-activites.fr/guides-pratiques/
+- Espace pro / organisateurs (référencement, corrections, presse) : https://top-activites.fr/espace-pro/
+
+## Lexique des sorties de groupe (FR)
+
+Définitions de référence, avec prix, durée et occasions.
+
+- C'est quoi un team building : https://top-activites.fr/lexique/team-building/
+- C'est quoi un EVJF : https://top-activites.fr/lexique/evjf/
+- C'est quoi un EVG : https://top-activites.fr/lexique/evg/
+- C'est quoi un afterwork : https://top-activites.fr/lexique/afterwork/
+- C'est quoi un escape game : https://top-activites.fr/lexique/escape-game/
+- C'est quoi un action game : https://top-activites.fr/lexique/action-game/
+- C'est quoi un bar à jeux : https://top-activites.fr/lexique/bar-a-jeux/
+- C'est quoi un karaoké box : https://top-activites.fr/lexique/karaoke-box/
 
 ## Hubs principaux (EN)
 
@@ -57,6 +73,19 @@ Média signé par des auteurs identifiés, spécialistes de leur domaine (E-E-A-
 - Team building tips that actually work : https://top-activites.fr/en/team-building-seminaires/team-building-tips/
 - Board game bars in Paris: 7 spots to play with a drink in hand : https://top-activites.fr/en/bars-lieux-ludiques/board-game-bars-paris/
 - Biggest bar terraces in Paris (official City of Paris data) : https://top-activites.fr/en/bars-lieux-ludiques/biggest-bar-terraces-paris/
+
+## Glossary (EN)
+
+- Rankings & tops : https://top-activites.fr/en/tops/
+- Practical guides : https://top-activites.fr/en/guides-pratiques/
+- What is a team building event : https://top-activites.fr/en/lexique/team-building/
+- What is an EVJF (bachelorette party) : https://top-activites.fr/en/lexique/evjf/
+- What is an EVG (bachelor party) : https://top-activites.fr/en/lexique/evg/
+- What is an afterwork : https://top-activites.fr/en/lexique/afterwork/
+- What is an escape game : https://top-activites.fr/en/lexique/escape-game/
+- What is an action game : https://top-activites.fr/en/lexique/action-game/
+- What is a board game bar : https://top-activites.fr/en/lexique/bar-a-jeux/
+- What is a karaoke box : https://top-activites.fr/en/lexique/karaoke-box/
 
 ## Informations techniques
 

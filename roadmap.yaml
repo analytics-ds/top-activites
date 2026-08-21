@@ -94,10 +94,10 @@ articles:
     volume: 579
     kd: null
     scheduled_date: 2026-08-21
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-08-21
+    published_url_fr: "https://top-activites.fr/bars-lieux-ludiques/bar-rooftop-paris/"
+    published_url_en: "https://top-activites.fr/en/bars-lieux-ludiques/rooftop-bars-paris/"
     error: null
 
   - kw: "evjf paris"

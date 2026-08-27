@@ -55,9 +55,9 @@ Sporty, playful formats work when the team wants to burn energy and laugh togeth
 
 ### Bomb Squad, the action game in the 3rd arrondissement
 
-[Bomb Squad Paris](https://paris.bombsquad.games/) sits apart in the Paris scene because it is neither a laser game nor an escape game. There is no room to break out of and no puzzles to solve. Teams move through a series of rooms, take on physical and dexterity challenges, a laser corridor, floor tiles, and rack up points to defuse a paint bomb. This is what is called an [action game](/en/lexique/action-game/).
+[Bomb Squad Paris](https://paris.bombsquad.games/) sits apart in the Paris scene because it is neither a laser game nor an escape game. There is no room to break out of and no puzzles in the classic sense. Teams go through four ten-minute challenges before the final room, a laser corridor to cross, a room fully covered in light-up tiles where you have to activate the right colours, a sound memory test and a communication challenge across screens. Every point scored buys extra time to defuse a paint bomb in the last room. This is what is called an [action game](/en/lexique/action-game/), a format where action comes first, with a share of cooperation and memory but no padlocks and no searching.
 
-The format favours corporate groups. Teams play in units of 2 to 6 players, starting every ten minutes, which lets up to 60 participants go through over a two-hour window with no downtime. The 200 sqm of themed set is extended by an 80 sqm reception area with a themed bar, useful for the debrief or the drink that follows. Quotes are promised within 24 hours.
+The format favours corporate groups. Teams play in units of 2 to 6 players, starting every ten minutes, which lets up to 60 participants go through over a two-hour window with no downtime. Count an hour of play and around an hour and a quarter on site. The 200 sqm of themed set is extended by an 80 sqm reception area with a themed bar, useful for the debrief or the drink that follows. Quotes are promised within 24 hours. A full-length overall is provided, but comfortable clothing is still advised and heels are discouraged.
 
 On budget, the rate goes down as teams get bigger. Count 45 euros per player for a team of two, 35 euros for four, and 28 euros for six. The activity is open from age 7, with an adult present up to 15, which also makes it an option for family company events.
 
@@ -65,7 +65,7 @@ Two missions run side by side, [Mission Peinture](https://paris.bombsquad.games/
 
 ### The other thrill formats
 
-Laser game and axe throwing are offered by several Paris venues and naturally create friendly competition. Sensas plays on another register, the sensory group experience, and Rush Action Game offers a timed obstacle course. These belong to the world of [unusual and thrill activities](/en/activites-insolites/).
+Laser game and axe throwing are offered by several Paris venues and naturally create friendly competition. Sensas plays on another register, a sensory experience lived in the dark. Rush Action Game is a direct competitor on the action game format, present in around fifteen French cities including Paris. These belong to the world of [unusual and thrill activities](/en/activites-insolites/).
 
 ## Convivial activities, when the goal is to talk
 
@@ -75,7 +75,7 @@ When the point is to get people talking rather than running, a venue that combin
 
 [PAN Bar](https://pan.bar/) brings together three things in one place, a virtual shooting activity inspired by clay shooting, homemade catering and a cocktail bar. Groups book a private booth fitted with two rifles and a tablet used to launch the games and order food and drinks, on the same principle as a karaoke box.
 
-The venue offers three packages. The simple package starts at 16 euros per person for booths of 2 to 66 people, with no drink included. The [team building package](https://pan.bar/team-building/) starts at 36 euros per person for groups of 4 to 66, with one drink and a group photo. A full buyout is quoted case by case.
+The venue offers three packages. The simple package starts at 16 euros per person for booths of 2 to 66 people, with no drink included, food and drinks being ordered online beforehand or from the booth. The [team building package](https://pan.bar/team-building/) starts at 36 euros per person for groups of 4 to 66, and includes one drink per person, one dish for every four people and a group photo in digital and printed form. The private package opens the full 400 sqm from 30 people, with a dedicated host, the option to screen a presentation and outside catering on request.
 
 It is the format that best absorbs evenings that run late, since the team never has to move between the activity and the meal. The bar is closed on Mondays and opens at 3pm from Tuesday to Friday, at 2pm at weekends.
 

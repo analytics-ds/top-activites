@@ -55,9 +55,9 @@ Les formats sportifs et ludiques fonctionnent quand l'équipe cherche à se déf
 
 ### Bomb Squad, l'action game du 3e arrondissement
 
-[Bomb Squad Paris](https://paris.bombsquad.games/) occupe une place à part dans le paysage parisien parce qu'il ne relève ni du laser game ni de l'escape game. Il n'y a pas de salle à quitter ni d'énigmes à résoudre. Les équipes traversent des salles en enfilade, enchaînent des défis physiques et d'adresse, un parcours laser, des dalles au sol, et cumulent des points pour désamorcer une bombe de peinture. C'est ce qu'on appelle un [action game](/lexique/action-game/).
+[Bomb Squad Paris](https://paris.bombsquad.games/) occupe une place à part dans le paysage parisien parce qu'il ne relève ni du laser game ni de l'escape game. Il n'y a pas de salle à quitter ni d'énigmes au sens classique. Les équipes traversent quatre épreuves de dix minutes avant la salle finale, un parcours laser à franchir, une pièce entièrement recouverte de dalles lumineuses où il faut activer les bonnes couleurs, une épreuve de mémoire sonore et une épreuve de communication entre écrans. Chaque point marqué donne du temps supplémentaire pour désamorcer une bombe de peinture dans la dernière salle. C'est ce qu'on appelle un [action game](/lexique/action-game/), un format où l'action prime, avec une part de coopération et de mémoire mais sans cadenas ni fouille.
 
-Le format joue en faveur des groupes d'entreprise. Les équipes tournent par 2 à 6 joueurs, avec un départ toutes les dix minutes, ce qui permet de faire passer jusqu'à 60 participants sur une plage de deux heures sans temps mort. Les 200 m² de décor sont prolongés par un espace de réception de 80 m² avec bar à thème, utile pour le débrief ou le verre qui suit. Le devis est annoncé sous 24 heures.
+Le format joue en faveur des groupes d'entreprise. Les équipes tournent par 2 à 6 joueurs, avec un départ toutes les dix minutes, ce qui permet de faire passer jusqu'à 60 participants sur une plage de deux heures sans temps mort. Comptez une heure de jeu et environ 1h15 sur place. Les 200 m² de décor sont prolongés par un espace de réception de 80 m² avec bar à thème, utile pour le débrief ou le verre qui suit. Le devis est annoncé sous 24 heures. Une blouse intégrale est fournie, mais la tenue confortable reste conseillée, les talons sont déconseillés.
 
 Côté budget, le tarif est dégressif selon la taille des équipes. Comptez 45 euros par joueur pour une équipe de deux, 35 euros à quatre, et 28 euros à six. L'activité est accessible dès 7 ans, avec accompagnement d'un adulte jusqu'à 15 ans, ce qui en fait aussi une option pour les événements familiaux d'entreprise.
 
@@ -65,7 +65,7 @@ Deux missions coexistent, la [Mission Peinture](https://paris.bombsquad.games/mi
 
 ### Les autres formats à sensations
 
-Le laser game et le lancer de hache sont proposés par plusieurs enseignes parisiennes et créent naturellement une compétition bon enfant. Sensas joue sur un autre registre, celui de l'expérience sensorielle en équipe, et Rush Action Game propose un parcours d'obstacles chronométré. Ces activités relèvent de l'univers des [activités insolites et à sensations](/activites-insolites/).
+Le laser game et le lancer de hache sont proposés par plusieurs enseignes parisiennes et créent naturellement une compétition bon enfant. Sensas joue sur un autre registre, celui de l'expérience sensorielle vécue dans le noir. Rush Action Game, lui, est un concurrent direct sur le format action game, présent dans une quinzaine de villes en France dont Paris. Ces activités relèvent de l'univers des [activités insolites et à sensations](/activites-insolites/).
 
 ## Les activités conviviales, quand l'objectif est d'échanger
 
@@ -75,7 +75,7 @@ Quand le but est de faire parler les équipes plutôt que de les faire courir, u
 
 Le [PAN Bar](https://pan.bar/) réunit trois briques dans un même lieu, une activité de tir virtuel inspirée du ball-trap, une restauration faite maison et un bar à cocktails. Les groupes réservent un box privatif équipé de deux fusils et d'une tablette qui sert à lancer les jeux et à commander à boire et à manger, sur le principe d'une karaoké box.
 
-Le lieu propose trois formules. La formule simple démarre à 16 euros par personne pour des boxes de 2 à 66 personnes, sans consommation incluse. La [formule team building](https://pan.bar/team-building/) démarre à 36 euros par personne pour des groupes de 4 à 66, avec une consommation et une photo de groupe. La privatisation complète se traite sur devis.
+Le lieu propose trois formules. La formule simple démarre à 16 euros par personne pour des boxes de 2 à 66 personnes, sans consommation incluse, les boissons et les plats se commandant en ligne en amont ou depuis le box. La [formule team building](https://pan.bar/team-building/) démarre à 36 euros par personne pour des groupes de 4 à 66, et comprend une consommation par personne, un plat au choix pour quatre et une photo de groupe en version numérique et papier. La formule privative ouvre la totalité des 400 m² à partir de 30 personnes, avec un animateur dédié, la possibilité de projeter une présentation et un traiteur sur devis.
 
 C'est le format qui absorbe le mieux les soirées qui se prolongent, puisque l'équipe n'a pas à changer de lieu entre l'activité et le repas. Le bar est fermé le lundi et ouvre à 15 heures du mardi au vendredi, à 14 heures le week-end.
 

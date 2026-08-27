@@ -14,6 +14,36 @@
     </div>
 </section>
 
+<!-- A la une : 3 derniers articles publies -->
+{{ $exclude := slice "" "actualites" "lexique" "authors" "en" }}
+{{ $une := first 3 (where site.RegularPages "Section" "not in" $exclude).ByDate.Reverse }}
+{{ if $une }}
+<section class="section une-section">
+    <div class="container">
+        <div class="section-header">
+            <div class="section-header-text">
+                <h2>{{ if $en }}Featured{{ else }}À la une{{ end }}</h2>
+                <p>{{ if $en }}Our three latest selections and guides{{ else }}Nos trois derniers classements et guides publiés{{ end }}</p>
+            </div>
+            <a href="{{ "tops/" | relLangURL }}" class="section-link">{{ if $en }}All rankings{{ else }}Tous les classements{{ end }} &rarr;</a>
+        </div>
+        <div class="une-grid">
+            {{ range $une }}
+            <a class="une-card" href="{{ .RelPermalink }}">
+                <div class="une-card-meta">
+                    {{ with .Params.categories }}<span class="une-badge">{{ index . 0 }}</span>{{ end }}
+                    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ time.Format "2 January 2006" .Date }}</time>
+                </div>
+                <h3>{{ partial "resolveyear" .Title }}</h3>
+                <p>{{ partial "resolveyear" .Description }}</p>
+                <span class="une-card-link">{{ if $en }}Read the article{{ else }}Lire l'article{{ end }} &rarr;</span>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+
 <!-- Explorer par occasion / univers (hubs) -->
 <section class="section types-section">
     <div class="container">
@@ -58,7 +88,7 @@
     <div class="container">
         <div class="section-header">
             <div class="section-header-text">
-                <h2>{{ if $en }}Latest news{{ else }}À la une{{ end }}</h2>
+                <h2>{{ if $en }}Latest news{{ else }}L'actu des sorties{{ end }}</h2>
                 <p>{{ if $en }}The freshest outings in Paris{{ else }}L'actu des sorties à Paris, mise à jour en continu{{ end }}</p>
             </div>
             <a href="{{ .RelPermalink }}" class="section-link">{{ if $en }}All news{{ else }}Toute l'actu{{ end }} &rarr;</a>

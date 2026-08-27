@@ -20,23 +20,44 @@
 {{ if $une }}
 <section class="section une-section">
     <div class="container">
-        <div class="section-header">
+        <div class="section-header une-header">
             <div class="section-header-text">
+                <span class="une-eyebrow">{{ if $en }}Just published{{ else }}Fraîchement publié{{ end }}</span>
                 <h2>{{ if $en }}Featured{{ else }}À la une{{ end }}</h2>
-                <p>{{ if $en }}Our three latest selections and guides{{ else }}Nos trois derniers classements et guides publiés{{ end }}</p>
+                <p>{{ if $en }}Our three latest rankings and practical guides{{ else }}Nos trois derniers classements et guides pratiques{{ end }}</p>
             </div>
             <a href="{{ "tops/" | relLangURL }}" class="section-link">{{ if $en }}All rankings{{ else }}Tous les classements{{ end }} &rarr;</a>
         </div>
         <div class="une-grid">
-            {{ range $une }}
-            <a class="une-card" href="{{ .RelPermalink }}">
-                <div class="une-card-meta">
-                    {{ with .Params.categories }}<span class="une-badge">{{ index . 0 }}</span>{{ end }}
-                    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ time.Format "2 January 2006" .Date }}</time>
+            {{ range $i, $p := $une }}
+            {{ $photo := "" }}{{ $an := $p.Params.author }}
+            {{ with site.GetPage "/authors" }}{{ range .Pages }}{{ if eq .Title $an }}{{ $photo = .Params.photo }}{{ end }}{{ end }}{{ end }}
+            {{ $fmt := $p.Params.format }}
+            <a class="une-card" href="{{ $p.RelPermalink }}">
+                <div class="une-card-visual">
+                    <span class="une-card-glyph">{{ partial "hub-icon" $p.Section }}</span>
+                    <span class="une-card-index">{{ printf "%02d" (add $i 1) }}</span>
+                    <div class="une-card-tags">
+                        {{ if eq $fmt "top" }}<span class="une-tag">{{ if $en }}Ranking{{ else }}Classement{{ end }}</span>
+                        {{ else if eq $fmt "guide" }}<span class="une-tag">{{ if $en }}Guide{{ else }}Guide{{ end }}</span>{{ end }}
+                        {{ if eq $i 0 }}<span class="une-tag une-tag-new">{{ if $en }}New{{ else }}Nouveau{{ end }}</span>{{ end }}
+                    </div>
                 </div>
-                <h3>{{ partial "resolveyear" .Title }}</h3>
-                <p>{{ partial "resolveyear" .Description }}</p>
-                <span class="une-card-link">{{ if $en }}Read the article{{ else }}Lire l'article{{ end }} &rarr;</span>
+                <div class="une-card-body">
+                    {{ with $p.Params.categories }}<span class="une-badge">{{ index . 0 }}</span>{{ end }}
+                    <h3>{{ partial "resolveyear" $p.Title }}</h3>
+                    <p>{{ partial "resolveyear" $p.Description }}</p>
+                </div>
+                <div class="une-card-footer">
+                    <span class="une-author">
+                        <span class="une-avatar">{{ if $photo }}<img src="{{ strings.TrimPrefix "/" $photo | relURL }}" alt="{{ $an }}" loading="lazy" width="32" height="32">{{ else }}{{ substr $an 0 1 }}{{ end }}</span>
+                        <span class="une-author-meta">
+                            <strong>{{ $an }}</strong>
+                            <time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ time.Format "2 January 2006" $p.Date }} &middot; {{ $p.ReadingTime }} min</time>
+                        </span>
+                    </span>
+                    <span class="une-arrow" aria-hidden="true">&rarr;</span>
+                </div>
             </a>
             {{ end }}
         </div>

@@ -97,7 +97,7 @@ Trois familles reviennent dans presque tous les catalogues d'agences, sans lieu 
 
 - **L'atelier cuisine ou pâtisserie**, en équipes qui préparent puis partagent le repas. Format apprécié des équipes qui veulent parler plus que bouger, contraint par la taille des ateliers, rarement au-delà de 20 personnes par créneau.
 - **Les olympiades et défis en équipes**, une série d'épreuves courtes montées sur mesure. C'est le format le plus élastique en effectif, mais sa réussite dépend entièrement de l'animateur.
-- **Le rallye ou la chasse au trésor urbaine**, déjà présent dans notre comparatif, qui fait découvrir un quartier en équipes concurrentes.
+- **Le rallye ou la chasse au trésor urbaine**, format déjà présent dans notre comparatif, qui fait découvrir un quartier en équipes concurrentes.
 
 Deux autres formats circulent beaucoup sans convenir à tous les groupes. La réalité virtuelle en salle, spectaculaire mais limitée à quelques joueurs simultanés et inconfortable pour ceux qui sont sensibles au mal des transports. Et la soirée sur une péniche ou un bateau, très demandée en été, où l'activité passe au second plan derrière le cadre et le repas.
 

@@ -37,8 +37,8 @@ Deux réserves à connaître. Les fusils ont un poids réel, ce qui surprend et 
 ## Infos pratiques
 
 - **Adresse** : 6 rue de Paradis, Paris 10e, à proximité de la Gare de l'Est. L'enseigne n'exploite à ce jour qu'une seule adresse, à Paris
-- **Formules** : à partir de 16 euros par personne en formule simple, 36 euros en formule team building avec une consommation et un plat pour quatre, privatisation complète des 400 m² à partir de 30 personnes
-- **Capacité** : boxes de 2 à 66 personnes selon la configuration
+- **Formules** : à partir de 16 euros par personne en formule simple, 36 euros en formule team building avec une consommation et un plat, à partir de 4 personnes. Privatisation complète du lieu à partir de 30 personnes. Les tarifs varient ensuite selon la date, l'horaire et le box choisi
+- **Capacité** : 9 boxes de 4 à 12 personnes, soit 66 joueurs au total selon la configuration
 - **Horaires** : du mardi au jeudi de 15h à minuit, vendredi de 15h à 1h, samedi de 14h à 1h, dimanche de 14h à minuit, fermé le lundi
 - **Site** : [pan.bar](https://pan.bar/)
 

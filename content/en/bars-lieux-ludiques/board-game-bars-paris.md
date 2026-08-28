@@ -1,13 +1,13 @@
 ---
 title: "Game bars in Paris: 7 places to play with a drink in hand in {annee}"
 seoTitle: "Game bars in Paris: the 7 best playful venues in {annee}"
-description: "Our pick of board game bars and playful bars in Paris, with the real price, the neighbourhood, the group size and the vibe for each address."
+description: "Our pick of board game bars in Paris for a group, board games, arcade, darts or shooting, with the real price, the neighbourhood, the group size and the vibe for each address."
 date: 2026-08-17
-lastmod: 2026-08-17
+lastmod: 2026-08-28
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
 categories: ["Fun bars & venues"]
-tags: ["game bar", "unusual bar", "afterwork", "night out with friends", "Paris"]
+tags: ["game bar", "board game bar", "arcade bar", "unusual bar", "afterwork", "night out with friends", "Paris"]
 villes: ["Paris"]
 translationKey: "bars-a-jeux-paris"
 format: "top"
@@ -50,7 +50,7 @@ Having a drink is fine. Having a drink while playing a board game, shooting at t
 
 Two very different families hide behind the "playful bar" label, and picking the wrong one is how an evening falls flat.
 
-A **board game bar** works like a normal bar with a self-service game library. You pay a small play fee, you pick from the shelves, you stay three hours. It is the cheapest format, the chattiest, and the best fit for groups that want to talk as much as they play.
+A **board game bar** works like a normal bar with a self-service game library. You pay a small play fee, you pick from the shelves, you stay three hours. It is the cheapest format, the chattiest, and the best fit for groups that want to talk as much as they play. Several addresses add arcade cabinets and darts, which lets you switch when a game drags on.
 
 An **activity bar** works on booking. You block a lane, a box or a room for an hour or two, with an activity that shapes the whole evening. It costs more, it looks better, and it works far better when the group does not know each other yet.
 

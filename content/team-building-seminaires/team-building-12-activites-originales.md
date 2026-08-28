@@ -3,11 +3,11 @@ title: "Les meilleures activités de team building à Paris en {annee}"
 seoTitle: "Meilleures activités de team building à Paris en {annee}"
 description: "Notre sélection d'activités de team building à Paris, avec les tarifs réels, les effectifs acceptés et les repères pour choisir selon l'équipe, le budget et l'ambiance recherchée."
 date: 2026-07-20
-lastmod: 2026-08-27
+lastmod: 2026-08-28
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building et séminaires"]
-tags: ["team building", "activité de groupe", "séminaire", "Paris", "cohésion d'équipe"]
+tags: ["team building", "team building en intérieur", "activité de groupe", "séminaire", "Paris", "cohésion d'équipe"]
 villes: ["Paris"]
 aliases: ["/blog/team-building-12-activites-originales/"]
 translationKey: "team-building-paris"
@@ -91,11 +91,27 @@ The Game reste l'un des escape games les plus reconnus de Paris, avec plusieurs 
 
 La limite de ces formats tient à la capacité. Un escape game classique fait jouer une équipe par salle, ce qui oblige à multiplier les créneaux ou les enseignes dès qu'on dépasse la vingtaine de participants.
 
+## Les autres formats classiques à Paris
+
+Trois familles reviennent dans presque tous les catalogues d'agences, sans lieu fixe attitré, parce qu'elles se déplacent dans vos locaux ou dans une salle louée pour l'occasion.
+
+- **L'atelier cuisine ou pâtisserie**, en équipes qui préparent puis partagent le repas. Format apprécié des équipes qui veulent parler plus que bouger, contraint par la taille des ateliers, rarement au-delà de 20 personnes par créneau.
+- **Les olympiades et défis en équipes**, une série d'épreuves courtes montées sur mesure. C'est le format le plus élastique en effectif, mais sa réussite dépend entièrement de l'animateur.
+- **Le rallye ou la chasse au trésor urbaine**, déjà présent dans notre comparatif, qui fait découvrir un quartier en équipes concurrentes.
+
+Deux autres formats circulent beaucoup sans convenir à tous les groupes. La réalité virtuelle en salle, spectaculaire mais limitée à quelques joueurs simultanés et inconfortable pour ceux qui sont sensibles au mal des transports. Et la soirée sur une péniche ou un bateau, très demandée en été, où l'activité passe au second plan derrière le cadre et le repas.
+
 ## Escape game ou action game, comment trancher
 
 La confusion est fréquente et elle coûte des déceptions. Un escape game repose sur des énigmes, dans une salle fermée qu'il faut quitter avant la fin du temps imparti. Un action game repose sur des épreuves physiques et d'adresse, dans un parcours qu'on traverse, avec un score à la clé.
 
 Pour un team building, la question à se poser est celle du profil de l'équipe. Une équipe qui aime réfléchir et discuter tirera plus de satisfaction d'un escape game. Une équipe qui a besoin de se défouler après une période chargée, ou qui compte des profils peu joueurs, s'amusera davantage sur un format où l'action prime sur la logique. L'action game a un autre avantage en contexte professionnel, il ne met personne en difficulté sur ses connaissances.
+
+## Le team building en intérieur à Paris
+
+C'est la demande la plus fréquente, et pas seulement en hiver. Un team building en intérieur supprime l'aléa météo, ce qui compte quand la date est bloquée trois mois à l'avance et qu'un report coûte cher en réorganisation. Il raccourcit aussi les temps de trajet, la plupart des lieux couverts étant dans Paris intra-muros plutôt qu'en périphérie.
+
+Tous les formats de notre comparatif se pratiquent en intérieur, à l'exception de la chasse au trésor urbaine. Les trois points à vérifier avant de réserver une salle couverte sont le volume sonore, plusieurs équipes dans un même espace rendent parfois les consignes inaudibles, la ventilation quand l'activité fait transpirer, et l'existence d'un espace à part pour poser les manteaux et les sacs, rarement prévu et pourtant décisif en janvier.
 
 ## Quel format selon la taille de l'équipe
 

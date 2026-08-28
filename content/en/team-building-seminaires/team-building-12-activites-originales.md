@@ -3,11 +3,11 @@ title: "The best team building activities in Paris in {annee}"
 seoTitle: "Best team building activities in Paris in {annee}"
 description: "Our selection of team building activities in Paris, with real prices, group sizes and the cues to choose based on your team, your budget and the mood you are after."
 date: 2026-07-20
-lastmod: 2026-08-27
+lastmod: 2026-08-28
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building"]
-tags: ["team building", "group activity", "seminar", "Paris", "team cohesion"]
+tags: ["team building", "indoor team building", "group activity", "seminar", "Paris", "team cohesion"]
 villes: ["Paris"]
 aliases: ["/en/blog/team-building-12-activites-originales/"]
 translationKey: "team-building-paris"
@@ -91,11 +91,27 @@ The Game is still one of the best-known escape games in Paris, with several them
 
 The limit of these formats is capacity. A classic escape game runs one team per room, which forces you to multiply slots or venues as soon as you go past twenty participants.
 
+## The other classic formats in Paris
+
+Three families show up in almost every agency catalogue, with no fixed venue of their own, because they travel to your offices or to a room hired for the occasion.
+
+- **The cooking or pastry workshop**, in teams that prepare then share the meal. A favourite with teams who would rather talk than move, limited by workshop size, rarely above 20 people per slot.
+- **Olympiads and team challenges**, a series of short custom-built events. The most elastic format in headcount, but its success rests entirely on the host.
+- **The urban rally or treasure hunt**, already in our comparison table, which has competing teams explore a neighbourhood.
+
+Two more formats circulate widely without suiting every group. Virtual reality in a dedicated room, spectacular but limited to a few simultaneous players and uncomfortable for anyone prone to motion sickness. And the evening on a barge or boat, in high demand in summer, where the activity takes second place behind the setting and the meal.
+
 ## Escape game or action game, how to decide
 
 The confusion is common and it costs disappointment. An escape game rests on puzzles, in a locked room you have to leave before time runs out. An action game rests on physical and dexterity challenges, along a course you move through, with a score at the end.
 
 For a team building, the question to ask is about the profile of the team. A team that likes to think and talk will get more out of an escape game. A team that needs to let off steam after a heavy stretch, or one with people who are not natural gamers, will enjoy a format where action matters more than logic. The action game has another advantage at work, it puts nobody on the spot over what they know.
+
+## Indoor team building in Paris
+
+This is the most common request, and not only in winter. Indoor team building removes the weather risk, which matters when the date is locked three months ahead and a postponement is expensive to reorganise. It also cuts travel time, since most covered venues sit inside Paris rather than on the outskirts.
+
+Every format in our comparison table is played indoors, except the urban treasure hunt. The three things to check before booking a covered venue are sound levels, as several teams in one space can make instructions inaudible, ventilation when the activity makes people sweat, and whether there is a separate space for coats and bags, rarely planned for and yet decisive in January.
 
 ## Which format for which group size
 

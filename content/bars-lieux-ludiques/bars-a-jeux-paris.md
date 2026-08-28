@@ -1,13 +1,13 @@
 ---
 title: "Bars à jeux à Paris : 7 adresses pour jouer un verre à la main en {annee}"
 seoTitle: "Bar à jeux Paris : les 7 meilleures adresses ludiques en {annee}"
-description: "Notre sélection de bars à jeux et de bars ludiques à Paris, avec pour chaque adresse le prix réel, le quartier, la taille de groupe et le type d'ambiance."
+description: "Notre sélection de bars à jeux à Paris pour un groupe, jeux de société, arcade, fléchettes ou tir, avec pour chaque adresse le prix réel, le quartier, la taille de groupe et le type d'ambiance."
 date: 2026-08-17
-lastmod: 2026-08-17
+lastmod: 2026-08-28
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
 categories: ["Bars et lieux ludiques"]
-tags: ["bar à jeux", "bar insolite", "afterwork", "sortie entre amis", "Paris"]
+tags: ["bar à jeux", "bar à jeux de société", "bar arcade", "bar insolite", "afterwork", "sortie entre amis", "Paris"]
 villes: ["Paris"]
 translationKey: "bars-a-jeux-paris"
 format: "top"
@@ -50,7 +50,7 @@ Boire un verre, c'est bien. Boire un verre en enchaînant les parties, en dégom
 
 Deux familles très différentes se cachent derrière l'étiquette "bar ludique", et se tromper de famille, c'est la soirée qui tombe à plat.
 
-Le **bar à jeux de société** fonctionne comme un bar normal, avec une ludothèque en libre-service. Tu payes un petit droit de jeu, tu pioches dans les étagères, tu restes trois heures. C'est le format le moins cher, le plus bavard, et le plus adapté aux groupes qui veulent discuter autant que jouer.
+Le **bar à jeux de société** fonctionne comme un bar normal, avec une ludothèque en libre-service. Tu payes un petit droit de jeu, tu pioches dans les étagères, tu restes trois heures. C'est le format le moins cher, le plus bavard, et le plus adapté aux groupes qui veulent discuter autant que jouer. Plusieurs adresses y ajoutent des bornes d'arcade et des fléchettes, ce qui permet d'alterner quand une partie s'éternise.
 
 Le **bar à activité** fonctionne à la réservation. Tu bloques une piste, un box ou un salon pour une heure ou deux, avec une activité qui structure toute la soirée. C'est plus cher, plus spectaculaire, et beaucoup plus efficace quand le groupe ne se connaît pas encore.
 

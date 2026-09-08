@@ -18,7 +18,7 @@
 <meta name="bingbot" content="noindex, follow">
 {{- else }}
 <!-- Toutes les autres pages : indexables -->
-<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+{{/* pbn-legal-noindex */}}{{- if .Params.noindex }}<meta name="robots" content="noindex, follow">{{ else }}<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">{{ end }}
 <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 {{- end }}

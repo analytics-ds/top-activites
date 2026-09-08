@@ -1,47 +1,54 @@
 ---
 title: "Mentions légales"
-seoTitle: "Informations éditeur, hébergement et conditions"
-description: "Mentions légales, informations éditeur, hébergement et conditions d'utilisation du site Top Activités."
-date: 2026-07-20
-lastmod: 2026-08-18
+description: "Mentions légales de Top Activités : éditeur, directeur de la publication, hébergement, propriété intellectuelle et droit applicable."
+slug: "mentions-legales"
+translationKey: "legal-notice"
+date: 2026-09-08
+lastmod: 2026-09-08
 ---
-
 ## Éditeur du site
 
-Le site top-activites.fr est un média éditorial indépendant, édité par l'équipe Top Activités.
+Le site Top Activités, accessible à l'adresse https://top-activites.fr/, est édité par une personne physique exerçant en tant qu'éditeur de contenu indépendant.
 
-**Directrice de la publication** : Sarah Nguyen
+**Contact éditorial** : contact@top-activites.fr
 
-**Contact** : contact@top-activites.fr
+## Directeur de la publication
+
+Le directeur de la publication est le responsable éditorial du site Top Activités.
 
 ## Hébergement
 
-Le site est hébergé par GitHub Pages, service de la société GitHub, Inc.
+Le site est hébergé par GitHub, Inc.
 
-**Adresse** : 88 Colin P Kelly Jr Street, San Francisco, CA 94107, États-Unis
+**Adresse** : 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis
+**Site** : https://github.com
 
-La distribution est assurée via Cloudflare, Inc.
+## Nature du site
+
+Top Activités est un site éditorial indépendant. Il publie des contenus d'information, des guides et des comparatifs à visée documentaire. Ces contenus n'ont pas valeur de conseil personnalisé et ne se substituent pas à l'avis d'un professionnel qualifié.
 
 ## Propriété intellectuelle
 
-L'ensemble des contenus publiés sur top-activites.fr (textes, images, graphismes, logo) sont, sauf mention contraire, la propriété exclusive de l'éditeur ou de leurs auteurs respectifs. Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite sans autorisation écrite préalable.
+L'ensemble des contenus publiés sur Top Activités (textes, images, éléments graphiques, structure et mise en page) est protégé par le droit d'auteur. Toute reproduction ou représentation, même partielle, est interdite sans autorisation écrite préalable, en dehors des usages permis par la loi, notamment la courte citation accompagnée de la mention de la source et d'un lien vers la page d'origine.
 
-## Données personnelles
+## Marques et droit de citation
 
-Top Activités ne collecte aucune donnée personnelle via le site, à l'exception des adresses email volontairement transmises par formulaire ou via l'adresse de contact. Ces adresses ne sont utilisées que pour répondre aux demandes concernées et ne sont jamais cédées à des tiers.
+Les marques, dénominations commerciales, logos et noms de produits cités restent la propriété de leurs détenteurs respectifs. Leur mention dans les contenus relève du droit de citation, à des fins d'information éditoriale. Elle n'implique aucun lien de partenariat ni aucune approbation de leur part, sauf lorsque cela est explicitement indiqué.
 
-## Cookies
+## Crédits photographiques
 
-Le site n'utilise pas de cookies de suivi publicitaire. Seuls des cookies strictement nécessaires au fonctionnement du site peuvent être déposés.
+Les visuels utilisés proviennent de productions originales ou de banques d'images libres de droits. Le crédit est indiqué à proximité de l'image lorsque la licence l'exige.
 
-## Liens externes
+## Liens hypertextes
 
-Les articles peuvent contenir des liens vers des sites tiers. Top Activités n'est pas responsable du contenu de ces sites externes ni de leur politique de confidentialité.
+Le site renvoie vers des ressources externes à titre documentaire. L'éditeur n'exerce aucun contrôle sur ces ressources et décline toute responsabilité quant à leur contenu.
 
-## Crédits
+La mise en place d'un lien vers Top Activités est libre et ne requiert pas d'autorisation préalable, dès lors qu'elle ne porte pas atteinte à l'image du site et n'induit pas de confusion sur l'origine des contenus. L'éditeur se réserve le droit de demander le retrait d'un lien qu'il estime contraire à l'objet du site.
 
-Les images illustratives peuvent provenir de banques d'images sous licence (par exemple Unsplash) ou de sources créditées au cas par cas. Chaque image reste la propriété de ses auteurs respectifs.
+## Signalement
+
+Toute personne estimant qu'un contenu publié porte atteinte à ses droits peut le signaler à contact@top-activites.fr, en précisant la page concernée, la nature de l'atteinte invoquée et les éléments qui la justifient. Les signalements fondés sont traités dans les meilleurs délais.
 
 ## Droit applicable
 
-Les présentes mentions légales sont régies par le droit français. En cas de litige, les tribunaux français seront seuls compétents.
+Les présentes mentions légales sont régies par le droit français. Tout litige relève de la compétence des tribunaux français.

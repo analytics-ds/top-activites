@@ -3,7 +3,7 @@ title: "Game bars in Paris: 7 places to play with a drink in hand in {annee}"
 seoTitle: "Game bars in Paris: the 7 best playful venues in {annee}"
 description: "Our pick of board game bars in Paris for a group, board games, arcade, darts or shooting, with the real price, the neighbourhood, the group size and the vibe for each address."
 date: 2026-08-17
-lastmod: 2026-08-28
+lastmod: 2026-09-11
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
 categories: ["Fun bars & venues"]
@@ -21,7 +21,7 @@ faq:
   - question: "How much does a night at a game bar in Paris cost?"
     answer: "In a board game bar, budget 3 to 5 euros of play fee plus your drinks, so around fifteen euros per person for the evening. In an activity bar, the bill runs from 10 to 39 euros per hour depending on the venue and the day, usually billed per lane or per room, so the bigger the group, the lower the cost per head."
   - question: "Can you come as a large group?"
-    answer: "Yes, but each venue has its own limit. Les Petites Flèches take up to 6 players per lane, Le 3Bis rooms hold 4 to 15 people, BAM Karaoke Box rooms go up to 30, and PAN Bar takes 2 to 50 people per session, up to 150 with a full venue buyout."
+    answer: "Yes, but each venue has its own limit. Les Petites Flèches take up to 6 players per lane, Le 3Bis rooms hold 4 to 15 people, BAM Karaoke Box rooms go up to 30, and PAN Bar takes 2 to 10 people per box, up to 66 across several boxes, with a full venue buyout from 30 people."
   - question: "Do you need to book?"
     answer: "Always for activity bars, since lanes and rooms are limited. Les Petites Flèches recommend booking a week ahead. For board game bars you can try your luck on a weekday, but call ahead at weekends or as soon as you are 6 or more."
   - question: "Which playful bar works for a bachelorette party or a birthday?"
@@ -36,7 +36,7 @@ items:
   - name: "Le 3Bis"
     description: "Game bar in Bercy Village, 300 games plus arcade and darts at 3.50 euros per hour, with private karaoke and blind test rooms."
   - name: "PAN Bar"
-    description: "Virtual shooting bar in the 10th, semi-private boxes with guns and a game tablet, from 20 euros per person for 1.5 hours."
+    description: "Virtual shooting bar in the 10th, semi-private boxes with guns and a game tablet, from 16 euros per person on the simple package."
   - name: "Les Petites Flèches"
     description: "Electronic darts bar with three Paris venues, lanes for up to 6 players from 14 to 39 euros per hour."
   - name: "BAM Karaoke Box"
@@ -96,7 +96,7 @@ Next to it, private rooms for karaoke, blind test, quiz, disco club or retro gam
 
 The concept is simple and there is nothing else like it in Paris. You book a semi-private box, pick up two guns and a tablet, and run through a dozen shooting games while the kitchen sends out tapas and the bar sends out cocktails. All of it in a 500 sqm venue in the 10th.
 
-The format runs 1.5 hours, longer than an escape game and shorter than a full bar night, which makes it a solid backbone for an [afterwork](/en/afterwork/) that has to end before the last metro. From **20 euros per person**, with sessions for 2 to 50 people, up to 150 with a venue buyout.
+The format runs 1.5 hours, longer than an escape game and shorter than a full bar night, which makes it a solid backbone for an [afterwork](/en/afterwork/) that has to end before the last metro. From **16 euros per person** on the simple package, with boxes for 2 to 10 people, up to 66 across several boxes, and a buyout of the 400 sqm venue from 30 people.
 
 **Practical details**: 6 rue de Paradis, 75010 Paris. Closed Mondays, open until 1am on Fridays and Saturdays. Online booking, with prices varying by day, time slot and box.
 
@@ -124,7 +124,7 @@ From **10 euros per person for 2 hours**, with rooms for 1 to 30 people. Five ve
 | Les Grands Gamins | 2nd, Cléry | Board games + kitchen | Food and drinks | Small groups |
 | Les Mauvais Joueurs | 11th and 13th | Board games | €5 / person | Small groups |
 | Le 3Bis | 12th, Bercy Village | Games + private rooms | €3.50 / h / person or €16 / h / person | 4 to 15 in a room |
-| PAN Bar | 10th, Paradis | Virtual shooting + food | From €20 / person (1.5h) | 2 to 50, up to 150 |
+| PAN Bar | 10th, Paradis | Virtual shooting + food | From €16 / person | 2 to 10 per box, 66 across boxes |
 | Les Petites Flèches | 9th, 10th, 11th | Electronic darts | €14 to €39 / lane / h | 6 max per lane |
 | BAM Karaoke Box | 2nd, 8th, 9th, 11th, 17th | Private karaoke | From €10 / person (2h) | 1 to 30 |
 
@@ -158,7 +158,7 @@ Budget around fifteen euros per person in a board game bar, play fee and drinks 
 
 ### Can you come as a large group?
 
-Yes, but every venue has its limit. Six players per lane at Les Petites Flèches, 4 to 15 people per room at Le 3Bis, up to 30 in a BAM Karaoke Box room, and 2 to 50 people per session at PAN Bar, which goes up to 150 with a venue buyout.
+Yes, but every venue has its limit. Six players per lane at Les Petites Flèches, 4 to 15 people per room at Le 3Bis, up to 30 in a BAM Karaoke Box room, and 2 to 10 people per box at PAN Bar, 66 across several boxes, with a venue buyout from 30 people.
 
 ### Do you need to book?
 

@@ -3,7 +3,7 @@ title: "Bars à jeux à Paris : 7 adresses pour jouer un verre à la main en {an
 seoTitle: "Bar à jeux Paris : les 7 meilleures adresses ludiques en {annee}"
 description: "Notre sélection de bars à jeux à Paris pour un groupe, jeux de société, arcade, fléchettes ou tir, avec pour chaque adresse le prix réel, le quartier, la taille de groupe et le type d'ambiance."
 date: 2026-08-17
-lastmod: 2026-08-28
+lastmod: 2026-09-11
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
 categories: ["Bars et lieux ludiques"]
@@ -21,7 +21,7 @@ faq:
   - question: "Combien coûte une soirée dans un bar à jeux à Paris ?"
     answer: "Dans un bar à jeux de société, prévois 3 à 5 euros de droit de jeu plus tes consommations, soit une quinzaine d'euros par personne pour la soirée. Dans un bar à activité, la note grimpe entre 10 et 39 euros de l'heure selon le lieu et le jour, souvent facturés à la piste ou au box, donc plus le groupe est grand, moins ça coûte par tête."
   - question: "Peut-on venir en grand groupe ?"
-    answer: "Oui, mais pas partout de la même façon. Les pistes de fléchettes des Petites Flèches accueillent 6 joueurs maximum, les salons du 3Bis vont de 4 à 15 personnes, les boxes de BAM Karaoké Box montent jusqu'à 30 personnes, et PAN Bar prend de 2 à 50 personnes sur une session, jusqu'à 150 en privatisant le lieu."
+    answer: "Oui, mais pas partout de la même façon. Les pistes de fléchettes des Petites Flèches accueillent 6 joueurs maximum, les salons du 3Bis vont de 4 à 15 personnes, les boxes de BAM Karaoké Box montent jusqu'à 30 personnes, et PAN Bar prend de 2 à 10 personnes par box, jusqu'à 66 en réservant plusieurs box, la privatisation complète du lieu démarrant à 30 personnes."
   - question: "Faut-il réserver ?"
     answer: "Pour les bars à activité, oui, systématiquement, la ressource est limitée par le nombre de pistes ou de boxes. Les Petites Flèches conseillent une semaine d'avance. Pour les bars à jeux de société, tu peux tenter sans réserver en semaine, mais le week-end et à partir de 6 personnes, mieux vaut prévenir."
   - question: "Quel bar ludique choisir pour un EVJF ou un anniversaire ?"
@@ -36,7 +36,7 @@ items:
   - name: "Le 3Bis"
     description: "Bar à jeux de Bercy Village, 300 jeux plus arcade et fléchettes à 3,50 euros de l'heure, avec des salons privatifs karaoké et blind test."
   - name: "PAN Bar"
-    description: "Bar de tir virtuel du 10e, boxes semi-privatifs avec fusils et tablette de jeux, à partir de 20 euros par personne pour 1h30."
+    description: "Bar de tir virtuel du 10e, boxes semi-privatifs avec fusils et tablette de jeux, à partir de 16 euros par personne en formule simple."
   - name: "Les Petites Flèches"
     description: "Bar à fléchettes électroniques, trois adresses à Paris, pistes de 6 joueurs maximum de 14 à 39 euros de l'heure."
   - name: "BAM Karaoké Box"
@@ -96,7 +96,7 @@ Le 3Bis joue sur les deux tableaux, et c'est ce qui le rend malin. Au rez-de-cha
 
 Le concept est simple et il ne ressemble à rien d'autre à Paris. Tu réserves un box semi-privatif, tu récupères deux fusils et une tablette, et tu enchaînes une dizaine de jeux de tir pendant que la cuisine t'envoie des tapas et que le bar t'envoie des cocktails. Le tout dans un lieu de 500 m², dans le 10e.
 
-Le format tient 1h30, ce qui est plus long qu'un escape game et plus court qu'une soirée de bar, donc parfait comme colonne vertébrale d'un [afterwork](/afterwork/) qui doit finir avant le dernier métro. À partir de **20 euros par personne**, et les sessions vont de 2 à 50 personnes, jusqu'à 150 en privatisant.
+Le format tient 1h30, ce qui est plus long qu'un escape game et plus court qu'une soirée de bar, donc parfait comme colonne vertébrale d'un [afterwork](/afterwork/) qui doit finir avant le dernier métro. À partir de **16 euros par personne** en formule simple, et les sessions vont de 2 à 10 personnes par box, jusqu'à 66 en multi-box, la privatisation des 400 m² démarrant à 30 personnes.
 
 **En pratique** : 6 rue de Paradis, 75010 Paris. Fermé le lundi, ouvert jusqu'à 1h les vendredis et samedis. Réservation en ligne, le prix varie selon le jour, l'horaire et le box choisi.
 
@@ -124,7 +124,7 @@ La facturation se fait **à la piste et à l'heure**, avec 6 joueurs maximum par
 | Les Grands Gamins | 2e, Cléry | Jeux de société + cuisine | Conso | Petits groupes |
 | Les Mauvais Joueurs | 11e et 13e | Jeux de société | 5 € / pers | Petits groupes |
 | Le 3Bis | 12e, Bercy Village | Jeux + salons privatifs | 3,50 € / h / pers ou 16 € / h / pers | 4 à 15 en salon |
-| PAN Bar | 10e, Paradis | Tir virtuel + resto | Dès 20 € / pers (1h30) | 2 à 50, jusqu'à 150 |
+| PAN Bar | 10e, Paradis | Tir virtuel + resto | Dès 16 € / pers | 2 à 10 par box, 66 en multi-box |
 | Les Petites Flèches | 9e, 10e, 11e | Fléchettes électroniques | 14 à 39 € / piste / h | 6 max par piste |
 | BAM Karaoké Box | 2e, 8e, 9e, 11e, 17e | Karaoké privatif | Dès 10 € / pers (2h) | 1 à 30 |
 
@@ -158,7 +158,7 @@ Compte une quinzaine d'euros par personne dans un bar à jeux de société, droi
 
 ### Peut-on venir en grand groupe ?
 
-Oui, mais chaque lieu a sa limite. 6 joueurs par piste aux Petites Flèches, 4 à 15 personnes selon le salon au 3Bis, jusqu'à 30 dans les boxes de BAM Karaoké Box, et de 2 à 50 personnes par session chez PAN Bar, qui monte à 150 en privatisation.
+Oui, mais chaque lieu a sa limite. 6 joueurs par piste aux Petites Flèches, 4 à 15 personnes selon le salon au 3Bis, jusqu'à 30 dans les boxes de BAM Karaoké Box, et de 2 à 10 personnes par box chez PAN Bar, 66 en réservant plusieurs box, la privatisation du lieu démarrant à 30 personnes.
 
 ### Faut-il réserver ?
 

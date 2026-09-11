@@ -51,9 +51,9 @@ There is no point comparing ten venues before answering these three questions.
 
 | Format | Ideal group | Exposure | Food on site | Indicative price |
 |---|---|---|---|---|
-| Virtual shooting bar | 2 to 50, more with private hire | Low, you shoot in turns | Yes | From 16 to 20 € per person for 1h30 |
+| Virtual shooting bar | 2 to 10 per box, up to 66 across several boxes | Low, you shoot in turns | Yes | From 16 € per person |
 | Board game bar | 4 to 10 | None | Depends on the venue | Around 15 € per person |
-| Connected darts | 4 to 6 per lane | Low | Often limited | 10 to 39 € per hour per lane |
+| Connected darts | up to 6 per lane | Low | Often limited | 10 to 39 € per hour per lane |
 | Karaoke box | 4 to 30 depending on the box | High, you sing in front of the group | Yes | Per box, per hour |
 | Arcade or retrogaming bar | 2 to 8 | None | Rarely | Per game or per drink |
 | Sports concept bar | Variable | Low | Depends on the venue | Per hour or per court |
@@ -66,9 +66,9 @@ Venue by venue capacities are detailed in our selection of [board game bars in P
 
 You are looking for a space of your own and a slot that covers the whole evening. Karaoke boxes and virtual shooting bars tick both, with drinks and food served without moving.
 
-[PAN Bar](https://pan.bar/), at 6 rue de Paradis in the 10th arrondissement, runs on exactly that principle. You book a semi private box for 2 to 50 people, with two guns, a tablet to launch the games and order, a tapas menu and cocktails. Prices start around 16 to 20 euros per person for ninety minutes and rise depending on the day and the time slot, with full private hire going up to 150 people. Closed on Mondays.
+[PAN Bar](https://pan.bar/), at 6 rue de Paradis in the 10th arrondissement, runs on exactly that principle. You book a semi private box for 2 to 10 people, and several boxes as the group grows, up to 66 people on the simple package. Each box has two guns and a tablet to launch the games and order, with a tapas menu and cocktails. Prices start at 16 euros per person and vary with the day, the time slot and the box, while buying out the full 400 sqm is possible from 30 people. Closed on Mondays.
 
-If the group would rather talk than play, a board game bar such as [Le 3Bis](https://le3bis.com/) holds the evening better, as long as you stay under eight or ten people.
+If the group would rather talk than play, a board game bar such as [Le 3Bis](https://le3bis.com/) holds the evening better, with rooms for 4 to 15 people depending on the layout.
 
 ### An afterwork with colleagues
 

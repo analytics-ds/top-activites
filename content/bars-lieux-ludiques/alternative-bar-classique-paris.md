@@ -51,9 +51,9 @@ Inutile de comparer dix adresses avant d'avoir répondu à ces trois questions.
 
 | Format | Groupe idéal | Exposition | Repas sur place | Prix indicatif |
 |---|---|---|---|---|
-| Bar à tir virtuel | 2 à 50, plus en privatisation | Faible, on tire à tour de rôle | Oui | À partir de 16 à 20 € par personne pour 1h30 |
+| Bar à tir virtuel | 2 à 10 par box, jusqu'à 66 en multi-box | Faible, on tire à tour de rôle | Oui | À partir de 16 € par personne |
 | Bar à jeux de société | 4 à 10 | Nulle | Selon les lieux | Une quinzaine d'euros par personne |
-| Fléchettes connectées | 4 à 6 par piste | Faible | Souvent limité | 10 à 39 € de l'heure par piste |
+| Fléchettes connectées | jusqu'à 6 par piste | Faible | Souvent limité | 10 à 39 € de l'heure par piste |
 | Karaoké box | 4 à 30 selon le box | Forte, on chante devant le groupe | Oui | Au box, à l'heure |
 | Bar arcade ou rétrogaming | 2 à 8 | Nulle | Rarement | Au jeu ou à la consommation |
 | Bar à concept sportif | Variable | Faible | Selon les lieux | À l'heure ou au terrain |
@@ -66,9 +66,9 @@ Le détail des adresses et des capacités est dans notre sélection de [bars à 
 
 Tu cherches un espace à vous et un créneau qui tient la soirée entière. Le karaoké box et le bar à tir virtuel cochent les deux cases, avec service de boissons et de nourriture sans avoir à bouger.
 
-[PAN Bar](https://pan.bar/), au 6 rue de Paradis dans le 10e, fonctionne sur ce principe. Tu réserves un box semi-privatif de 2 à 50 personnes, avec deux fusils, une tablette pour lancer les jeux et commander, une carte de tapas et des cocktails. Les tarifs démarrent autour de 16 à 20 euros par personne pour une heure trente et montent selon le jour et l'horaire, la privatisation complète allant jusqu'à 150 personnes. Fermé le lundi.
+[PAN Bar](https://pan.bar/), au 6 rue de Paradis dans le 10e, fonctionne sur ce principe. Tu réserves un box semi-privatif de 2 à 10 personnes, et plusieurs box quand le groupe grossit, jusqu'à 66 personnes en formule simple. Chaque box a deux fusils, une tablette pour lancer les jeux et commander, avec une carte de tapas et des cocktails. Les tarifs démarrent à 16 euros par personne et varient ensuite selon le jour, l'horaire et le box, la privatisation des 400 m² étant possible à partir de 30 personnes. Fermé le lundi.
 
-Si le groupe préfère parler que jouer, un bar à jeux de société comme [Le 3Bis](https://le3bis.com/) tient mieux la distance, à condition de rester sous huit ou dix personnes.
+Si le groupe préfère parler que jouer, un bar à jeux de société comme [Le 3Bis](https://le3bis.com/) tient mieux la distance, avec des salons de 4 à 15 personnes selon la configuration.
 
 ### Un afterwork avec les collègues
 

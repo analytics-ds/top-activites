@@ -3,7 +3,7 @@ title: "C'est quoi un bar à jeux ?"
 seoTitle: "Bar à jeux : définition, prix du droit de jeu et fonctionnement"
 description: "Définition du bar à jeux : un bar avec ludothèque en libre-service (droit de jeu de 3 à 5 euros) ou avec activité intégrée facturée au créneau, comme les fléchettes ou le karaoké."
 date: 2026-08-21
-lastmod: 2026-08-21
+lastmod: 2026-09-11
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
 categories: ["Bars et lieux ludiques"]
@@ -23,7 +23,7 @@ Un bar à jeux est un bar classique, avec en plus une ludothèque en libre-servi
 
 ## Bar à jeux ou social bar ?
 
-Le terme social bar désigne les bars pensés pour faire jouer et se rencontrer les gens, animations comprises. Dans les faits, la frontière avec le bar à activité est mince. PAN Bar à Paris, par exemple, propose des box de tir ludique sur écran, réservables au créneau pour des groupes jusqu'à 50 personnes, avec bar et cuisine sur place.
+Le terme social bar désigne les bars pensés pour faire jouer et se rencontrer les gens, animations comprises. Dans les faits, la frontière avec le bar à activité est mince. PAN Bar à Paris, par exemple, propose des box de tir ludique sur écran, réservables au créneau pour des groupes jusqu'à 66 personnes, avec bar et cuisine sur place.
 
 ## Pour aller plus loin
 

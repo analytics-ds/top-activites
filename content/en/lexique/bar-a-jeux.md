@@ -3,7 +3,7 @@ title: "What is a board game bar?"
 seoTitle: "Board game bar: definition, game fee and how it works"
 description: "Definition of the board game bar: a bar with a self-service game library (3 to 5 euro game fee) or a built-in activity charged per slot, like darts or karaoke."
 date: 2026-08-21
-lastmod: 2026-08-21
+lastmod: 2026-09-11
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
 categories: ["Fun bars and venues"]
@@ -23,7 +23,7 @@ A board game bar is a regular bar with, on top, a self-service game library or a
 
 ## Board game bar or social bar?
 
-The term social bar covers bars designed to make people play and meet, entertainment included. In practice, the line with the activity bar is thin. PAN Bar in Paris, for instance, offers playful screen-based shooting booths, bookable by slot for groups of up to 50 people, with a bar and kitchen on site.
+The term social bar covers bars designed to make people play and meet, entertainment included. In practice, the line with the activity bar is thin. PAN Bar in Paris, for instance, offers playful screen-based shooting booths, bookable by slot for groups of up to 66 people, with a bar and kitchen on site.
 
 ## Going further
 

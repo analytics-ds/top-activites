@@ -116,10 +116,10 @@ articles:
     volume: 600
     kd: null
     scheduled_date: 2026-08-28
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-08-27
+    published_url_fr: "https://top-activites.fr/bars-lieux-ludiques/alternative-karaoke-paris/"
+    published_url_en: "https://top-activites.fr/en/bars-lieux-ludiques/karaoke-alternative-paris/"
     error: null
 
   - kw: "afterwork paris"
@@ -171,10 +171,10 @@ articles:
     volume: 100
     kd: null
     scheduled_date: 2026-09-15
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-11
+    published_url_fr: "https://top-activites.fr/bars-lieux-ludiques/alternative-bar-classique-paris/"
+    published_url_en: "https://top-activites.fr/en/bars-lieux-ludiques/alternative-to-a-classic-bar-paris/"
     error: null
 
   - kw: "ou feter son anniversaire a paris"
@@ -193,6 +193,105 @@ articles:
     volume: 5
     kd: null
     scheduled_date: 2026-09-22
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+# -----------------------------------------------------------------------
+# VOLET SAISONNIER EVERGREEN (ajoute le 2026-09-14)
+# -----------------------------------------------------------------------
+# Articles saisonniers concus comme des pages permanentes, pas des actus :
+# URL sans annee, annee dynamique {annee} dans le title, mise a jour chaque
+# annee plutot que republication. Volumes Haloscan verifies le 2026-09-14.
+# scheduled_date = 4 a 6 semaines avant le pic de recherche, le temps que la
+# page soit indexee et reprise par les moteurs IA.
+# Rattachement Roadmap GEO Bomb Squad & PAN Bar : clusters Saisonnier B2B,
+# Saisonnier grand public, Cadeau, Creux de calendrier, Anniversaire adulte.
+
+  - kw: "soiree halloween paris"
+    category: "Activités insolites"
+    volume: 1000
+    kd: null
+    scheduled_date: 2026-09-16
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "soiree de fin d'annee entreprise paris"
+    category: "Team building et séminaires"
+    volume: 600
+    kd: null
+    scheduled_date: 2026-09-19
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "soiree nouvel an paris"
+    category: "Activités insolites"
+    volume: 1455
+    kd: null
+    scheduled_date: 2026-09-30
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "que faire a paris en decembre"
+    category: "Activités insolites"
+    volume: 320
+    kd: null
+    scheduled_date: 2026-10-14
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "idee secret santa"
+    category: "Activités insolites"
+    volume: 347
+    kd: null
+    scheduled_date: 2026-10-28
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "que faire a paris quand il pleut"
+    category: "Activités insolites"
+    volume: 480
+    kd: null
+    scheduled_date: 2026-11-04
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sortie dimanche paris"
+    category: "Bars et lieux ludiques"
+    volume: 110
+    kd: null
+    scheduled_date: 2026-11-18
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "que faire a paris en janvier"
+    category: "Activités insolites"
+    volume: 10
+    kd: null
+    scheduled_date: 2026-12-02
     status: todo
     published_date: null
     published_url_fr: null

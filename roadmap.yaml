@@ -83,12 +83,18 @@
 # aurait publie du hors-sujet en duplicate d'un blog vivant du reseau.
 # A remplir avec de vrais mots-cles de sorties et activites de groupe a Paris.
 
-# Volumes Haloscan verifies le 2026-08-18 (moyenne mensuelle France).
-# kd laisse a null (Haloscan ne fournit pas de KD comparable).
-# Cadence : 2 evergreen/semaine (mardi et vendredi), pour rester sous la limite
-# de 4 publications/semaine en comptant l'actu.
+# Volumes Haloscan verifies les 2026-08-18, 2026-09-14 (moyenne mensuelle France).
+# Cadence : 1 article par jour, decidee par Charlie le 2026-09-14 (le budget du
+# projet ne permet pas d'etaler). Deroge a la regle indicative de 4 articles par
+# semaine du reseau, sur arbitrage client.
+# Saisonniers evergreen (URL sans annee, annee dynamique dans le title, mise a
+# jour annuelle) places 4 a 6 semaines avant leur pic : octobre, fin d'annee
+# entreprise, Nouvel An, decembre, Secret Santa, pluie, dimanche, janvier.
+# Sujets tires des 131 prompts monitores de la Roadmap GEO Bomb Squad & PAN Bar
+# et de leurs query fan-out.
 
 articles:
+# --- deja publies ---
   - kw: "bar rooftop paris"
     category: "Bars et lieux ludiques"
     volume: 579
@@ -98,17 +104,6 @@ articles:
     published_date: 2026-08-21
     published_url_fr: "https://top-activites.fr/bars-lieux-ludiques/bar-rooftop-paris/"
     published_url_en: "https://top-activites.fr/en/bars-lieux-ludiques/rooftop-bars-paris/"
-    error: null
-
-  - kw: "evjf paris"
-    category: "EVJF"
-    volume: 880
-    kd: null
-    scheduled_date: 2026-08-25
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
     error: null
 
   - kw: "karaoke paris"
@@ -122,50 +117,6 @@ articles:
     published_url_en: "https://top-activites.fr/en/bars-lieux-ludiques/karaoke-alternative-paris/"
     error: null
 
-  - kw: "afterwork paris"
-    category: "Afterwork"
-    volume: 800
-    kd: null
-    scheduled_date: 2026-09-01
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: null
-
-  - kw: "lancer de hache paris"
-    category: "Activités insolites"
-    volume: 3385
-    kd: null
-    scheduled_date: 2026-09-04
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: null
-
-  - kw: "activites evg paris"
-    category: "EVG"
-    volume: 127
-    kd: null
-    scheduled_date: 2026-09-08
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: null
-
-  - kw: "activite insolite paris"
-    category: "Activités insolites"
-    volume: 171
-    kd: null
-    scheduled_date: 2026-09-11
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: null
-
   - kw: "bar insolite paris"
     category: "Bars et lieux ludiques"
     volume: 100
@@ -177,44 +128,24 @@ articles:
     published_url_en: "https://top-activites.fr/en/bars-lieux-ludiques/alternative-to-a-classic-bar-paris/"
     error: null
 
-  - kw: "ou feter son anniversaire a paris"
-    category: "Activités insolites"
-    volume: 880
-    kd: null
-    scheduled_date: 2026-09-18
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: null
-
-  - kw: "team building original"
-    category: "Team building et séminaires"
-    volume: 5
-    kd: null
-    scheduled_date: 2026-09-22
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: null
-
-# -----------------------------------------------------------------------
-# VOLET SAISONNIER EVERGREEN (ajoute le 2026-09-14)
-# -----------------------------------------------------------------------
-# Articles saisonniers concus comme des pages permanentes, pas des actus :
-# URL sans annee, annee dynamique {annee} dans le title, mise a jour chaque
-# annee plutot que republication. Volumes Haloscan verifies le 2026-09-14.
-# scheduled_date = 4 a 6 semaines avant le pic de recherche, le temps que la
-# page soit indexee et reprise par les moteurs IA.
-# Rattachement Roadmap GEO Bomb Squad & PAN Bar : clusters Saisonnier B2B,
-# Saisonnier grand public, Cadeau, Creux de calendrier, Anniversaire adulte.
-
   - kw: "soiree halloween paris"
     category: "Activités insolites"
     volume: 1000
     kd: null
-    scheduled_date: 2026-09-16
+    scheduled_date: 2026-09-14
+    status: done
+    published_date: 2026-09-14
+    published_url_fr: "https://top-activites.fr/activites-insolites/soiree-halloween-paris/"
+    published_url_en: "https://top-activites.fr/en/activites-insolites/halloween-party-paris/"
+    error: null
+
+# --- file quotidienne, 1 par jour a partir du 2026-09-15 ---
+
+  - kw: "que faire a paris en octobre"
+    category: "Activités insolites"
+    volume: 90
+    kd: null
+    scheduled_date: 2026-09-14
     status: todo
     published_date: null
     published_url_fr: null
@@ -225,7 +156,95 @@ articles:
     category: "Team building et séminaires"
     volume: 600
     kd: null
+    scheduled_date: 2026-09-16
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "activite originale paris"
+    category: "Activités insolites"
+    volume: 909
+    kd: null
+    scheduled_date: 2026-09-17
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "murder party paris"
+    category: "Activités insolites"
+    volume: 1100
+    kd: null
+    scheduled_date: 2026-09-18
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "action game paris"
+    category: "Activités insolites"
+    volume: 300
+    kd: null
     scheduled_date: 2026-09-19
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "evjf paris"
+    category: "EVJF"
+    volume: 880
+    kd: null
+    scheduled_date: 2026-09-20
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "bar gare du nord"
+    category: "Bars et lieux ludiques"
+    volume: 1000
+    kd: null
+    scheduled_date: 2026-09-21
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "anniversaire 12 ans"
+    category: "Activités insolites"
+    volume: 1000
+    kd: null
+    scheduled_date: 2026-09-22
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "experience immersive paris"
+    category: "Activités insolites"
+    volume: 480
+    kd: null
+    scheduled_date: 2026-09-23
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "team building sportif paris"
+    category: "Team building et séminaires"
+    volume: 70
+    kd: null
+    scheduled_date: 2026-09-24
     status: todo
     published_date: null
     published_url_fr: null
@@ -236,7 +255,183 @@ articles:
     category: "Activités insolites"
     volume: 1455
     kd: null
+    scheduled_date: 2026-09-25
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "lancer de hache paris"
+    category: "Activités insolites"
+    volume: 3385
+    kd: null
+    scheduled_date: 2026-09-26
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "activites evg paris"
+    category: "EVG"
+    volume: 127
+    kd: null
+    scheduled_date: 2026-09-27
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "privatiser un bar paris"
+    category: "Bars et lieux ludiques"
+    volume: 100
+    kd: null
+    scheduled_date: 2026-09-28
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "date original paris"
+    category: "Activités insolites"
+    volume: 170
+    kd: null
+    scheduled_date: 2026-09-29
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "escape game sportif paris"
+    category: "Activités insolites"
+    volume: 70
+    kd: null
     scheduled_date: 2026-09-30
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "game room paris"
+    category: "Bars et lieux ludiques"
+    volume: 170
+    kd: null
+    scheduled_date: 2026-10-01
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "ou feter son anniversaire a paris"
+    category: "Activités insolites"
+    volume: 880
+    kd: null
+    scheduled_date: 2026-10-02
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "afterwork paris"
+    category: "Afterwork"
+    volume: 800
+    kd: null
+    scheduled_date: 2026-10-03
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "anniversaire ado paris"
+    category: "Activités insolites"
+    volume: 90
+    kd: null
+    scheduled_date: 2026-10-04
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "cadeau experience paris"
+    category: "Activités insolites"
+    volume: 92
+    kd: null
+    scheduled_date: 2026-10-05
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "activite insolite paris"
+    category: "Activités insolites"
+    volume: 171
+    kd: null
+    scheduled_date: 2026-10-06
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "que faire a paris en novembre"
+    category: "Activités insolites"
+    volume: 70
+    kd: null
+    scheduled_date: 2026-10-07
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "bar pour groupe paris"
+    category: "Bars et lieux ludiques"
+    volume: null
+    kd: null
+    scheduled_date: 2026-10-08
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "pot de depart paris"
+    category: "Team building et séminaires"
+    volume: 30
+    kd: null
+    scheduled_date: 2026-10-09
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "team building 30 personnes"
+    category: "Team building et séminaires"
+    volume: 20
+    kd: null
+    scheduled_date: 2026-10-10
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "salle de jeux adultes paris"
+    category: "Activités insolites"
+    volume: null
+    kd: null
+    scheduled_date: 2026-10-11
     status: todo
     published_date: null
     published_url_fr: null
@@ -247,7 +442,84 @@ articles:
     category: "Activités insolites"
     volume: 320
     kd: null
+    scheduled_date: 2026-10-12
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "activite couple paris"
+    category: "Activités insolites"
+    volume: null
+    kd: null
+    scheduled_date: 2026-10-13
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "soiree etudiante paris"
+    category: "Bars et lieux ludiques"
+    volume: 40
+    kd: null
     scheduled_date: 2026-10-14
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "team building original"
+    category: "Team building et séminaires"
+    volume: 5
+    kd: null
+    scheduled_date: 2026-10-15
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "alternative laser game paris"
+    category: "Activités insolites"
+    volume: null
+    kd: null
+    scheduled_date: 2026-10-16
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sortie comite entreprise"
+    category: "Team building et séminaires"
+    volume: 10
+    kd: null
+    scheduled_date: 2026-10-17
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "activite de groupe paris"
+    category: "Activités insolites"
+    volume: 320
+    kd: null
+    scheduled_date: 2026-10-18
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "escape game ado paris"
+    category: "Activités insolites"
+    volume: 9
+    kd: null
+    scheduled_date: 2026-10-19
     status: todo
     published_date: null
     published_url_fr: null
@@ -258,7 +530,62 @@ articles:
     category: "Activités insolites"
     volume: 347
     kd: null
-    scheduled_date: 2026-10-28
+    scheduled_date: 2026-10-20
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "cousinade paris"
+    category: "Activités insolites"
+    volume: null
+    kd: null
+    scheduled_date: 2026-10-21
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "activite ludique paris"
+    category: "Activités insolites"
+    volume: null
+    kd: null
+    scheduled_date: 2026-10-22
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "tir paris sans licence"
+    category: "Bars et lieux ludiques"
+    volume: null
+    kd: null
+    scheduled_date: 2026-10-23
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "week end integration"
+    category: "Team building et séminaires"
+    volume: 23
+    kd: null
+    scheduled_date: 2026-10-24
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sortie famille ado paris"
+    category: "Activités insolites"
+    volume: null
+    kd: null
+    scheduled_date: 2026-10-25
     status: todo
     published_date: null
     published_url_fr: null
@@ -269,7 +596,51 @@ articles:
     category: "Activités insolites"
     volume: 480
     kd: null
-    scheduled_date: 2026-11-04
+    scheduled_date: 2026-10-26
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "activite entre amis paris"
+    category: "Activités insolites"
+    volume: null
+    kd: null
+    scheduled_date: 2026-10-27
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "activite indoor paris"
+    category: "Activités insolites"
+    volume: null
+    kd: null
+    scheduled_date: 2026-10-28
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "anniversaire entreprise paris"
+    category: "Team building et séminaires"
+    volume: null
+    kd: null
+    scheduled_date: 2026-10-29
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "feter ses 30 ans paris"
+    category: "Activités insolites"
+    volume: 210
+    kd: null
+    scheduled_date: 2026-10-30
     status: todo
     published_date: null
     published_url_fr: null
@@ -280,7 +651,51 @@ articles:
     category: "Bars et lieux ludiques"
     volume: 110
     kd: null
-    scheduled_date: 2026-11-18
+    scheduled_date: 2026-10-31
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "activite 50 personnes paris"
+    category: "Team building et séminaires"
+    volume: null
+    kd: null
+    scheduled_date: 2026-11-01
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "seminaire entreprise paris"
+    category: "Team building et séminaires"
+    volume: 5
+    kd: null
+    scheduled_date: 2026-11-02
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "soiree entreprise paris"
+    category: "Team building et séminaires"
+    volume: 11
+    kd: null
+    scheduled_date: 2026-11-03
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "que faire a paris ce week end"
+    category: "Activités insolites"
+    volume: 6750
+    kd: null
+    scheduled_date: 2026-11-04
     status: todo
     published_date: null
     published_url_fr: null
@@ -291,7 +706,95 @@ articles:
     category: "Activités insolites"
     volume: 10
     kd: null
-    scheduled_date: 2026-12-02
+    scheduled_date: 2026-11-05
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "bar a jeux paris pour groupe"
+    category: "Bars et lieux ludiques"
+    volume: null
+    kd: null
+    scheduled_date: 2026-11-06
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "evjf cle en main paris"
+    category: "EVJF"
+    volume: null
+    kd: null
+    scheduled_date: 2026-11-07
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "bar evg paris"
+    category: "EVG"
+    volume: null
+    kd: null
+    scheduled_date: 2026-11-08
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "que faire a paris en fevrier"
+    category: "Activités insolites"
+    volume: null
+    kd: null
+    scheduled_date: 2026-11-09
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "activite multigenerationnelle paris"
+    category: "Activités insolites"
+    volume: null
+    kd: null
+    scheduled_date: 2026-11-10
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "soiree sans alcool paris"
+    category: "Bars et lieux ludiques"
+    volume: 590
+    kd: null
+    scheduled_date: 2026-11-11
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "activite chatelet republique paris"
+    category: "Activités insolites"
+    volume: null
+    kd: null
+    scheduled_date: 2026-11-12
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "que faire a paris en mars"
+    category: "Activités insolites"
+    volume: null
+    kd: null
+    scheduled_date: 2026-11-13
     status: todo
     published_date: null
     published_url_fr: null

@@ -6,7 +6,7 @@ date: 2026-08-18
 lastmod: 2026-08-18
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
-categories: ["Fun bars & venues"]
+categories: ["Fun bars and venues"]
 tags: ["terrace", "bar", "afterwork", "night out", "Paris"]
 villes: ["Paris"]
 translationKey: "grandes-terrasses-paris"

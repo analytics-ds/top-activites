@@ -6,7 +6,7 @@ date: 2026-09-11
 lastmod: 2026-09-11
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
-categories: ["Bars and games venues"]
+categories: ["Fun bars and venues"]
 tags: ["unusual bar", "board game bar", "afterwork", "birthday", "Paris"]
 villes: ["Paris"]
 translationKey: "alternative-bar-classique-paris"

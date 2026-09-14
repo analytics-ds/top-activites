@@ -6,7 +6,7 @@ date: 2026-08-17
 lastmod: 2026-09-11
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
-categories: ["Fun bars & venues"]
+categories: ["Fun bars and venues"]
 tags: ["game bar", "board game bar", "arcade bar", "unusual bar", "afterwork", "night out with friends", "Paris"]
 villes: ["Paris"]
 translationKey: "bars-a-jeux-paris"

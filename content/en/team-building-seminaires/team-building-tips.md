@@ -6,7 +6,7 @@ date: 2026-08-17
 lastmod: 2026-08-17
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
-categories: ["Team building"]
+categories: ["Team building and seminars"]
 tags: ["team building", "seminar", "organisation", "company"]
 translationKey: "organiser-team-building-conseils"
 format: "guide"

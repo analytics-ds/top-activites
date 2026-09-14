@@ -6,7 +6,7 @@ date: 2026-08-27
 lastmod: 2026-08-27
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
-categories: ["Bars and games venues"]
+categories: ["Fun bars and venues"]
 tags: ["karaoke", "board game bar", "night out", "Paris", "afterwork"]
 villes: ["Paris"]
 translationKey: "alternative-karaoke-paris"

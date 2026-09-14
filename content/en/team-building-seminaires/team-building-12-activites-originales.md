@@ -6,7 +6,7 @@ date: 2026-07-20
 lastmod: 2026-08-28
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
-categories: ["Team building"]
+categories: ["Team building and seminars"]
 tags: ["team building", "indoor team building", "group activity", "seminar", "Paris", "team cohesion"]
 villes: ["Paris"]
 aliases: ["/en/blog/team-building-12-activites-originales/"]

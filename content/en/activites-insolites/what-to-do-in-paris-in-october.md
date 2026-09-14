@@ -100,26 +100,6 @@ Our guide to [organising a team building event](/en/team-building-seminaires/tea
 - **Forgetting the clock change in your timing.** An activity scheduled for 6.30pm on the last weekend of October happens in the dark, which changes the walk from the metro and the feel of the neighbourhood.
 - **Confusing total capacity with simultaneous capacity.** A venue advertising 60 people often welcomes them across several starts, not all at once. Ask before you confirm.
 
-## Frequently asked questions
-
-**What can you do in Paris in October as a group?**
-October rewards covered, predictable formats, because the weather no longer lets you decide on the day. Indoor group activities such as action games, escape games, board game bars, shooting bars and murder mystery games lead the way, because they are booked ahead and do not depend on the sky. Exhibitions and trade fairs fill the afternoons, afterworks pick up again midweek. For a group of more than ten people, allow three weeks of lead time on evening slots.
-
-**What unusual activities can you do in Paris in autumn?**
-Autumn is the best season for immersive, sensory formats, the ones that gain from happening in the dark. Action games, escape games, murder mystery games, shooting bars, immersive experiences and night tours all work better in October than in midsummer. The practical advantage is that these activities take place entirely indoors, with a price known in advance and a fixed duration, usually one hour to an hour and a half.
-
-**What is there to do in Paris in October when it rains?**
-The question comes up almost every weekend in October, so the best strategy is not to ask it at all and to book a covered format from the start. Museums and exhibitions for a quiet afternoon, indoor group activities for something more active, board game bars for an evening that stretches out. All three families are booked ahead and run the same programme whatever the weather.
-
-**What are the big Parisian events in October?**
-A handful of fixtures come back every autumn, the Montmartre harvest festival on the hill, the national science festival in early October, a major contemporary art fair at the Grand Palais, and the Salon du Chocolat at porte de Versailles right at the end of the month. Exact dates change every year, so check them on the official sites before blocking out a weekend. Halloween closes the month on 31 October.
-
-**Do you need to book ahead to go out in Paris in October?**
-Yes, and earlier than you would think. The end of the month stacks Halloween, the autumn school holidays and the launch of the corporate party season into the same fortnight, which saturates evening slots. Activities that run on booths or staggered starts have a mechanically limited number of places, so they go first. For a group, the real deadline falls in the first week of October.
-
-**What can you do in Paris in October with teenagers?**
-The autumn school holidays fall at the end of the month, with the same dates across the whole country, which creates a fortnight of heavy demand on activities open to minors. The formats that work are the ones where teenagers play together rather than in front of a screen, action games, escape games, laser tag, bowling. Check the minimum age, which varies a lot from one venue to the next, and whether an adult has to be present.
-
 For formats that work all year round, our pick of [unusual activities in Paris](/en/activites-insolites/) and our overview of [fun bars and venues](/en/bars-lieux-ludiques/) cover the same needs without the seasonal constraint.
 
 ## Sources and useful links

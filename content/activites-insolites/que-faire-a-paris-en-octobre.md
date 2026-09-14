@@ -17,17 +17,17 @@ tldr:
   - "**La vraie date limite de réservation, c'est la première semaine d'octobre**, pas la dernière. Les formats qui fonctionnent par créneau ou par box affichent complet bien avant les bars et les clubs."
 faq:
   - question: "Que faire à Paris en octobre quand on est un groupe ?"
-    answer: "Octobre favorise les formats couverts et prévisibles, parce que la météo ne permet plus de décider le jour même. Les activités de groupe en intérieur, action game, escape game, bar à jeux, bar à tir, murder party, tiennent la corde parce qu'elles se réservent à l'avance et ne dépendent pas du ciel. Les expositions et les salons occupent les après-midi, les afterworks reprennent en semaine. Pour un groupe de plus de dix personnes, comptez trois semaines d'avance sur les créneaux du soir."
+    answer: "Octobre favorise les formats couverts et prévisibles, parce que la météo ne permet plus de décider le jour même. Les activités de groupe en intérieur, action game, escape game, bar à jeux, bar à tir, murder party, tiennent la corde parce qu'elles se réservent à l'avance et ne dépendent pas du ciel. Les expositions et les salons occupent les après-midi, les afterworks reprennent en semaine. Pour un groupe de plus de dix personnes, compte trois semaines d'avance sur les créneaux du soir."
   - question: "Quelles activités insolites faire à Paris en automne ?"
     answer: "L'automne est la meilleure saison pour les formats immersifs et sensoriels, qui gagnent à se faire dans le noir. Action game, escape game, murder party, bar à tir, expériences immersives et visites nocturnes fonctionnent mieux en octobre qu'en plein été. L'avantage pratique est que ces activités se déroulent entièrement en intérieur, avec un prix connu à l'avance et une durée fixe, généralement d'une heure à une heure trente."
   - question: "Que faire à Paris en octobre quand il pleut ?"
     answer: "La question se pose presque chaque week-end d'octobre, donc la bonne stratégie est de ne pas la poser du tout et de réserver un format couvert dès le départ. Musées et expositions pour un après-midi calme, activités de groupe en intérieur pour un moment plus actif, bars à jeux pour une soirée qui s'étire. Ces trois familles se réservent à l'avance et ne changent rien à leur programme selon la météo."
   - question: "Quels sont les grands rendez-vous parisiens du mois d'octobre ?"
-    answer: "Quelques rendez-vous reviennent chaque automne, la fête des vendanges de Montmartre sur la Butte, la Fête de la science début octobre, une grande foire d'art contemporain au Grand Palais, et le Salon du Chocolat porte de Versailles en toute fin de mois. Les dates exactes changent chaque année, vérifiez-les sur les sites officiels avant de bloquer un week-end. Halloween ferme le mois le 31 octobre."
+    answer: "Quelques rendez-vous reviennent chaque automne, la fête des vendanges de Montmartre sur la Butte, la Fête de la science début octobre, une grande foire d'art contemporain au Grand Palais, et le Salon du Chocolat porte de Versailles en toute fin de mois. Les dates exactes changent chaque année, vérifie-les sur les sites officiels avant de bloquer un week-end. Halloween ferme le mois le 31 octobre."
   - question: "Faut-il réserver à l'avance pour sortir à Paris en octobre ?"
     answer: "Oui, et plus tôt qu'on ne l'imagine. La fin du mois cumule Halloween, les vacances de la Toussaint et le lancement de la saison des soirées d'entreprise, ce qui sature les créneaux du soir sur la même quinzaine. Les activités qui fonctionnent par box ou par départ échelonné ont un nombre de places mécaniquement limité, elles partent les premières. Pour un groupe, la vraie date limite se situe dans la première semaine d'octobre."
   - question: "Que faire à Paris en octobre avec des ados ?"
-    answer: "Les vacances de la Toussaint tombent sur la fin du mois, avec les mêmes dates pour toutes les zones, ce qui crée une semaine de forte affluence sur les activités ouvertes aux mineurs. Les formats qui fonctionnent sont ceux où les ados jouent ensemble plutôt que devant un écran, action game, escape game, laser game, bowling. Vérifiez l'âge minimum, qui varie beaucoup d'un lieu à l'autre, et la présence obligatoire d'un adulte selon les cas."
+    answer: "Les vacances de la Toussaint tombent sur la fin du mois, avec les mêmes dates pour toutes les zones, ce qui crée une semaine de forte affluence sur les activités ouvertes aux mineurs. Les formats qui fonctionnent sont ceux où les ados jouent ensemble plutôt que devant un écran, action game, escape game, laser game, bowling. Vérifie l'âge minimum, qui varie beaucoup d'un lieu à l'autre, et la présence obligatoire d'un adulte selon les cas."
 draft: false
 ---
 
@@ -99,26 +99,6 @@ Notre guide pour [organiser un team building](/team-building-seminaires/organise
 - **Réserver après le 15 pour une date de fin de mois.** Sur la dernière quinzaine, l'offre de créneaux du soir est déjà largement absorbée par Halloween et les vacances scolaires.
 - **Oublier le changement d'heure dans le timing.** Une activité prévue à 18h30 le dernier week-end d'octobre se fait de nuit, ce qui change la sortie de métro et l'ambiance du quartier.
 - **Confondre capacité totale et capacité simultanée.** Un lieu qui annonce 60 personnes les accueille souvent en plusieurs départs, pas tous en même temps. Pose la question avant de valider.
-
-## Questions fréquentes
-
-**Que faire à Paris en octobre quand on est un groupe ?**
-Octobre favorise les formats couverts et prévisibles, parce que la météo ne permet plus de décider le jour même. Les activités de groupe en intérieur, action game, escape game, bar à jeux, bar à tir, murder party, tiennent la corde parce qu'elles se réservent à l'avance et ne dépendent pas du ciel. Les expositions et les salons occupent les après-midi, les afterworks reprennent en semaine. Pour un groupe de plus de dix personnes, comptez trois semaines d'avance sur les créneaux du soir.
-
-**Quelles activités insolites faire à Paris en automne ?**
-L'automne est la meilleure saison pour les formats immersifs et sensoriels, qui gagnent à se faire dans le noir. Action game, escape game, murder party, bar à tir, expériences immersives et visites nocturnes fonctionnent mieux en octobre qu'en plein été. L'avantage pratique est que ces activités se déroulent entièrement en intérieur, avec un prix connu à l'avance et une durée fixe, généralement d'une heure à une heure trente.
-
-**Que faire à Paris en octobre quand il pleut ?**
-La question se pose presque chaque week-end d'octobre, donc la bonne stratégie est de ne pas la poser du tout et de réserver un format couvert dès le départ. Musées et expositions pour un après-midi calme, activités de groupe en intérieur pour un moment plus actif, bars à jeux pour une soirée qui s'étire. Ces trois familles se réservent à l'avance et ne changent rien à leur programme selon la météo.
-
-**Quels sont les grands rendez-vous parisiens du mois d'octobre ?**
-Quelques rendez-vous reviennent chaque automne, la fête des vendanges de Montmartre sur la Butte, la Fête de la science début octobre, une grande foire d'art contemporain au Grand Palais, et le Salon du Chocolat porte de Versailles en toute fin de mois. Les dates exactes changent chaque année, vérifiez-les sur les sites officiels avant de bloquer un week-end. Halloween ferme le mois le 31 octobre.
-
-**Faut-il réserver à l'avance pour sortir à Paris en octobre ?**
-Oui, et plus tôt qu'on ne l'imagine. La fin du mois cumule Halloween, les vacances de la Toussaint et le lancement de la saison des soirées d'entreprise, ce qui sature les créneaux du soir sur la même quinzaine. Les activités qui fonctionnent par box ou par départ échelonné ont un nombre de places mécaniquement limité, elles partent les premières. Pour un groupe, la vraie date limite se situe dans la première semaine d'octobre.
-
-**Que faire à Paris en octobre avec des ados ?**
-Les vacances de la Toussaint tombent sur la fin du mois, avec les mêmes dates pour toutes les zones, ce qui crée une semaine de forte affluence sur les activités ouvertes aux mineurs. Les formats qui fonctionnent sont ceux où les ados jouent ensemble plutôt que devant un écran, action game, escape game, laser game, bowling. Vérifiez l'âge minimum, qui varie beaucoup d'un lieu à l'autre, et la présence obligatoire d'un adulte selon les cas.
 
 Pour aller plus loin sur les formats qui marchent toute l'année, notre sélection d'[activités insolites à Paris](/activites-insolites/) et notre panorama des [bars et lieux ludiques](/bars-lieux-ludiques/) couvrent les mêmes besoins sans la contrainte de saison.
 

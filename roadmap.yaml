@@ -157,10 +157,10 @@ articles:
     volume: 600
     kd: null
     scheduled_date: 2026-09-15
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-15
+    published_url_fr: "https://top-activites.fr/team-building-seminaires/soiree-fin-annee-entreprise-paris/"
+    published_url_en: "https://top-activites.fr/en/team-building-seminaires/company-end-of-year-party-paris/"
     error: null
 
   - kw: "activite originale paris"

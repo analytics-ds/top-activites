@@ -112,6 +112,18 @@
 
                 {{ .Content }}
 
+                {{ with .Params.faq }}
+                <section class="article-faq" id="faq">
+                    <h2 class="article-faq-title">{{ if eq $.Site.Language.Lang "en" }}Frequently asked questions{{ else }}Questions fréquentes{{ end }}</h2>
+                    {{ range . }}
+                    <details class="article-faq-item">
+                        <summary>{{ .question }}</summary>
+                        <div class="article-faq-answer">{{ .answer | markdownify }}</div>
+                    </details>
+                    {{ end }}
+                </section>
+                {{ end }}
+
                 <div class="article-tags">
                     {{ range .Params.tags }}
                     <a href="{{ "tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>

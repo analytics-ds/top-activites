@@ -3461,6 +3461,54 @@ img {
 
 .article-tldr li strong { color: var(--primary-dark); }
 
+/* FAQ visible sous l'article (le front matter `faq` alimente aussi le JSON-LD FAQPage
+   dans seo-head.html ; sans ce bloc le balisage decrivait un contenu absent de la page) */
+.article-faq {
+    margin: var(--space-lg) 0;
+}
+
+.article-faq-title {
+    font-family: var(--font-heading);
+    font-weight: 800;
+    letter-spacing: -0.01em;
+}
+
+.article-faq-item {
+    border: 1px solid var(--border, rgba(0, 0, 0, 0.1));
+    border-radius: var(--radius-lg);
+    padding: 0.85rem var(--space-md);
+    margin-bottom: 0.6rem;
+    background-color: var(--surface, #fff);
+}
+
+.article-faq-item summary {
+    cursor: pointer;
+    font-weight: 700;
+    color: var(--ink);
+    line-height: 1.45;
+    list-style: none;
+}
+
+.article-faq-item summary::-webkit-details-marker { display: none; }
+
+.article-faq-item summary::after {
+    content: "+";
+    float: right;
+    margin-left: 0.75rem;
+    color: var(--primary-dark);
+    font-weight: 800;
+}
+
+.article-faq-item[open] summary::after { content: "\2212"; }
+
+.article-faq-answer {
+    margin-top: 0.6rem;
+    color: var(--ink);
+    line-height: 1.6;
+}
+
+.article-faq-answer p:last-child { margin-bottom: 0; }
+
 /* Article body grid : main column width */
 .article-body-grid .article-content {
     padding: 0;

@@ -168,10 +168,10 @@ articles:
     volume: 909
     kd: null
     scheduled_date: 2026-09-16
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-16
+    published_url_fr: "https://top-activites.fr/activites-insolites/activite-originale-paris/"
+    published_url_en: "https://top-activites.fr/en/activites-insolites/original-activity-paris/"
     error: null
 
   - kw: "murder party paris"
@@ -179,10 +179,10 @@ articles:
     volume: 1100
     kd: null
     scheduled_date: 2026-09-17
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-17
+    published_url_fr: "https://top-activites.fr/activites-insolites/murder-party-paris/"
+    published_url_en: "https://top-activites.fr/en/activites-insolites/murder-mystery-party-paris/"
     error: null
 
   - kw: "action game paris"

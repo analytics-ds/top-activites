@@ -190,10 +190,10 @@ articles:
     volume: 300
     kd: null
     scheduled_date: 2026-09-18
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-18
+    published_url_fr: "https://top-activites.fr/activites-insolites/action-game-paris/"
+    published_url_en: "https://top-activites.fr/en/activites-insolites/action-game-paris/"
     error: null
 
   - kw: "evjf paris"

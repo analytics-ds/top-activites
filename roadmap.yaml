@@ -201,10 +201,10 @@ articles:
     volume: 880
     kd: null
     scheduled_date: 2026-09-19
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-19
+    published_url_fr: "https://top-activites.fr/evjf/evjf-paris/"
+    published_url_en: "https://top-activites.fr/en/evjf/bachelorette-party-paris/"
     error: null
 
   - kw: "bar gare du nord"

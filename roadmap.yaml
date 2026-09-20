@@ -212,10 +212,10 @@ articles:
     volume: 1000
     kd: null
     scheduled_date: 2026-09-20
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-20
+    published_url_fr: "https://top-activites.fr/bars-lieux-ludiques/bar-gare-du-nord/"
+    published_url_en: "https://top-activites.fr/en/bars-lieux-ludiques/bar-near-gare-du-nord-paris/"
     error: null
 
   - kw: "anniversaire 12 ans"

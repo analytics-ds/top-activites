@@ -234,10 +234,10 @@ articles:
     volume: 480
     kd: null
     scheduled_date: 2026-09-22
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-22
+    published_url_fr: "https://top-activites.fr/activites-insolites/experience-immersive-paris/"
+    published_url_en: "https://top-activites.fr/en/activites-insolites/immersive-experience-paris/"
     error: null
 
   - kw: "team building sportif paris"

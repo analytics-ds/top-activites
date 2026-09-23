@@ -3,10 +3,10 @@ title: "12th Birthday Party in Paris: The Guide to Getting It Right in {annee}"
 seoTitle: "12th birthday party in Paris: the full guide"
 description: "12th birthday party in Paris, the formats that work, the budget per child and booking timelines, escape game, action game, workshops, at home."
 date: 2026-09-21
-lastmod: 2026-09-21
+lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
-categories: ["Unusual activities"]
+categories: ["Birthdays"]
 tags: ["12th birthday party", "unusual activity", "kids birthday", "group outing", "Paris"]
 villes: ["Paris"]
 translationKey: "anniversaire-12-ans-paris"
@@ -28,6 +28,7 @@ faq:
     answer: "At home, you keep control of the budget and the schedule, but you are on your own for entertaining a group of preteens who are starting to outgrow overly childish games. An outside activity structures the party for you, with a fixed start and end, and avoids the dead moment when nobody knows what to do next. Many families combine both, one hour of activity followed by a snack at home or in a private space on site."
   - question: "What activity works for a 12th birthday party when it rains?"
     answer: "Anything indoors, which covers the vast majority of formats suited to this age. Action games, escape games, laser tag, bowling, trampoline parks and creative workshops all run under cover, with a booked slot and a known duration, which simplifies planning compared with a picnic or an outdoor outing that depends on the weather."
+aliases: ["/activites-insolites/12th-birthday-party-paris/"]
 draft: false
 ---
 
@@ -93,6 +94,10 @@ Allow three to four weeks ahead for most formats, and a full month during holida
 - **Planning more than three hours in a row.** Past that point, the group's energy drops and keeping the entertainment going becomes harder.
 
 For more group outing ideas in Paris all year round, our selection of [unusual activities](/en/activites-insolites/) covers formats suited to every age and every occasion.
+
+## Going further
+
+Our guide on [where to celebrate your birthday in Paris](/en/anniversaires/where-to-celebrate-birthday-paris/) compares six venues with birthday packages, and our [teen birthday party in Paris](/en/anniversaires/teen-birthday-party-paris/) selection takes over for ages 12 to 17, with each venue's supervision rules.
 
 ## Sources and useful links
 

@@ -6,7 +6,7 @@ date: 2026-09-23
 lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
-categories: ["Unusual activities"]
+categories: ["Birthdays"]
 tags: ["experience gift", "birthday gift idea", "gift voucher Paris", "activity to give", "Paris"]
 villes: ["Paris"]
 translationKey: "idee-cadeau-experience-paris"
@@ -39,6 +39,7 @@ items:
     description: "Karaoke gift card for the amount of your choice, valid one year at all the brand's venues, usable in a single go."
   - name: "Wildness"
     description: "Axe throwing gift card for 2 to 3 people, from 22 euros per person, valid 12 months, in the 13th."
+aliases: ["/activites-insolites/experience-gift-ideas-paris/"]
 draft: false
 ---
 
@@ -107,11 +108,13 @@ For more ideas in the same spirit, read our selection of [board game bars in Par
 
 Ask yourself two questions. Who will the person go with? If it is a group, pick a voucher that covers a group, like Bomb Squad's or Le 3Bis's gift box. If it is a duo, the Wildness card or an amount at Virtual Room or BAM. And when will they use it? If it might drag on, go for validity periods of 18 months to 2 years.
 
-And if you would rather organise the party yourself than give a voucher, our guide on [where to celebrate your birthday in Paris](/en/activites-insolites/where-to-celebrate-birthday-paris/) and our selection of [original birthday ideas in Paris](/en/activites-insolites/original-birthday-ideas-paris/) are made for you.
+And if you would rather organise the party yourself than give a voucher, our guide on [where to celebrate your birthday in Paris](/en/anniversaires/where-to-celebrate-birthday-paris/) and our selection of [original birthday ideas in Paris](/en/anniversaires/original-birthday-ideas-paris/) are made for you.
 
 ## Going further
 
 Looking for an idea that is truly out of the ordinary? Browse the [unusual activities](/en/activites-insolites/) or the [fun bars and venues](/en/bars-lieux-ludiques/) sections, and check the websites of the places that tempt you, many also offer a gift card.
+
+For more ideas by budget and group, read our [birthday ideas in Paris](/en/anniversaires/birthday-ideas-paris/).
 
 ## Sources and useful links
 

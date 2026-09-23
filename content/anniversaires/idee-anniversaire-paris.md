@@ -6,7 +6,7 @@ date: 2026-09-23
 lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
-categories: ["Activités insolites"]
+categories: ["Anniversaires"]
 tags: ["idée anniversaire", "que faire pour son anniversaire", "anniversaire Paris", "fête surprise", "Paris"]
 villes: ["Paris"]
 translationKey: "idee-anniversaire-paris"
@@ -26,6 +26,7 @@ faq:
     answer: "Pars sur une activité en équipe qui fait jouer tout le monde en même temps, sans niveau requis, comme l'action game, le quiz sur plateau TV ou la réalité virtuelle. Elles cassent la glace en quelques minutes, contrairement au karaoké ou au dîner assis, qui marchent mieux avec un groupe déjà soudé."
   - question: "Quelle idée pour fêter ses 30 ou 40 ans à Paris ?"
     answer: "Pour un anniversaire rond, le groupe est souvent plus grand et plus mélangé. Choisis un lieu qui accueille tout le monde en même temps, avec une activité accessible et de quoi boire et manger sur place, ou une privatisation si vous êtes plus de 30. Une formule avec gâteau et table réservée t'évite d'avoir à tout organiser."
+aliases: ["/activites-insolites/idee-anniversaire-paris/"]
 draft: false
 ---
 
@@ -47,7 +48,7 @@ Avant de chercher une idée, réponds à ces trois questions, elles éliminent l
 | | Discuter | Bar à jeux, dîner, bar à activité |
 | | Être surpris | Escape game, murder party, réalité virtuelle |
 
-Si tu cherches d'abord un lieu, notre guide [où fêter son anniversaire à Paris](/activites-insolites/ou-feter-son-anniversaire-paris/) compare six adresses avec formule anniversaire.
+Si tu cherches d'abord un lieu, notre guide [où fêter son anniversaire à Paris](/anniversaires/ou-feter-son-anniversaire-paris/) compare six adresses avec formule anniversaire.
 
 ## Les idées pour bouger
 
@@ -57,7 +58,7 @@ Si tu cherches d'abord un lieu, notre guide [où fêter son anniversaire à Pari
 
 **3. Une réalité virtuelle en équipe.** Tout le monde découvre en même temps, personne n'est avantagé. Compte autour de 30 euros par personne pour 45 minutes d'aventure, un peu plus avec une formule anniversaire.
 
-Ces trois idées et quatre autres sont détaillées dans notre sélection [anniversaire original à Paris](/activites-insolites/anniversaire-original-paris/).
+Ces trois idées et quatre autres sont détaillées dans notre sélection [anniversaire original à Paris](/anniversaires/anniversaire-original-paris/).
 
 ## Les idées pour discuter et trinquer
 
@@ -69,7 +70,7 @@ Ces trois idées et quatre autres sont détaillées dans notre sélection [anniv
 
 **7. Un dîner ou un apéro dans un lieu privatisé.** Beaucoup de bars réservent un espace sans frais de location en échange d'un minimum de consommation, à négocier avant. C'est la bonne option à partir de 30 personnes, ou quand l'anniversaire est d'abord un repas.
 
-Pour un anniversaire entre adultes, notre article [anniversaire adulte à Paris](/activites-insolites/anniversaire-adulte-paris/) compare sept bars à activité et formules clé en main.
+Pour un anniversaire entre adultes, notre article [anniversaire adulte à Paris](/anniversaires/anniversaire-adulte-paris/) compare sept bars à activité et formules clé en main.
 
 ## Les idées pour surprendre
 
@@ -81,13 +82,13 @@ Pour un anniversaire entre adultes, notre article [anniversaire adulte à Paris]
 
 ## Les idées selon l'âge
 
-**11. Pour un enfant ou un ado.** Pars sur une formule anniversaire tout compris, activité puis espace réservé pour le goûter, entre 30 et 50 euros par enfant. Vérifie l'âge minimum et l'âge jusqu'auquel un adulte doit rester, il varie de 14 à 15 ans selon les lieux. Tout est détaillé dans notre sélection [anniversaire ado à Paris](/activites-insolites/anniversaire-ado-paris/) et dans le guide [anniversaire 12 ans à Paris](/activites-insolites/anniversaire-12-ans-paris/).
+**11. Pour un enfant ou un ado.** Pars sur une formule anniversaire tout compris, activité puis espace réservé pour le goûter, entre 30 et 50 euros par enfant. Vérifie l'âge minimum et l'âge jusqu'auquel un adulte doit rester, il varie de 14 à 15 ans selon les lieux. Tout est détaillé dans notre sélection [anniversaire ado à Paris](/anniversaires/anniversaire-ado-paris/) et dans le guide [anniversaire 12 ans à Paris](/anniversaires/anniversaire-12-ans-paris/).
 
 **12. Pour un anniversaire rond, 30, 40 ou 50 ans.** Le groupe est plus grand et plus mélangé que d'habitude. Choisis une activité accessible à tous et un lieu qui accueille tout le monde en même temps, plusieurs box, départs échelonnés ou privatisation complète au-delà de 30 personnes.
 
 ## Et si tu préfères offrir plutôt qu'organiser
 
-Parfois, la meilleure idée d'anniversaire, c'est de laisser la personne fêtée choisir sa date. Un bon cadeau pour une activité à faire avec ses potes se vit à plusieurs et ne finit pas sur une étagère. Notre sélection [idée cadeau d'anniversaire à Paris](/activites-insolites/idee-cadeau-experience-paris/) compare six bons cadeaux, avec leur prix et leur durée de validité.
+Parfois, la meilleure idée d'anniversaire, c'est de laisser la personne fêtée choisir sa date. Un bon cadeau pour une activité à faire avec ses potes se vit à plusieurs et ne finit pas sur une étagère. Notre sélection [idée cadeau d'anniversaire à Paris](/anniversaires/idee-cadeau-experience-paris/) compare six bons cadeaux, avec leur prix et leur durée de validité.
 
 ## Les erreurs qui plombent un anniversaire
 

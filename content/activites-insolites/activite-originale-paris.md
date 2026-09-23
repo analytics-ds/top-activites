@@ -4,7 +4,7 @@ seoTitle: "Activité originale à Paris : le guide pour bien choisir"
 description: "Trouver une activité originale à Paris est facile, choisir la bonne l'est moins. La méthode en quatre critères pour ne pas se tromper selon le groupe, le budget et l'occasion."
 date: 2026-09-16
 publishDate: 2026-09-16
-lastmod: 2026-09-16
+lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
 categories: ["Activités insolites"]
@@ -82,6 +82,8 @@ Pour rendre tout ça tangible, deux adresses qui illustrent chacune un mode de f
 **Le bar à activité** ajoute le service d'un bar et la nourriture sur place. Le PAN Bar, bar à tir du 10e, fonctionne par box de 2 à 10 personnes à partir de 16 euros par personne, jusqu'à 66 joueurs en multi-box, et privatise ses 400 m² à partir de 30 personnes. Il est fermé le lundi. C'est le cas typique du format facturé à l'espace, dont le prix par tête baisse quand le groupe grandit.
 
 Notre panorama des [bars et lieux ludiques](/bars-lieux-ludiques/) détaille les autres formats de cette famille, du jeu de société aux fléchettes connectées.
+
+Tu cherches une activité originale pour un anniversaire ? Notre sélection [anniversaire original à Paris](/anniversaires/anniversaire-original-paris/) propose 7 idées qui changent du laser game et du bowling.
 
 ## Quand réserver, selon le format
 

@@ -43,15 +43,20 @@ buildFuture = false
       url = "/bars-lieux-ludiques/"
       weight = 5
     [[languages.fr.menus.main]]
+      identifier = "anniversaires"
+      name = "Anniversaires"
+      url = "/anniversaires/"
+      weight = 6
+    [[languages.fr.menus.main]]
       identifier = "insolites"
       name = "Insolite"
       url = "/activites-insolites/"
-      weight = 6
+      weight = 7
     [[languages.fr.menus.main]]
       identifier = "actu"
       name = "Actu"
       url = "/actualites/"
-      weight = 7
+      weight = 8
 
   [languages.en]
     languageCode = "en-US"
@@ -88,10 +93,15 @@ buildFuture = false
       url = "/en/bars-lieux-ludiques/"
       weight = 5
     [[languages.en.menus.main]]
+      identifier = "birthdays"
+      name = "Birthdays"
+      url = "/en/anniversaires/"
+      weight = 6
+    [[languages.en.menus.main]]
       identifier = "unusual"
       name = "Unusual activities"
       url = "/en/activites-insolites/"
-      weight = 6
+      weight = 7
 
 [taxonomies]
   category = "categories"

@@ -3,7 +3,7 @@ title: "Les meilleurs escape games de Paris en {annee}"
 seoTitle: "Meilleurs escape games à Paris en {annee}"
 description: "Notre sélection des escape games de Paris selon le profil du groupe, les critères qui comptent vraiment, et les activités alternatives à un escape game quand les énigmes ne sont pas ce que vous cherchez."
 date: 2026-08-27
-lastmod: 2026-08-28
+lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
 categories: ["Activités insolites"]
@@ -89,6 +89,8 @@ C'est le format à retenir si votre groupe compte des profils peu joueurs, si vo
 ## Les activités alternatives à un escape game à Paris
 
 Le laser game et le lancer de hache jouent sur la compétition directe, avec des règles comprises en une minute. Les chasses au trésor urbaines déplacent le jeu en extérieur et mêlent découverte de la ville et coopération, au prix d'une dépendance à la météo. Les bars de loisir, eux, combinent une activité et une table, ce qui convient quand l'objectif est surtout de passer la soirée ensemble. Ces adresses sont détaillées dans nos [bars et lieux ludiques](/bars-lieux-ludiques/), et l'ensemble des formats à sensations dans les [activités insolites](/activites-insolites/).
+
+Pour un anniversaire d'ado, notre sélection [anniversaire ado à Paris](/anniversaires/anniversaire-ado-paris/) compare escape games, action game et réalité virtuelle, avec les règles d'accompagnement lieu par lieu.
 
 ## Comment choisir en une minute
 

@@ -4,7 +4,7 @@ seoTitle: "Murder party à Paris : comment ça marche et laquelle choisir"
 description: "Déroulé, durée, prix, nombre de joueurs. Tout ce qu'il faut savoir avant de réserver une murder party à Paris, et comment choisir entre le format en lieu, à domicile et en kit."
 date: 2026-09-17
 publishDate: 2026-09-17
-lastmod: 2026-09-17
+lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
 categories: ["Activités insolites"]
@@ -95,6 +95,8 @@ Si l'objectif est de faire travailler l'équipe ensemble plutôt que de la faire
 - **L'action game**, un parcours d'épreuves en équipes, chronométré, sans prise de parole individuelle. À Paris, Bomb Squad le propose boulevard de Sébastopol dans le 3e, en équipes de 2 à 6 joueurs pour une heure, de 45 euros par joueur à deux jusqu'à 28 euros à six, dès 7 ans accompagné.
 - **L'escape game**, coopératif, à énigmes, pour les groupes qui préfèrent réfléchir ensemble. Notre sélection des [meilleurs escape games de Paris](/activites-insolites/meilleurs-escape-games-paris/) détaille les salles et leurs niveaux de difficulté.
 - **Le bar à activité**, quand l'objectif est surtout de passer une bonne soirée ensemble avec de quoi manger sur place. Le PAN Bar, bar à tir du 10e, fonctionne par box de 2 à 10 personnes à partir de 16 euros par personne, jusqu'à 66 joueurs en multi-box, fermé le lundi.
+
+Pour un anniversaire, la murder party fait partie de nos [idées d'anniversaire originales à Paris](/anniversaires/anniversaire-original-paris/), aux côtés du lancer de haches, du quiz sur plateau et du bar à tir.
 
 ## Quand réserver
 

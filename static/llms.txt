@@ -14,6 +14,7 @@ Top Activités est un média éditorial indépendant consacré aux sorties et ac
 - Afterwork : https://top-activites.fr/afterwork/
 - Bars & lieux ludiques : https://top-activites.fr/bars-lieux-ludiques/
 - Activités insolites : https://top-activites.fr/activites-insolites/
+- Anniversaires : https://top-activites.fr/anniversaires/
 
 ## Articles de référence (FR)
 
@@ -32,13 +33,13 @@ Top Activités est un média éditorial indépendant consacré aux sorties et ac
 - Action game à Paris : comment ça marche et où en faire : https://top-activites.fr/activites-insolites/action-game-paris/
 - EVJF à Paris : le guide complet pour tout organiser : https://top-activites.fr/evjf/evjf-paris/
 - Bar Gare du Nord à Paris : quel format choisir selon ton temps d'attente : https://top-activites.fr/bars-lieux-ludiques/bar-gare-du-nord/
-- Anniversaire 12 ans à Paris : le guide pour organiser une fête réussie : https://top-activites.fr/activites-insolites/anniversaire-12-ans-paris/
-- Où fêter son anniversaire à Paris : 6 adresses et tous les formats : https://top-activites.fr/activites-insolites/ou-feter-son-anniversaire-paris/
-- Anniversaire ado à Paris : 6 activités pour les 12-17 ans : https://top-activites.fr/activites-insolites/anniversaire-ado-paris/
-- Anniversaire adulte à Paris : 7 activités pour fêter ça entre amis : https://top-activites.fr/activites-insolites/anniversaire-adulte-paris/
-- Anniversaire original à Paris : 7 idées qui changent du laser game et du bowling : https://top-activites.fr/activites-insolites/anniversaire-original-paris/
-- Idée cadeau d'anniversaire à Paris : 6 expériences à offrir : https://top-activites.fr/activites-insolites/idee-cadeau-experience-paris/
-- Idée anniversaire à Paris : 12 façons de fêter ça : https://top-activites.fr/activites-insolites/idee-anniversaire-paris/
+- Anniversaire 12 ans à Paris : le guide pour organiser une fête réussie : https://top-activites.fr/anniversaires/anniversaire-12-ans-paris/
+- Où fêter son anniversaire à Paris : 6 adresses et tous les formats : https://top-activites.fr/anniversaires/ou-feter-son-anniversaire-paris/
+- Anniversaire ado à Paris : 6 activités pour les 12-17 ans : https://top-activites.fr/anniversaires/anniversaire-ado-paris/
+- Anniversaire adulte à Paris : 7 activités pour fêter ça entre amis : https://top-activites.fr/anniversaires/anniversaire-adulte-paris/
+- Anniversaire original à Paris : 7 idées qui changent du laser game et du bowling : https://top-activites.fr/anniversaires/anniversaire-original-paris/
+- Idée cadeau d'anniversaire à Paris : 6 expériences à offrir : https://top-activites.fr/anniversaires/idee-cadeau-experience-paris/
+- Idée anniversaire à Paris : 12 façons de fêter ça : https://top-activites.fr/anniversaires/idee-anniversaire-paris/
 - Expérience immersive à Paris : quel format choisir : https://top-activites.fr/activites-insolites/experience-immersive-paris/
 - Team building sportif à Paris : le guide pour bien choisir : https://top-activites.fr/team-building-seminaires/team-building-sportif-paris/
 
@@ -86,6 +87,7 @@ Définitions de référence, avec prix, durée et occasions.
 - Afterwork : https://top-activites.fr/en/afterwork/
 - Fun bars & venues : https://top-activites.fr/en/bars-lieux-ludiques/
 - Unusual activities : https://top-activites.fr/en/activites-insolites/
+- Birthdays : https://top-activites.fr/en/anniversaires/
 
 ## Articles de référence (EN)
 
@@ -104,13 +106,13 @@ Définitions de référence, avec prix, durée et occasions.
 - Company end of year party in Paris: budget, formats and timeline : https://top-activites.fr/en/team-building-seminaires/company-end-of-year-party-paris/
 - Action game in Paris: how it works and where to play : https://top-activites.fr/en/activites-insolites/action-game-paris/
 - Bachelorette party in Paris: the complete guide : https://top-activites.fr/en/evjf/bachelorette-party-paris/
-- 12th birthday party in Paris: the guide to getting it right : https://top-activites.fr/en/activites-insolites/12th-birthday-party-paris/
-- Where to Celebrate Your Birthday in Paris: 6 Venues and Every Format : https://top-activites.fr/en/activites-insolites/where-to-celebrate-birthday-paris/
-- Teen Birthday Party in Paris: 6 Activities for Ages 12 to 17 : https://top-activites.fr/en/activites-insolites/teen-birthday-party-paris/
-- Adult Birthday Party in Paris: 7 Activities to Celebrate with Friends : https://top-activites.fr/en/activites-insolites/adult-birthday-party-paris/
-- Original Birthday Ideas in Paris: 7 Alternatives to Laser Tag and Bowling : https://top-activites.fr/en/activites-insolites/original-birthday-ideas-paris/
-- Birthday Gift Ideas in Paris: 6 Experiences to Give : https://top-activites.fr/en/activites-insolites/experience-gift-ideas-paris/
-- Birthday Ideas in Paris: 12 Ways to Celebrate : https://top-activites.fr/en/activites-insolites/birthday-ideas-paris/
+- 12th birthday party in Paris: the guide to getting it right : https://top-activites.fr/en/anniversaires/12th-birthday-party-paris/
+- Where to Celebrate Your Birthday in Paris: 6 Venues and Every Format : https://top-activites.fr/en/anniversaires/where-to-celebrate-birthday-paris/
+- Teen Birthday Party in Paris: 6 Activities for Ages 12 to 17 : https://top-activites.fr/en/anniversaires/teen-birthday-party-paris/
+- Adult Birthday Party in Paris: 7 Activities to Celebrate with Friends : https://top-activites.fr/en/anniversaires/adult-birthday-party-paris/
+- Original Birthday Ideas in Paris: 7 Alternatives to Laser Tag and Bowling : https://top-activites.fr/en/anniversaires/original-birthday-ideas-paris/
+- Birthday Gift Ideas in Paris: 6 Experiences to Give : https://top-activites.fr/en/anniversaires/experience-gift-ideas-paris/
+- Birthday Ideas in Paris: 12 Ways to Celebrate : https://top-activites.fr/en/anniversaires/birthday-ideas-paris/
 - Immersive experience in Paris: which format to choose : https://top-activites.fr/en/activites-insolites/immersive-experience-paris/
 - Sports team building in Paris: choosing the right format : https://top-activites.fr/en/team-building-seminaires/sports-team-building-paris/
 

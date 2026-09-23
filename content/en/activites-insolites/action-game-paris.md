@@ -4,7 +4,7 @@ seoTitle: "Action game in Paris: how it works and where to play"
 description: "Format, price, duration, group size. How an action game works in Paris, who it suits, and how to choose it over an escape room."
 date: 2026-09-18
 publishDate: 2026-09-18
-lastmod: 2026-09-18
+lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
 categories: ["Unusual activities"]
@@ -86,7 +86,7 @@ This is where the format really shines, because it adapts to very different need
 
 **For a [bachelor party](/en/evg/) or [bachelorette party](/en/evjf/)**, an action game gets the group moving and adds friendly competition without putting anyone individually on the spot the way a [murder mystery party](/en/activites-insolites/murder-mystery-party-paris/) does. A short hour of play fits easily before or after the evening's dinner.
 
-**For a birthday**, the format works for a group of teenagers as well as a group of adults, thanks to adjustable physical effort and teams that form naturally by friendship.
+**For a birthday**, the format works for a group of teenagers as well as a group of adults, thanks to adjustable physical effort and teams that form naturally by friendship. To pick the venue and the package, read our guide on [where to celebrate your birthday in Paris](/en/anniversaires/where-to-celebrate-birthday-paris/).
 
 **For a team building event**, it is one of the easiest formats to scale for a large headcount. Staggered starts in teams of 2 to 6 absorb groups of 40 to 60 people without splitting them across different experiences the way a classic escape room does, where each room caps the number of players. Our guide to [organising a team building event](/en/team-building-seminaires/team-building-tips/) breaks down budget tiers by team size.
 

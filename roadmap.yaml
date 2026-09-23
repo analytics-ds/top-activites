@@ -219,14 +219,14 @@ articles:
     error: null
 
   - kw: "anniversaire 12 ans"
-    category: "Activités insolites"
+    category: "Anniversaires"
     volume: 1000
     kd: null
     scheduled_date: 2026-09-21
     status: done
     published_date: 2026-09-21
-    published_url_fr: "https://top-activites.fr/activites-insolites/anniversaire-12-ans-paris/"
-    published_url_en: "https://top-activites.fr/en/activites-insolites/12th-birthday-party-paris/"
+    published_url_fr: "https://top-activites.fr/anniversaires/anniversaire-12-ans-paris/"
+    published_url_en: "https://top-activites.fr/en/anniversaires/12th-birthday-party-paris/"
     error: null
 
   - kw: "experience immersive paris"
@@ -329,14 +329,14 @@ articles:
     error: null
 
   - kw: "ou feter son anniversaire a paris"
-    category: "Activités insolites"
+    category: "Anniversaires"
     volume: 880
     kd: null
     scheduled_date: 2026-10-01
     status: done
     published_date: 2026-09-23
-    published_url_fr: "https://top-activites.fr/activites-insolites/ou-feter-son-anniversaire-paris/"
-    published_url_en: "https://top-activites.fr/en/activites-insolites/where-to-celebrate-birthday-paris/"
+    published_url_fr: "https://top-activites.fr/anniversaires/ou-feter-son-anniversaire-paris/"
+    published_url_en: "https://top-activites.fr/en/anniversaires/where-to-celebrate-birthday-paris/"
     error: null
 
   - kw: "afterwork paris"
@@ -351,25 +351,25 @@ articles:
     error: null
 
   - kw: "anniversaire ado paris"
-    category: "Activités insolites"
+    category: "Anniversaires"
     volume: 90
     kd: null
     scheduled_date: 2026-10-03
     status: done
     published_date: 2026-09-23
-    published_url_fr: "https://top-activites.fr/activites-insolites/anniversaire-ado-paris/"
-    published_url_en: "https://top-activites.fr/en/activites-insolites/teen-birthday-party-paris/"
+    published_url_fr: "https://top-activites.fr/anniversaires/anniversaire-ado-paris/"
+    published_url_en: "https://top-activites.fr/en/anniversaires/teen-birthday-party-paris/"
     error: null
 
   - kw: "cadeau experience paris"
-    category: "Activités insolites"
+    category: "Anniversaires"
     volume: 92
     kd: null
     scheduled_date: 2026-10-04
     status: done
     published_date: 2026-09-23
-    published_url_fr: "https://top-activites.fr/activites-insolites/idee-cadeau-experience-paris/"
-    published_url_en: "https://top-activites.fr/en/activites-insolites/experience-gift-ideas-paris/"
+    published_url_fr: "https://top-activites.fr/anniversaires/idee-cadeau-experience-paris/"
+    published_url_en: "https://top-activites.fr/en/anniversaires/experience-gift-ideas-paris/"
     error: null
 
   - kw: "activite insolite paris"
@@ -851,7 +851,7 @@ articles:
     error: null
 
   - kw: "privatiser un lieu anniversaire paris"
-    category: "Activités insolites"
+    category: "Anniversaires"
     volume: 320
     kd: null
     scheduled_date: 2026-11-19
@@ -939,7 +939,7 @@ articles:
     error: null
 
   - kw: "anniversaire en hiver paris"
-    category: "Activités insolites"
+    category: "Anniversaires"
     volume: null
     kd: null
     scheduled_date: 2026-11-27
@@ -1049,7 +1049,7 @@ articles:
     error: null
 
   - kw: "anniversaire 16 ans paris"
-    category: "Activités insolites"
+    category: "Anniversaires"
     volume: null
     kd: null
     scheduled_date: 2026-12-07
@@ -1291,14 +1291,14 @@ articles:
     error: null
 
   - kw: "activite anniversaire adulte paris"
-    category: "Activités insolites"
+    category: "Anniversaires"
     volume: null
     kd: null
     scheduled_date: 2026-12-29
     status: done
     published_date: 2026-09-23
-    published_url_fr: "https://top-activites.fr/activites-insolites/anniversaire-adulte-paris/"
-    published_url_en: "https://top-activites.fr/en/activites-insolites/adult-birthday-party-paris/"
+    published_url_fr: "https://top-activites.fr/anniversaires/anniversaire-adulte-paris/"
+    published_url_en: "https://top-activites.fr/en/anniversaires/adult-birthday-party-paris/"
     error: null
 
   - kw: "bar a jeux video paris"
@@ -1353,23 +1353,23 @@ articles_manuels_open_data:
     priorite: 3
 
   - kw: "anniversaire original paris"
-    category: "Activités insolites"
+    category: "Anniversaires"
     volume: 70
     kd: null
     scheduled_date: 2026-09-23
     status: done
     published_date: 2026-09-23
-    published_url_fr: "https://top-activites.fr/activites-insolites/anniversaire-original-paris/"
-    published_url_en: "https://top-activites.fr/en/activites-insolites/original-birthday-ideas-paris/"
+    published_url_fr: "https://top-activites.fr/anniversaires/anniversaire-original-paris/"
+    published_url_en: "https://top-activites.fr/en/anniversaires/original-birthday-ideas-paris/"
     error: null
 
   - kw: "idee anniversaire paris"
-    category: "Activités insolites"
+    category: "Anniversaires"
     volume: 175
     kd: null
     scheduled_date: 2026-09-23
     status: done
     published_date: 2026-09-23
-    published_url_fr: "https://top-activites.fr/activites-insolites/idee-anniversaire-paris/"
-    published_url_en: "https://top-activites.fr/en/activites-insolites/birthday-ideas-paris/"
+    published_url_fr: "https://top-activites.fr/anniversaires/idee-anniversaire-paris/"
+    published_url_en: "https://top-activites.fr/en/anniversaires/birthday-ideas-paris/"
     error: null

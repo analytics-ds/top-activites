@@ -6,7 +6,7 @@ date: 2026-09-23
 lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
-categories: ["Unusual activities"]
+categories: ["Birthdays"]
 tags: ["birthday Paris", "where to celebrate a birthday", "birthday package", "group activity", "Paris"]
 villes: ["Paris"]
 translationKey: "ou-feter-son-anniversaire-paris"
@@ -41,6 +41,7 @@ items:
     description: "Private karaoke rooms, five venues in Paris, from 10 euros per person for 2 hours, up to 30 people, dedicated birthday offers."
   - name: "Les Grands Gamins"
     description: "Board game bar in the 2nd with a proper kitchen, 5 euros per person for access to the game library, ideal for a relaxed birthday with friends."
+aliases: ["/activites-insolites/where-to-celebrate-birthday-paris/"]
 draft: false
 ---
 
@@ -57,7 +58,7 @@ That question settles 80 % of the choice. A birthday for an 8 year old, a 14 yea
 | Adult with friends | 6 to 30 | Activity bar, private karaoke, board game bar | 5 to 30 € before drinks |
 | Large group, 30 and up | 30 to 60 | Activity with staggered starts or full venue hire | On quote |
 
-For ages 12 to 17, our [teen birthday party in Paris](/en/activites-insolites/teen-birthday-party-paris/) selection compares activities and supervision rules venue by venue. For exactly 12, we also have a dedicated guide, [12th birthday party in Paris](/en/activites-insolites/12th-birthday-party-paris/), which covers the formats that work at that in-between age.
+For ages 12 to 17, our [teen birthday party in Paris](/en/anniversaires/teen-birthday-party-paris/) selection compares activities and supervision rules venue by venue. For exactly 12, we also have a dedicated guide, [12th birthday party in Paris](/en/anniversaires/12th-birthday-party-paris/), which covers the formats that work at that in-between age.
 
 ## The 6 venues at a glance
 
@@ -94,7 +95,7 @@ A detail parents will like, an adult does not have to stay, you drop off and com
 
 ## Venues for an adult birthday with friends
 
-We picked three venues here, and our [adult birthday party in Paris](/en/activites-insolites/adult-birthday-party-paris/) guide compares seven, from activity bars to turnkey packages.
+We picked three venues here, and our [adult birthday party in Paris](/en/anniversaires/adult-birthday-party-paris/) guide compares seven, from activity bars to turnkey packages.
 
 ### PAN Bar Paris, the shooting bar that keeps the whole evening in one place
 
@@ -130,11 +131,11 @@ The third is forgetting the minimum age and supervision rules. Most activities o
 
 This guide is the starting point of our series on birthdays in Paris. To go further depending on what you need:
 
-- [Teen birthday party in Paris](/en/activites-insolites/teen-birthday-party-paris/), 6 activities for ages 12 to 17 and supervision rules
-- [Adult birthday party in Paris](/en/activites-insolites/adult-birthday-party-paris/), 7 activity bars and packages with friends
-- [Original birthday ideas in Paris](/en/activites-insolites/original-birthday-ideas-paris/), 7 alternatives to laser tag and bowling
-- [Birthday ideas in Paris](/en/activites-insolites/birthday-ideas-paris/), 12 ways to celebrate by budget and group
-- [Birthday gift ideas in Paris](/en/activites-insolites/experience-gift-ideas-paris/), 6 experiences to give
+- [Teen birthday party in Paris](/en/anniversaires/teen-birthday-party-paris/), 6 activities for ages 12 to 17 and supervision rules
+- [Adult birthday party in Paris](/en/anniversaires/adult-birthday-party-paris/), 7 activity bars and packages with friends
+- [Original birthday ideas in Paris](/en/anniversaires/original-birthday-ideas-paris/), 7 alternatives to laser tag and bowling
+- [Birthday ideas in Paris](/en/anniversaires/birthday-ideas-paris/), 12 ways to celebrate by budget and group
+- [Birthday gift ideas in Paris](/en/anniversaires/experience-gift-ideas-paris/), 6 experiences to give
 
 ## More ideas for a group outing in Paris
 

@@ -3,7 +3,7 @@ title: "The best escape games in Paris in {annee}"
 seoTitle: "Best escape games in Paris in {annee}"
 description: "Our pick of escape games in Paris by group profile, the criteria that actually make the difference, and the alternatives to escape games in Paris when puzzles are not what you are after."
 date: 2026-08-27
-lastmod: 2026-08-28
+lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
 categories: ["Unusual activities"]
@@ -89,6 +89,8 @@ This is the format to remember if your group includes people who are not natural
 ## Alternatives to escape games in Paris
 
 Laser game and axe throwing play on direct competition, with rules understood in a minute. Urban treasure hunts move the game outdoors and mix discovery of the city with cooperation, at the cost of depending on the weather. Leisure bars combine an activity and a table, which suits groups whose main goal is to spend the evening together. Those addresses are covered in our [bars and games venues](/en/bars-lieux-ludiques/), and the full range of thrill formats in [unusual activities](/en/activites-insolites/).
+
+For a teen birthday, our [teen birthday party in Paris](/en/anniversaires/teen-birthday-party-paris/) selection compares escape games, action game and virtual reality, with supervision rules venue by venue.
 
 ## How to choose in one minute
 

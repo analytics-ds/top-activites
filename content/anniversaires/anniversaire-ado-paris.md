@@ -6,7 +6,7 @@ date: 2026-09-23
 lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
-categories: ["Activités insolites"]
+categories: ["Anniversaires"]
 tags: ["anniversaire ado", "anniversaire adolescent", "sortie ado Paris", "formule anniversaire", "Paris"]
 villes: ["Paris"]
 translationKey: "anniversaire-ado-paris"
@@ -41,6 +41,7 @@ items:
     description: "Escape game en réalité virtuelle dans le 11e et le 17e, 45 minutes d'aventure en équipe, tarif moins de 26 ans à 26 euros par personne."
   - name: "BAM Karaoké Box"
     description: "Karaoké en box privés, cinq adresses à Paris, à partir de 10 euros par personne pour 2 heures, avec une offre dédiée aux enfants et aux ados."
+aliases: ["/activites-insolites/anniversaire-ado-paris/"]
 draft: false
 ---
 
@@ -57,7 +58,7 @@ L'autre différence est logistique. Jusqu'à 14 ou 15 ans selon les lieux, un ad
 | 12 à 14 ans | Du défi, pas trop d'effroi | Action game, escape game familial, VR | Oui, le plus souvent |
 | 15 à 17 ans | De l'intensité, de l'autonomie | Escape game immersif, murder party, karaoké | Rarement obligatoire |
 
-Si c'est pile ses 12 ans, notre guide [anniversaire 12 ans à Paris](/activites-insolites/anniversaire-12-ans-paris/) détaille les formats qui passent à cet âge charnière.
+Si c'est pile ses 12 ans, notre guide [anniversaire 12 ans à Paris](/anniversaires/anniversaire-12-ans-paris/) détaille les formats qui passent à cet âge charnière.
 
 ## Les 6 activités en un coup d'œil
 
@@ -118,7 +119,9 @@ Côté invités, 6 à 10 ados reste le format le plus simple. Au-delà de 7, une
 
 ## Pour aller plus loin
 
-Tu organises aussi un anniversaire pour un adulte, ou tu hésites encore sur le lieu ? Notre guide [où fêter son anniversaire à Paris](/activites-insolites/ou-feter-son-anniversaire-paris/) compare toutes les options, des formules pour enfants aux bars à activité. Pour sortir des classiques, notre sélection [anniversaire original à Paris](/activites-insolites/anniversaire-original-paris/) propose 7 alternatives au laser game et au bowling. Et pour trouver un format que personne n'a encore testé, fais un tour dans les [activités insolites](/activites-insolites/) ou dans les [bars et lieux ludiques](/bars-lieux-ludiques/).
+Tu organises aussi un anniversaire pour un adulte, ou tu hésites encore sur le lieu ? Notre guide [où fêter son anniversaire à Paris](/anniversaires/ou-feter-son-anniversaire-paris/) compare toutes les options, des formules pour enfants aux bars à activité. Pour sortir des classiques, notre sélection [anniversaire original à Paris](/anniversaires/anniversaire-original-paris/) propose 7 alternatives au laser game et au bowling. Et pour trouver un format que personne n'a encore testé, fais un tour dans les [activités insolites](/activites-insolites/) ou dans les [bars et lieux ludiques](/bars-lieux-ludiques/).
+
+Tu préfères offrir une sortie plutôt qu'organiser la fête ? Notre sélection [idée cadeau d'anniversaire à Paris](/anniversaires/idee-cadeau-experience-paris/) compare six bons cadeaux, et nos [idées d'anniversaire à Paris](/anniversaires/idee-anniversaire-paris/) donnent d'autres pistes selon le budget.
 
 ## Sources et liens utiles
 

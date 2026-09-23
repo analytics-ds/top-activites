@@ -6,7 +6,7 @@ date: 2026-09-23
 lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
-categories: ["Unusual activities"]
+categories: ["Birthdays"]
 tags: ["birthday ideas", "what to do for your birthday", "birthday Paris", "surprise party", "Paris"]
 villes: ["Paris"]
 translationKey: "idee-anniversaire-paris"
@@ -26,6 +26,7 @@ faq:
     answer: "Go for a team activity where everyone plays at the same time with no skill needed, like the action game, a TV-style quiz or virtual reality. They break the ice in minutes, unlike karaoke or a sit-down dinner, which work better with an already close group."
   - question: "What idea for a 30th or 40th birthday in Paris?"
     answer: "For a milestone birthday, the group is often bigger and more mixed. Choose a venue that can take everyone at once, with an accessible activity and food and drink on site, or a full venue hire if there are more than 30 of you. A package with cake and a reserved table saves you from organising everything."
+aliases: ["/activites-insolites/birthday-ideas-paris/"]
 draft: false
 ---
 
@@ -47,7 +48,7 @@ Before looking for an idea, answer these three questions, they rule out half the
 | | Chatting | Board game bar, dinner, activity bar |
 | | Being surprised | Escape game, murder mystery, virtual reality |
 
-If you are looking for a venue first, our guide on [where to celebrate your birthday in Paris](/en/activites-insolites/where-to-celebrate-birthday-paris/) compares six venues with birthday packages.
+If you are looking for a venue first, our guide on [where to celebrate your birthday in Paris](/en/anniversaires/where-to-celebrate-birthday-paris/) compares six venues with birthday packages.
 
 ## Ideas to get moving
 
@@ -57,7 +58,7 @@ If you are looking for a venue first, our guide on [where to celebrate your birt
 
 **3. Team virtual reality.** Everyone discovers it at the same time, nobody has a head start. Count around 30 euros per person for 45 minutes of adventure, a bit more with a birthday package.
 
-These three ideas and four more are detailed in our selection of [original birthday ideas in Paris](/en/activites-insolites/original-birthday-ideas-paris/).
+These three ideas and four more are detailed in our selection of [original birthday ideas in Paris](/en/anniversaires/original-birthday-ideas-paris/).
 
 ## Ideas to chat and toast
 
@@ -69,7 +70,7 @@ These three ideas and four more are detailed in our selection of [original birth
 
 **7. Dinner or drinks in a private space.** Many bars will reserve an area with no hire fee in exchange for a minimum spend, to be negotiated beforehand. It is the right option from 30 people, or when the birthday is first and foremost a meal.
 
-For an adult birthday, our [adult birthday party in Paris](/en/activites-insolites/adult-birthday-party-paris/) guide compares seven activity bars and turnkey packages.
+For an adult birthday, our [adult birthday party in Paris](/en/anniversaires/adult-birthday-party-paris/) guide compares seven activity bars and turnkey packages.
 
 ## Ideas to surprise
 
@@ -81,13 +82,13 @@ For an adult birthday, our [adult birthday party in Paris](/en/activites-insolit
 
 ## Ideas by age
 
-**11. For a child or a teenager.** Go for an all-inclusive birthday package, activity then a reserved space for the party snack, between 30 and 50 euros per child. Check the minimum age and the age up to which an adult must stay, it ranges from 14 to 15 depending on the venue. It is all detailed in our [teen birthday party in Paris](/en/activites-insolites/teen-birthday-party-paris/) selection and our [12th birthday party in Paris](/en/activites-insolites/12th-birthday-party-paris/) guide.
+**11. For a child or a teenager.** Go for an all-inclusive birthday package, activity then a reserved space for the party snack, between 30 and 50 euros per child. Check the minimum age and the age up to which an adult must stay, it ranges from 14 to 15 depending on the venue. It is all detailed in our [teen birthday party in Paris](/en/anniversaires/teen-birthday-party-paris/) selection and our [12th birthday party in Paris](/en/anniversaires/12th-birthday-party-paris/) guide.
 
 **12. For a milestone birthday, 30, 40 or 50.** The group is bigger and more mixed than usual. Choose an activity anyone can do and a venue that can take everyone at once, several booths, staggered starts or full venue hire beyond 30 people.
 
 ## And if you would rather give than organise
 
-Sometimes the best birthday idea is to let the birthday person pick their own date. A voucher for an activity to do with friends is lived with others and never ends up on a shelf. Our selection of [birthday gift ideas in Paris](/en/activites-insolites/experience-gift-ideas-paris/) compares six gift vouchers, with their price and validity period.
+Sometimes the best birthday idea is to let the birthday person pick their own date. A voucher for an activity to do with friends is lived with others and never ends up on a shelf. Our selection of [birthday gift ideas in Paris](/en/anniversaires/experience-gift-ideas-paris/) compares six gift vouchers, with their price and validity period.
 
 ## The mistakes that ruin a birthday
 

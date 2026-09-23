@@ -6,7 +6,7 @@ date: 2026-09-23
 lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
-categories: ["Activités insolites"]
+categories: ["Anniversaires"]
 tags: ["anniversaire original", "anniversaire insolite", "alternative laser game", "activité insolite", "Paris"]
 villes: ["Paris"]
 translationKey: "anniversaire-original-paris"
@@ -41,6 +41,7 @@ items:
     description: "Murder party d'une heure animée par un comédien professionnel dans le 15e, de 6 à 8 joueurs, à partir de 28 euros par personne."
   - name: "Virtual Room"
     description: "Escape game en réalité virtuelle dans le 11e et le 17e, 45 minutes d'aventure en équipe, 30 euros par personne, pack anniversaire dès 40 euros."
+aliases: ["/activites-insolites/anniversaire-original-paris/"]
 draft: false
 ---
 
@@ -59,7 +60,7 @@ Si le laser game et le bowling marchent, c'est pour trois raisons. Tout le monde
 | Mener l'enquête | Escape game | Murder party avec comédien | Dès 28 € |
 | Découvrir un truc jamais vu | Laser game | Réalité virtuelle en équipe | 30 € |
 
-Tu cherches plutôt un lieu selon l'âge de la personne fêtée ? Notre guide [où fêter son anniversaire à Paris](/activites-insolites/ou-feter-son-anniversaire-paris/) compare toutes les options.
+Tu cherches plutôt un lieu selon l'âge de la personne fêtée ? Notre guide [où fêter son anniversaire à Paris](/anniversaires/ou-feter-son-anniversaire-paris/) compare toutes les options.
 
 ## Les 7 activités en un coup d'œil
 
@@ -123,7 +124,7 @@ Cinévasion, dans le 15e, propose une murder party d'initiation d'une heure, ani
 
 Trois questions suffisent. Qui est le plus jeune du groupe, parce que l'âge minimum élimine vite certaines options. Combien vous êtes, parce qu'une murder party plafonne à 8 quand l'action game ou le quiz montent à plus de 50. Et est-ce que le groupe veut boire et manger sur place, auquel cas un bar à activité comme PAN Bar Paris évite de changer d'adresse.
 
-Côté réservation, deux à trois semaines pour un samedi, un mois pendant les vacances scolaires. Pour les ados, notre sélection [anniversaire ado à Paris](/activites-insolites/anniversaire-ado-paris/) détaille les règles d'accompagnement, et pour les adultes, l'article [anniversaire adulte à Paris](/activites-insolites/anniversaire-adulte-paris/) compare les bars à activité.
+Côté réservation, deux à trois semaines pour un samedi, un mois pendant les vacances scolaires. Pour les ados, notre sélection [anniversaire ado à Paris](/anniversaires/anniversaire-ado-paris/) détaille les règles d'accompagnement, et pour les adultes, l'article [anniversaire adulte à Paris](/anniversaires/anniversaire-adulte-paris/) compare les bars à activité.
 
 ## Pour aller plus loin
 

@@ -4,7 +4,7 @@ seoTitle: "Murder mystery party in Paris: how it works, which to pick"
 description: "Format, running time, price, group size. Everything to know before booking a murder mystery party in Paris, and how to choose between venue, at-home and kit versions."
 date: 2026-09-17
 publishDate: 2026-09-17
-lastmod: 2026-09-17
+lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
 categories: ["Unusual activities"]
@@ -95,6 +95,8 @@ If the goal is to get the team working together rather than against each other, 
 - **The action game**, a timed team course of challenges, with no individual speaking. In Paris, Bomb Squad runs it on boulevard de Sébastopol in the 3rd arrondissement, in teams of 2 to 6 players for one hour, from 45 euros per player for two down to 28 euros for six, open from age 7 with an adult.
 - **The escape room**, cooperative and puzzle-based, for groups who would rather think together. Our pick of the [best escape games in Paris](/en/activites-insolites/best-escape-games-paris/) covers the rooms and their difficulty levels.
 - **The activity bar**, when the point is mostly a good evening together with food on site. PAN Bar, a shooting bar in the 10th arrondissement, works with booths of 2 to 10 people from 16 euros per person, up to 66 players across several booths, closed on Mondays.
+
+For a birthday, the murder mystery is one of our [original birthday ideas in Paris](/en/anniversaires/original-birthday-ideas-paris/), alongside axe throwing, the TV-style quiz and the shooting bar.
 
 ## When to book
 

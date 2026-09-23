@@ -6,7 +6,7 @@ date: 2026-09-23
 lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
-categories: ["Activités insolites"]
+categories: ["Anniversaires"]
 tags: ["anniversaire adulte", "anniversaire entre amis", "bar anniversaire Paris", "activité insolite", "Paris"]
 villes: ["Paris"]
 translationKey: "anniversaire-adulte-paris"
@@ -43,6 +43,7 @@ items:
     description: "Escape game sous licence DC Comics dans le 19e, formule VIP à 50 euros avec gâteau, boissons, cadeau et table au lounge."
   - name: "Virtual Room"
     description: "Escape game en réalité virtuelle dans le 11e et le 17e, pack anniversaire adulte à 45 euros avec boissons soft et alcoolisées et snacks salés."
+aliases: ["/activites-insolites/anniversaire-adulte-paris/"]
 draft: false
 ---
 
@@ -59,7 +60,7 @@ Trois critères, dans cet ordre. D'abord, une activité accessible à tout le mo
 | Chanter, danser, lâcher prise | Karaoké privatif | 1 à 30 | Dès 10 € (2h) |
 | Un peu de compétition | Fléchettes électroniques | 6 par piste | 14 à 39 € la piste / h |
 
-Tu hésites encore entre un anniversaire d'ado, d'enfant ou d'adulte ? Notre guide [où fêter son anniversaire à Paris](/activites-insolites/ou-feter-son-anniversaire-paris/) compare toutes les options.
+Tu hésites encore entre un anniversaire d'ado, d'enfant ou d'adulte ? Notre guide [où fêter son anniversaire à Paris](/anniversaires/ou-feter-son-anniversaire-paris/) compare toutes les options.
 
 ## Les 7 adresses en un coup d'œil
 
@@ -127,7 +128,9 @@ Pour une surprise, préviens le lieu à la réservation, la plupart jouent le je
 
 ## Pour aller plus loin
 
-Si l'anniversaire se transforme en enterrement de vie de jeune fille ou de garçon, les mêmes adresses reviennent souvent, fais un tour dans les rubriques [EVJF](/evjf/) et [EVG](/evg/). Si tu préfères offrir la soirée plutôt que l'organiser, notre sélection [idée cadeau d'anniversaire à Paris](/activites-insolites/idee-cadeau-experience-paris/) compare six bons cadeaux. Pour d'autres idées de soirées, la rubrique [bars et lieux ludiques](/bars-lieux-ludiques/) liste tous nos articles sur le sujet.
+Si l'anniversaire se transforme en enterrement de vie de jeune fille ou de garçon, les mêmes adresses reviennent souvent, fais un tour dans les rubriques [EVJF](/evjf/) et [EVG](/evg/). Si tu préfères offrir la soirée plutôt que l'organiser, notre sélection [idée cadeau d'anniversaire à Paris](/anniversaires/idee-cadeau-experience-paris/) compare six bons cadeaux. Pour d'autres idées de soirées, la rubrique [bars et lieux ludiques](/bars-lieux-ludiques/) liste tous nos articles sur le sujet.
+
+Et pour d'autres pistes, pioche dans nos [idées d'anniversaire à Paris](/anniversaires/idee-anniversaire-paris/) ou dans notre sélection [anniversaire original à Paris](/anniversaires/anniversaire-original-paris/).
 
 ## Sources et liens utiles
 

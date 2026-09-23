@@ -29,6 +29,9 @@
                         <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                     </li>
                     {{ end }}
+                    <li>
+                        {{ if $isEn }}<a href="{{ "en/anniversaires/where-to-celebrate-birthday-paris/" | relURL }}">Guide, where to celebrate your birthday in Paris</a>{{ else }}<a href="{{ "anniversaires/ou-feter-son-anniversaire-paris/" | relURL }}">Guide, où fêter son anniversaire à Paris</a>{{ end }}
+                    </li>
                 </ul>
             </div>
 

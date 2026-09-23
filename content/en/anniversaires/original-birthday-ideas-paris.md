@@ -6,7 +6,7 @@ date: 2026-09-23
 lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
-categories: ["Unusual activities"]
+categories: ["Birthdays"]
 tags: ["original birthday", "unusual birthday", "laser tag alternative", "unusual activity", "Paris"]
 villes: ["Paris"]
 translationKey: "anniversaire-original-paris"
@@ -41,6 +41,7 @@ items:
     description: "One hour murder mystery run by a professional actor in the 15th, 6 to 8 players, from 28 euros per person."
   - name: "Virtual Room"
     description: "Virtual reality escape game in the 11th and 17th, 45 minute team adventures, 30 euros per person, birthday pack from 40 euros."
+aliases: ["/activites-insolites/original-birthday-ideas-paris/"]
 draft: false
 ---
 
@@ -59,7 +60,7 @@ Laser tag and bowling work for three reasons. Everyone gets the rules in two min
 | Solving a case | Escape game | Murder mystery with an actor | From 28 € |
 | Trying something never seen | Laser tag | Team virtual reality | 30 € |
 
-Looking for a venue based on the birthday person's age instead? Our guide on [where to celebrate your birthday in Paris](/en/activites-insolites/where-to-celebrate-birthday-paris/) compares every option.
+Looking for a venue based on the birthday person's age instead? Our guide on [where to celebrate your birthday in Paris](/en/anniversaires/where-to-celebrate-birthday-paris/) compares every option.
 
 ## The 7 activities at a glance
 
@@ -123,7 +124,7 @@ Cinévasion, in the 15th, runs a one hour introductory murder mystery led by a p
 
 Three questions are enough. Who is the youngest in the group, because the minimum age quickly rules out some options. How many of you there are, because a murder mystery caps at 8 while the action game or the quiz go beyond 50. And whether the group wants to eat and drink on site, in which case an activity bar like PAN Bar Paris saves you changing venues.
 
-For booking, allow two to three weeks for a Saturday, a month during school holidays. For teens, our [teen birthday party in Paris](/en/activites-insolites/teen-birthday-party-paris/) selection covers supervision rules, and for adults, the [adult birthday party in Paris](/en/activites-insolites/adult-birthday-party-paris/) guide compares activity bars.
+For booking, allow two to three weeks for a Saturday, a month during school holidays. For teens, our [teen birthday party in Paris](/en/anniversaires/teen-birthday-party-paris/) selection covers supervision rules, and for adults, the [adult birthday party in Paris](/en/anniversaires/adult-birthday-party-paris/) guide compares activity bars.
 
 ## Going further
 

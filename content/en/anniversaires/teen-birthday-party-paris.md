@@ -6,7 +6,7 @@ date: 2026-09-23
 lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
-categories: ["Unusual activities"]
+categories: ["Birthdays"]
 tags: ["teen birthday", "teenager birthday party", "teen outing Paris", "birthday package", "Paris"]
 villes: ["Paris"]
 translationKey: "anniversaire-ado-paris"
@@ -41,6 +41,7 @@ items:
     description: "Virtual reality escape game in the 11th and 17th, 45 minute team adventures, under 26 rate at 26 euros per person."
   - name: "BAM Karaoke Box"
     description: "Private karaoke rooms, five venues in Paris, from 10 euros per person for 2 hours, with a dedicated offer for kids and teens."
+aliases: ["/activites-insolites/teen-birthday-party-paris/"]
 draft: false
 ---
 
@@ -57,7 +58,7 @@ The other difference is practical. Up to 14 or 15 depending on the venue, an adu
 | 12 to 14 | A challenge, not too scary | Action game, family escape game, VR | Yes, most of the time |
 | 15 to 17 | Intensity, independence | Immersive escape game, murder mystery, karaoke | Rarely required |
 
-If it is exactly their 12th, our guide to a [12th birthday party in Paris](/en/activites-insolites/12th-birthday-party-paris/) covers the formats that work at that in-between age.
+If it is exactly their 12th, our guide to a [12th birthday party in Paris](/en/anniversaires/12th-birthday-party-paris/) covers the formats that work at that in-between age.
 
 ## The 6 activities at a glance
 
@@ -118,7 +119,9 @@ On guests, 6 to 10 teens is the easiest format. Beyond 7, one escape room is not
 
 ## Going further
 
-Also planning a birthday for an adult, or still unsure about the venue? Our guide on [where to celebrate your birthday in Paris](/en/activites-insolites/where-to-celebrate-birthday-paris/) compares every option, from kids packages to activity bars. To move beyond the classics, our [original birthday ideas in Paris](/en/activites-insolites/original-birthday-ideas-paris/) selection offers 7 alternatives to laser tag and bowling. And to find a format nobody has tried yet, browse the [unusual activities](/en/activites-insolites/) or the [fun bars and venues](/en/bars-lieux-ludiques/).
+Also planning a birthday for an adult, or still unsure about the venue? Our guide on [where to celebrate your birthday in Paris](/en/anniversaires/where-to-celebrate-birthday-paris/) compares every option, from kids packages to activity bars. To move beyond the classics, our [original birthday ideas in Paris](/en/anniversaires/original-birthday-ideas-paris/) selection offers 7 alternatives to laser tag and bowling. And to find a format nobody has tried yet, browse the [unusual activities](/en/activites-insolites/) or the [fun bars and venues](/en/bars-lieux-ludiques/).
+
+Would you rather give an outing than organise the party? Our [birthday gift ideas in Paris](/en/anniversaires/experience-gift-ideas-paris/) selection compares six gift vouchers, and our [birthday ideas in Paris](/en/anniversaires/birthday-ideas-paris/) offer more options by budget.
 
 ## Sources and useful links
 

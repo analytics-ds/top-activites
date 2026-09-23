@@ -3,7 +3,7 @@ title: "Bars à jeux à Paris : 7 adresses pour jouer un verre à la main en {an
 seoTitle: "Bar à jeux Paris : les 7 meilleures adresses ludiques en {annee}"
 description: "Notre sélection de bars à jeux à Paris pour un groupe, jeux de société, arcade, fléchettes ou tir, avec pour chaque adresse le prix réel, le quartier, la taille de groupe et le type d'ambiance."
 date: 2026-08-17
-lastmod: 2026-09-11
+lastmod: 2026-09-23
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
 categories: ["Bars et lieux ludiques"]
@@ -142,7 +142,7 @@ La règle qui change tout : dès que le tarif est **à la piste ou au box**, rem
 
 - **Afterwork d'équipe** : une activité courte qui casse la glace sans plomber la soirée, type fléchettes ou tir. Le reste des formats est détaillé dans notre sélection [afterwork à Paris](/afterwork/).
 - **EVJF ou EVG** : un box privatif, karaoké ou tir, pour rester entre vous et enchaîner sur un dîner. Voir nos idées pour un [EVJF à Paris](/evjf/) et un [EVG à Paris](/evg/).
-- **Anniversaire entre amis** : un bar à jeux de société si le groupe est bavard, un salon privatif si le groupe est nombreux et bruyant.
+- **Anniversaire entre amis** : un bar à jeux de société si le groupe est bavard, un salon privatif si le groupe est nombreux et bruyant. Pour d'autres adresses, lis notre article [anniversaire adulte à Paris](/anniversaires/anniversaire-adulte-paris/).
 - **Team building** : privilégie les lieux qui gèrent l'activité et la restauration au même endroit, ça évite le trou d'air du déplacement. Nos formats pour un [team building à Paris](/team-building-seminaires/).
 - **Envie de sortir de l'ordinaire** : le tir virtuel et les concepts hybrides tirent leur épingle du jeu, comme le reste de nos [activités insolites à Paris](/activites-insolites/).
 

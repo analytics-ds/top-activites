@@ -4,7 +4,7 @@ seoTitle: "Action game à Paris : comment ça marche et où en faire"
 description: "Déroulé, prix, durée, taille de groupe. Comment marche un action game à Paris, pour qui il convient, et comment le choisir face à un escape game."
 date: 2026-09-18
 publishDate: 2026-09-18
-lastmod: 2026-09-18
+lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
 categories: ["Activités insolites"]
@@ -86,7 +86,7 @@ C'est là que le format prend tout son sens, parce qu'il s'adapte à des besoins
 
 **Pour un [EVG](/evg/) ou un [EVJF](/evjf/)**, l'action game fait bouger le groupe et crée de la compétition amicale sans exposer personne individuellement, contrairement à une [murder party](/activites-insolites/murder-party-paris/) où chacun doit tenir un rôle devant les autres. Une petite heure de jeu se cale facilement avant ou après le dîner de la soirée.
 
-**Pour un anniversaire**, le format convient aussi bien à un groupe d'ados qu'à un groupe d'adultes, grâce à un effort physique modulable et des équipes qui se forment naturellement par affinité.
+**Pour un anniversaire**, le format convient aussi bien à un groupe d'ados qu'à un groupe d'adultes, grâce à un effort physique modulable et des équipes qui se forment naturellement par affinité. Pour choisir le lieu et la formule, lis notre guide [où fêter son anniversaire à Paris](/anniversaires/ou-feter-son-anniversaire-paris/).
 
 **Pour un team building**, c'est l'un des formats les plus simples à organiser en grand effectif. Les départs échelonnés en équipes de 2 à 6 absorbent des groupes de 40 à 60 personnes sans les répartir sur des expériences différentes comme le ferait un escape game classique, où chaque salle limite le nombre de joueurs. Notre guide pour [organiser un team building](/team-building-seminaires/organiser-un-team-building-conseils/) détaille les paliers de budget selon la taille de l'équipe.
 

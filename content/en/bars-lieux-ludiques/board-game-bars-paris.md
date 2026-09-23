@@ -3,7 +3,7 @@ title: "Game bars in Paris: 7 places to play with a drink in hand in {annee}"
 seoTitle: "Game bars in Paris: the 7 best playful venues in {annee}"
 description: "Our pick of board game bars in Paris for a group, board games, arcade, darts or shooting, with the real price, the neighbourhood, the group size and the vibe for each address."
 date: 2026-08-17
-lastmod: 2026-09-11
+lastmod: 2026-09-23
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
 categories: ["Fun bars and venues"]
@@ -142,7 +142,7 @@ The rule that changes everything: whenever the price is **per lane or per box**,
 
 - **Team afterwork**: a short activity that breaks the ice without eating the whole evening, darts or shooting. More formats in our [afterwork in Paris](/en/afterwork/) selection.
 - **Bachelorette or bachelor party**: a private room, karaoke or shooting, to stay among yourselves and move on to dinner. See our ideas for a [bachelorette party in Paris](/en/evjf/) and a [bachelor party in Paris](/en/evg/).
-- **Birthday with friends**: a board game bar for a chatty group, a private room for a large and loud one.
+- **Birthday with friends**: a board game bar for a chatty group, a private room for a large and loud one. For more venues, read our [adult birthday party in Paris](/en/anniversaires/adult-birthday-party-paris/) guide.
 - **Team building**: favour venues that handle the activity and the catering in one place, it removes the dead time of moving around. Our formats for [team building in Paris](/en/team-building-seminaires/).
 - **Something out of the ordinary**: virtual shooting and hybrid concepts stand out, along with the rest of our [unusual activities in Paris](/en/activites-insolites/).
 

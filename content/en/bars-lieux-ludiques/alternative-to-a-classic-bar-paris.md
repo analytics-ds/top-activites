@@ -3,7 +3,7 @@ title: "Alternatives to a classic bar in Paris: which format for which occasion 
 seoTitle: "Alternative to a classic bar in Paris: a guide by occasion"
 description: "Shooting bars, board game bars, darts, karaoke boxes, arcades. How to pick the right alternative to a classic bar in Paris based on the occasion, the budget and the size of your group."
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-09-23
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
 categories: ["Fun bars and venues"]
@@ -64,7 +64,7 @@ Venue by venue capacities are detailed in our selection of [board game bars in P
 
 ### A birthday with friends
 
-You are looking for a space of your own and a slot that covers the whole evening. Karaoke boxes and virtual shooting bars tick both, with drinks and food served without moving.
+You are looking for a space of your own and a slot that covers the whole evening. Karaoke boxes and virtual shooting bars tick both, with drinks and food served without moving. Our guide on [where to celebrate your birthday in Paris](/en/anniversaires/where-to-celebrate-birthday-paris/) compares the venues that offer a birthday package.
 
 [PAN Bar](https://pan.bar/), at 6 rue de Paradis in the 10th arrondissement, runs on exactly that principle. You book a semi private box for 2 to 10 people, and several boxes as the group grows, up to 66 people on the simple package. Each box has two guns and a tablet to launch the games and order, with a tapas menu and cocktails. Prices start at 16 euros per person and vary with the day, the time slot and the box, while buying out the full 400 sqm is possible from 30 people. Closed on Mondays.
 

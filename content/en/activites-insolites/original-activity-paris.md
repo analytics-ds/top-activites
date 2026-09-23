@@ -4,7 +4,7 @@ seoTitle: "Original activity in Paris: how to pick the right one"
 description: "Finding an original activity in Paris is easy, picking the right one is not. The four-criteria method to get it right for your group, your budget and the occasion."
 date: 2026-09-16
 publishDate: 2026-09-16
-lastmod: 2026-09-16
+lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
 categories: ["Unusual activities"]
@@ -82,6 +82,8 @@ To make this tangible, two addresses that each illustrate a different billing mo
 **The activity bar** adds bar service and food on site. PAN Bar, a shooting bar in the 10th arrondissement, works with booths of 2 to 10 people from 16 euros per person, up to 66 players across several booths, and privatises its 400 square metres from 30 people upwards. It is closed on Mondays. This is the textbook format billed by space, where the price per head drops as the group grows.
 
 Our overview of [bars and games venues](/en/bars-lieux-ludiques/) covers the rest of that family, from board games to connected darts.
+
+Looking for an original activity for a birthday? Our selection of [original birthday ideas in Paris](/en/anniversaires/original-birthday-ideas-paris/) offers 7 alternatives to laser tag and bowling.
 
 ## When to book, by format
 

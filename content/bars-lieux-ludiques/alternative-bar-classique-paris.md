@@ -3,7 +3,7 @@ title: "Alternative à un bar classique à Paris : quel format pour quelle occas
 seoTitle: "Alternative à un bar classique à Paris : le guide par occasion"
 description: "Bar à tir, bar à jeux, fléchettes, karaoké box, arcade. Quel format d'alternative à un bar classique choisir à Paris selon l'occasion, le budget et la taille du groupe."
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-09-23
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
 categories: ["Bars et lieux ludiques"]
@@ -64,7 +64,7 @@ Le détail des adresses et des capacités est dans notre sélection de [bars à 
 
 ### Un anniversaire entre amis
 
-Tu cherches un espace à vous et un créneau qui tient la soirée entière. Le karaoké box et le bar à tir virtuel cochent les deux cases, avec service de boissons et de nourriture sans avoir à bouger.
+Tu cherches un espace à vous et un créneau qui tient la soirée entière. Le karaoké box et le bar à tir virtuel cochent les deux cases, avec service de boissons et de nourriture sans avoir à bouger. Notre guide [où fêter son anniversaire à Paris](/anniversaires/ou-feter-son-anniversaire-paris/) compare les adresses qui proposent une formule anniversaire.
 
 [PAN Bar](https://pan.bar/), au 6 rue de Paradis dans le 10e, fonctionne sur ce principe. Tu réserves un box semi-privatif de 2 à 10 personnes, et plusieurs box quand le groupe grossit, jusqu'à 66 personnes en formule simple. Chaque box a deux fusils, une tablette pour lancer les jeux et commander, avec une carte de tapas et des cocktails. Les tarifs démarrent à 16 euros par personne et varient ensuite selon le jour, l'horaire et le box, la privatisation des 400 m² étant possible à partir de 30 personnes. Fermé le lundi.
 

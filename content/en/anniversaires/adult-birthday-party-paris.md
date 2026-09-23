@@ -6,7 +6,7 @@ date: 2026-09-23
 lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
-categories: ["Unusual activities"]
+categories: ["Birthdays"]
 tags: ["adult birthday", "birthday with friends", "birthday bar Paris", "unusual activity", "Paris"]
 villes: ["Paris"]
 translationKey: "anniversaire-adulte-paris"
@@ -43,6 +43,7 @@ items:
     description: "Officially licensed DC Comics escape game in the 19th, VIP package at 50 euros with cake, drinks, gift and lounge table."
   - name: "Virtual Room"
     description: "Virtual reality escape game in the 11th and 17th, adult birthday pack at 45 euros with soft and alcoholic drinks and savoury snacks."
+aliases: ["/activites-insolites/adult-birthday-party-paris/"]
 draft: false
 ---
 
@@ -59,7 +60,7 @@ Three criteria, in this order. First, an activity everyone can do, with no skill
 | Sing, dance, let go | Private karaoke | 1 to 30 | From 10 € (2h) |
 | A bit of competition | Electronic darts | 6 per lane | 14 to 39 € per lane / h |
 
-Still torn between a teen, kids or adult party? Our guide on [where to celebrate your birthday in Paris](/en/activites-insolites/where-to-celebrate-birthday-paris/) compares every option.
+Still torn between a teen, kids or adult party? Our guide on [where to celebrate your birthday in Paris](/en/anniversaires/where-to-celebrate-birthday-paris/) compares every option.
 
 ## The 7 venues at a glance
 
@@ -127,7 +128,9 @@ For a surprise, tell the venue when you book, most will play along and bring the
 
 ## Going further
 
-If the birthday turns into a bachelorette or bachelor party, the same venues often come back, browse our [bachelorette party](/en/evjf/) and [bachelor party](/en/evg/) sections. If you would rather give the evening than organise it, our [birthday gift ideas in Paris](/en/activites-insolites/experience-gift-ideas-paris/) selection compares six gift vouchers. For more evening ideas, the [fun bars and venues](/en/bars-lieux-ludiques/) section lists all our articles on the subject.
+If the birthday turns into a bachelorette or bachelor party, the same venues often come back, browse our [bachelorette party](/en/evjf/) and [bachelor party](/en/evg/) sections. If you would rather give the evening than organise it, our [birthday gift ideas in Paris](/en/anniversaires/experience-gift-ideas-paris/) selection compares six gift vouchers. For more evening ideas, the [fun bars and venues](/en/bars-lieux-ludiques/) section lists all our articles on the subject.
+
+And for more ideas, browse our [birthday ideas in Paris](/en/anniversaires/birthday-ideas-paris/) or our selection of [original birthday ideas in Paris](/en/anniversaires/original-birthday-ideas-paris/).
 
 ## Sources and useful links
 

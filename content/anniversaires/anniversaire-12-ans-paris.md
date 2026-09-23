@@ -3,10 +3,10 @@ title: "Anniversaire 12 ans à Paris : le guide pour organiser une fête réussi
 seoTitle: "Anniversaire 12 ans à Paris : le guide complet"
 description: "Anniversaire 12 ans à Paris, les formats qui marchent, le budget par enfant et les délais de réservation, escape game, action game, ateliers, maison."
 date: 2026-09-21
-lastmod: 2026-09-21
+lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
-categories: ["Activités insolites"]
+categories: ["Anniversaires"]
 tags: ["anniversaire 12 ans", "activité insolite", "anniversaire enfant", "sortie de groupe", "Paris"]
 villes: ["Paris"]
 translationKey: "anniversaire-12-ans-paris"
@@ -28,6 +28,7 @@ faq:
     answer: "À la maison, tu gardes la main sur le budget et les horaires, mais tu gères seul l'animation d'un groupe de pré-ados qui commencent à se lasser des jeux trop enfantins. Une activité extérieure structure la fête à ta place, avec un début et une fin fixes, et évite le moment creux où plus personne ne sait quoi faire. Beaucoup de familles combinent les deux, une heure d'activité suivie d'un goûter à la maison ou dans un espace privé sur place."
   - question: "Quelle activité pour un anniversaire de 12 ans quand il pleut ?"
     answer: "Tout ce qui se joue en intérieur, ce qui couvre la grande majorité des formats adaptés à cet âge. Action game, escape game, laser game, bowling, trampoline park et ateliers créatifs se déroulent tous à l'abri, avec un créneau réservé et une durée connue à l'avance, ce qui simplifie l'organisation par rapport à un pique nique ou une sortie en extérieur dépendante de la météo."
+aliases: ["/activites-insolites/anniversaire-12-ans-paris/"]
 draft: false
 ---
 
@@ -93,6 +94,10 @@ Compte trois à quatre semaines à l'avance pour la plupart des formats, et un m
 - **Prévoir plus de trois heures d'affilée.** Passé ce délai, l'énergie du groupe retombe et l'animation devient plus difficile à tenir.
 
 Pour d'autres idées de sorties de groupe à Paris toute l'année, notre sélection d'[activités insolites](/activites-insolites/) couvre les formats adaptés à chaque âge et chaque occasion.
+
+## Pour aller plus loin
+
+Notre guide [où fêter son anniversaire à Paris](/anniversaires/ou-feter-son-anniversaire-paris/) compare six adresses avec formule anniversaire, et notre sélection [anniversaire ado à Paris](/anniversaires/anniversaire-ado-paris/) prend le relais pour les 12-17 ans, avec les règles d'accompagnement de chaque lieu.
 
 ## Sources et liens utiles
 

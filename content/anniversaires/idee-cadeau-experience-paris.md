@@ -6,7 +6,7 @@ date: 2026-09-23
 lastmod: 2026-09-23
 author: "Ursule Degarde"
 authors: ["Ursule Degarde"]
-categories: ["Activités insolites"]
+categories: ["Anniversaires"]
 tags: ["cadeau expérience", "idée cadeau anniversaire", "bon cadeau Paris", "activité à offrir", "Paris"]
 villes: ["Paris"]
 translationKey: "idee-cadeau-experience-paris"
@@ -39,6 +39,7 @@ items:
     description: "Carte cadeau karaoké du montant de ton choix, valable un an dans toutes les adresses de l'enseigne, utilisable en une fois."
   - name: "Wildness"
     description: "Carte cadeau lancer de haches pour 2 à 3 personnes, à partir de 22 euros par personne, valable 12 mois, dans le 13e."
+aliases: ["/activites-insolites/idee-cadeau-experience-paris/"]
 draft: false
 ---
 
@@ -107,11 +108,13 @@ Pour d'autres idées dans le même esprit, lis notre sélection des [bars à jeu
 
 Pose-toi deux questions. Avec qui la personne ira-t-elle ? Si c'est une bande, prends un bon qui couvre un groupe, comme celui de Bomb Squad ou le coffret du 3Bis. Si c'est un duo, la carte Wildness ou un montant chez Virtual Room ou BAM. Et quand l'utilisera-t-elle ? Si elle risque de traîner, privilégie les validités de 18 mois à 2 ans.
 
-Et si tu préfères organiser toi-même la fête plutôt qu'offrir un bon, notre guide [où fêter son anniversaire à Paris](/activites-insolites/ou-feter-son-anniversaire-paris/) et notre sélection d'[idées d'anniversaire originales à Paris](/activites-insolites/anniversaire-original-paris/) sont faits pour toi.
+Et si tu préfères organiser toi-même la fête plutôt qu'offrir un bon, notre guide [où fêter son anniversaire à Paris](/anniversaires/ou-feter-son-anniversaire-paris/) et notre sélection d'[idées d'anniversaire originales à Paris](/anniversaires/anniversaire-original-paris/) sont faits pour toi.
 
 ## Pour aller plus loin
 
 Tu cherches une idée qui sort vraiment de l'ordinaire ? Fais un tour dans la rubrique [activités insolites](/activites-insolites/) ou dans les [bars et lieux ludiques](/bars-lieux-ludiques/), et regarde sur le site des lieux qui te tentent, beaucoup proposent aussi une carte cadeau.
+
+Pour d'autres pistes, selon ton budget et ton groupe, lis nos [idées d'anniversaire à Paris](/anniversaires/idee-anniversaire-paris/).
 
 ## Sources et liens utiles
 

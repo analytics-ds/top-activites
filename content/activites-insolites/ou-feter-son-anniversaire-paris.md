@@ -94,6 +94,8 @@ Détail qui compte pour les parents, la présence d'un adulte n'est pas obligato
 
 ## Les lieux pour un anniversaire d'adulte entre amis
 
+On a sélectionné ici trois adresses, et notre article [anniversaire adulte à Paris](/activites-insolites/anniversaire-adulte-paris/) en compare sept, des bars à activité aux formules clé en main.
+
 ### PAN Bar, le bar à tir qui fait tenir toute la soirée au même endroit
 
 PAN Bar, c'est un bar de loisir inspiré du ball-trap, au 6 rue de Paradis dans le 10e. Tu réserves un box avec deux fusils et une tablette pour lancer une dizaine de jeux maison et commander à boire et à manger, cuisine du chef et cocktails compris. Les box accueillent de 2 à 10 personnes, jusqu'à 66 en réservant plusieurs box, et la session démarre à 16 euros par personne pour 1h30.

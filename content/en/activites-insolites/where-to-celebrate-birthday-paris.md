@@ -94,6 +94,8 @@ A detail parents will like, an adult does not have to stay, you drop off and com
 
 ## Venues for an adult birthday with friends
 
+We picked three venues here, and our [adult birthday party in Paris](/en/activites-insolites/adult-birthday-party-paris/) guide compares seven, from activity bars to turnkey packages.
+
 ### PAN Bar, the shooting bar that keeps the whole evening in one place
 
 PAN Bar is a leisure bar inspired by clay pigeon shooting, at 6 rue de Paradis in the 10th. You book a booth with two rifles and a tablet to launch around ten in-house games and order food and drinks, with a chef's kitchen and cocktails. Booths hold 2 to 10 people, up to 66 by booking several booths, and sessions start at 16 euros per person for 1h30.

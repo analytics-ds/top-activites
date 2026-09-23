@@ -57,7 +57,7 @@ C'est la question qui règle 80 % du choix. Un anniversaire de 8 ans, de 14 ans 
 | Adulte entre amis | 6 à 30 | Bar à activité, karaoké privatif, bar à jeux | 5 à 30 € hors conso |
 | Grand groupe, 30 et plus | 30 à 60 | Activité à départs échelonnés ou privatisation | Sur devis |
 
-Pour les 12 ans pile, on a un guide dédié, [anniversaire 12 ans à Paris](/activites-insolites/anniversaire-12-ans-paris/), qui détaille les formats qui plaisent à cet âge charnière.
+Pour les 12-17 ans, notre sélection [anniversaire ado à Paris](/activites-insolites/anniversaire-ado-paris/) compare les activités et les règles d'accompagnement lieu par lieu. Pour les 12 ans pile, on a aussi un guide dédié, [anniversaire 12 ans à Paris](/activites-insolites/anniversaire-12-ans-paris/), qui détaille les formats qui plaisent à cet âge charnière.
 
 ## Les 6 adresses en un coup d'œil
 

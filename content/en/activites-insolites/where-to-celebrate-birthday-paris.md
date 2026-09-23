@@ -57,7 +57,7 @@ That question settles 80 % of the choice. A birthday for an 8 year old, a 14 yea
 | Adult with friends | 6 to 30 | Activity bar, private karaoke, board game bar | 5 to 30 € before drinks |
 | Large group, 30 and up | 30 to 60 | Activity with staggered starts or full venue hire | On quote |
 
-For exactly 12, we have a dedicated guide, [12th birthday party in Paris](/en/activites-insolites/12th-birthday-party-paris/), which covers the formats that work at that in-between age.
+For ages 12 to 17, our [teen birthday party in Paris](/en/activites-insolites/teen-birthday-party-paris/) selection compares activities and supervision rules venue by venue. For exactly 12, we also have a dedicated guide, [12th birthday party in Paris](/en/activites-insolites/12th-birthday-party-paris/), which covers the formats that work at that in-between age.
 
 ## The 6 venues at a glance
 

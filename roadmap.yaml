@@ -366,10 +366,10 @@ articles:
     volume: 92
     kd: null
     scheduled_date: 2026-10-04
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-23
+    published_url_fr: "https://top-activites.fr/activites-insolites/idee-cadeau-experience-paris/"
+    published_url_en: "https://top-activites.fr/en/activites-insolites/experience-gift-ideas-paris/"
     error: null
 
   - kw: "activite insolite paris"
@@ -1351,3 +1351,25 @@ articles_manuels_open_data:
     category: "Bars et lieux ludiques"
     volume: 170
     priorite: 3
+
+  - kw: "anniversaire original paris"
+    category: "Activités insolites"
+    volume: 70
+    kd: null
+    scheduled_date: 2026-09-23
+    status: done
+    published_date: 2026-09-23
+    published_url_fr: "https://top-activites.fr/activites-insolites/anniversaire-original-paris/"
+    published_url_en: "https://top-activites.fr/en/activites-insolites/original-birthday-ideas-paris/"
+    error: null
+
+  - kw: "idee anniversaire paris"
+    category: "Activités insolites"
+    volume: 175
+    kd: null
+    scheduled_date: 2026-09-23
+    status: done
+    published_date: 2026-09-23
+    published_url_fr: "https://top-activites.fr/activites-insolites/idee-anniversaire-paris/"
+    published_url_en: "https://top-activites.fr/en/activites-insolites/birthday-ideas-paris/"
+    error: null

@@ -118,7 +118,7 @@ On guests, 6 to 10 teens is the easiest format. Beyond 7, one escape room is not
 
 ## Going further
 
-Also planning a birthday for an adult, or still unsure about the venue? Our guide on [where to celebrate your birthday in Paris](/en/activites-insolites/where-to-celebrate-birthday-paris/) compares every option, from kids packages to activity bars. And to find a format nobody has tried yet, browse the [unusual activities](/en/activites-insolites/) or the [fun bars and venues](/en/bars-lieux-ludiques/).
+Also planning a birthday for an adult, or still unsure about the venue? Our guide on [where to celebrate your birthday in Paris](/en/activites-insolites/where-to-celebrate-birthday-paris/) compares every option, from kids packages to activity bars. To move beyond the classics, our [original birthday ideas in Paris](/en/activites-insolites/original-birthday-ideas-paris/) selection offers 7 alternatives to laser tag and bowling. And to find a format nobody has tried yet, browse the [unusual activities](/en/activites-insolites/) or the [fun bars and venues](/en/bars-lieux-ludiques/).
 
 ## Sources and useful links
 

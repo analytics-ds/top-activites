@@ -127,7 +127,7 @@ For a surprise, tell the venue when you book, most will play along and bring the
 
 ## Going further
 
-If the birthday turns into a bachelorette or bachelor party, the same venues often come back, browse our [bachelorette party](/en/evjf/) and [bachelor party](/en/evg/) sections. For more evening ideas, the [fun bars and venues](/en/bars-lieux-ludiques/) section lists all our articles on the subject.
+If the birthday turns into a bachelorette or bachelor party, the same venues often come back, browse our [bachelorette party](/en/evjf/) and [bachelor party](/en/evg/) sections. If you would rather give the evening than organise it, our [birthday gift ideas in Paris](/en/activites-insolites/experience-gift-ideas-paris/) selection compares six gift vouchers. For more evening ideas, the [fun bars and venues](/en/bars-lieux-ludiques/) section lists all our articles on the subject.
 
 ## Sources and useful links
 

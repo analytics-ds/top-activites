@@ -126,6 +126,16 @@ Three mistakes come up all the time. The first is booking too late. For a Saturd
 
 The third is forgetting the minimum age and supervision rules. Most activities on this list accept kids from 7 or 8, but require an adult up to age 15. Also check whether the cake is provided, allowed or optional, and whether the reserved space is included in the price or charged separately.
 
+## Our full birthday series
+
+This guide is the starting point of our series on birthdays in Paris. To go further depending on what you need:
+
+- [Teen birthday party in Paris](/en/activites-insolites/teen-birthday-party-paris/), 6 activities for ages 12 to 17 and supervision rules
+- [Adult birthday party in Paris](/en/activites-insolites/adult-birthday-party-paris/), 7 activity bars and packages with friends
+- [Original birthday ideas in Paris](/en/activites-insolites/original-birthday-ideas-paris/), 7 alternatives to laser tag and bowling
+- [Birthday ideas in Paris](/en/activites-insolites/birthday-ideas-paris/), 12 ways to celebrate by budget and group
+- [Birthday gift ideas in Paris](/en/activites-insolites/experience-gift-ideas-paris/), 6 experiences to give
+
 ## More ideas for a group outing in Paris
 
 If the birthday falls around a bachelorette party or a night out with colleagues, the same venues often come back. Browse our [bachelorette party in Paris](/en/evjf/) section and the [fun bars and venues](/en/bars-lieux-ludiques/) to widen your options, or the [unusual activities](/en/activites-insolites/) to find a format nobody in the group has tried yet.

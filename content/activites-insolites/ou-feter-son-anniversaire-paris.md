@@ -126,6 +126,16 @@ Trois erreurs reviennent tout le temps. La première, réserver trop tard. Pour 
 
 La troisième, oublier l'âge minimum et les règles d'accompagnement. La plupart des activités de la liste acceptent les enfants dès 7 ou 8 ans, mais demandent un adulte jusqu'à 15 ans. Vérifie aussi si le gâteau est fourni, autorisé ou en option, et si l'espace réservé est compris dans le prix ou facturé à part.
 
+## Toute notre série anniversaire
+
+Ce guide est le point de départ de notre série sur les anniversaires à Paris. Pour aller plus loin selon ton besoin :
+
+- [Anniversaire ado à Paris](/activites-insolites/anniversaire-ado-paris/), 6 activités pour les 12-17 ans et les règles d'accompagnement
+- [Anniversaire adulte à Paris](/activites-insolites/anniversaire-adulte-paris/), 7 bars à activité et formules entre amis
+- [Anniversaire original à Paris](/activites-insolites/anniversaire-original-paris/), 7 idées qui changent du laser game et du bowling
+- [Idée anniversaire à Paris](/activites-insolites/idee-anniversaire-paris/), 12 façons de fêter ça selon ton budget et ton groupe
+- [Idée cadeau d'anniversaire à Paris](/activites-insolites/idee-cadeau-experience-paris/), 6 expériences à offrir
+
 ## D'autres idées pour une sortie de groupe à Paris
 
 Si l'anniversaire tombe au moment d'un enterrement de vie de jeune fille ou d'une soirée entre collègues, les mêmes lieux reviennent souvent. Fais un tour dans notre rubrique [EVJF à Paris](/evjf/) et dans les [bars et lieux ludiques](/bars-lieux-ludiques/) pour élargir tes options, ou dans les [activités insolites](/activites-insolites/) pour trouver un format que personne dans le groupe n'a encore testé.

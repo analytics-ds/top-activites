@@ -127,7 +127,7 @@ Pour une surprise, préviens le lieu à la réservation, la plupart jouent le je
 
 ## Pour aller plus loin
 
-Si l'anniversaire se transforme en enterrement de vie de jeune fille ou de garçon, les mêmes adresses reviennent souvent, fais un tour dans les rubriques [EVJF](/evjf/) et [EVG](/evg/). Pour d'autres idées de soirées, la rubrique [bars et lieux ludiques](/bars-lieux-ludiques/) liste tous nos articles sur le sujet.
+Si l'anniversaire se transforme en enterrement de vie de jeune fille ou de garçon, les mêmes adresses reviennent souvent, fais un tour dans les rubriques [EVJF](/evjf/) et [EVG](/evg/). Si tu préfères offrir la soirée plutôt que l'organiser, notre sélection [idée cadeau d'anniversaire à Paris](/activites-insolites/idee-cadeau-experience-paris/) compare six bons cadeaux. Pour d'autres idées de soirées, la rubrique [bars et lieux ludiques](/bars-lieux-ludiques/) liste tous nos articles sur le sujet.
 
 ## Sources et liens utiles
 

@@ -118,7 +118,7 @@ Côté invités, 6 à 10 ados reste le format le plus simple. Au-delà de 7, une
 
 ## Pour aller plus loin
 
-Tu organises aussi un anniversaire pour un adulte, ou tu hésites encore sur le lieu ? Notre guide [où fêter son anniversaire à Paris](/activites-insolites/ou-feter-son-anniversaire-paris/) compare toutes les options, des formules pour enfants aux bars à activité. Et pour trouver un format que personne n'a encore testé, fais un tour dans les [activités insolites](/activites-insolites/) ou dans les [bars et lieux ludiques](/bars-lieux-ludiques/).
+Tu organises aussi un anniversaire pour un adulte, ou tu hésites encore sur le lieu ? Notre guide [où fêter son anniversaire à Paris](/activites-insolites/ou-feter-son-anniversaire-paris/) compare toutes les options, des formules pour enfants aux bars à activité. Pour sortir des classiques, notre sélection [anniversaire original à Paris](/activites-insolites/anniversaire-original-paris/) propose 7 alternatives au laser game et au bowling. Et pour trouver un format que personne n'a encore testé, fais un tour dans les [activités insolites](/activites-insolites/) ou dans les [bars et lieux ludiques](/bars-lieux-ludiques/).
 
 ## Sources et liens utiles
 

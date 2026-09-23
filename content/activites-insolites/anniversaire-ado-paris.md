@@ -1,7 +1,7 @@
 ---
 title: "Anniversaire ado à Paris : 6 activités que les 12-17 ans ne trouveront pas ringardes en {annee}"
 seoTitle: "Anniversaire ado à Paris : 6 activités pour les 12-17 ans"
-description: "Anniversaire ado à Paris, 6 activités testées pour les 12-17 ans avec formule anniversaire, prix réels, âge minimum et règles d'accompagnement par un adulte."
+description: "Anniversaire ado à Paris, 6 activités pour les 12-17 ans avec formule anniversaire, prix réels, âge minimum et règles d'accompagnement par un adulte."
 date: 2026-09-23
 lastmod: 2026-09-23
 author: "Ursule Degarde"

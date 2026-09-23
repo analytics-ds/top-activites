@@ -19,7 +19,7 @@ faq:
   - question: "Where can a group celebrate a birthday in Paris?"
     answer: "It depends on the age and the number of guests. For a group of kids or teens, go for an activity with a birthday package, action game, escape game or virtual reality, which combines the game with a reserved space for the cake. For a group of adults, an activity bar or a private karaoke room keeps the whole evening in one place. Above 20 people, check the real number of people who can play at the same time, not just the total capacity."
   - question: "Which venues offer a birthday package in Paris?"
-    answer: "Several Paris activities have a dedicated package. Bomb Squad offers a birthday package from 30 euros per person with one hour of play, a table reserved for one hour, soft drinks and sweets. Batman Escape has two packages, 36 and 50 euros per participant. Virtual Room has a 40 euro pack per child from age 8. BAM Karaoke Box and PAN Bar offer birthday deals in private rooms for adults."
+    answer: "Several Paris activities have a dedicated package. Bomb Squad offers a birthday package from 30 euros per person with one hour of play, a table reserved for one hour, soft drinks and sweets. Batman Escape has two packages, 36 and 50 euros per participant. Virtual Room has a 40 euro pack per child from age 8. BAM Karaoke Box and PAN Bar Paris offer birthday deals in private rooms for adults."
   - question: "How much does a birthday party cost in Paris?"
     answer: "Count on 30 to 50 euros per person for a full birthday package with activity, reserved space and drinks. A board game bar starts at around 5 euros per person before drinks, a private karaoke room at 10 euros per person for two hours, a shooting bar at 16 euros for 1h30. For ten guests, the total budget for an all-inclusive package is therefore between 300 and 500 euros."
   - question: "How far ahead should you book a birthday party in Paris?"
@@ -27,7 +27,7 @@ faq:
   - question: "What birthday activity works for kids aged 7 to 12?"
     answer: "Team formats where everyone plays at the same time work best. Action games and escape games are open from age 7 with an accompanying adult, virtual reality from age 8. The thing to check is each venue's minimum age and whether an adult has to be present during the game."
   - question: "Can you bring your own birthday cake?"
-    answer: "In most birthday packages, yes. Bomb Squad and Virtual Room let you bring your cake and provide drinks and sweets. Batman Escape includes a cake in its VIP package, and PAN Bar offers a cake with candles to order. Always ask when you book, especially for a cake that needs to stay chilled."
+    answer: "In most birthday packages, yes. Bomb Squad and Virtual Room let you bring your cake and provide drinks and sweets. Batman Escape includes a cake in its VIP package, and PAN Bar Paris offers a cake with candles to order. Always ask when you book, especially for a cake that needs to stay chilled."
 items:
   - name: "Bomb Squad Paris"
     description: "Action game in the 3rd, one hour of play in teams of 2 to 6, from age 7, birthday package from 30 euros per person with a reserved table, drinks and sweets."
@@ -35,7 +35,7 @@ items:
     description: "Officially licensed DC Comics escape game in the 19th, 70 minute missions for 2 to 24 players from age 7, birthday packages at 36 and 50 euros."
   - name: "Virtual Room"
     description: "Virtual reality escape game in the 11th and 17th, kids birthday pack at 40 euros from age 8, two hours on site with a party snack."
-  - name: "PAN Bar"
+  - name: "PAN Bar Paris"
     description: "Virtual shooting bar in the 10th, private booths for 2 to 10 people from 16 euros for 1h30, cake with candles to order."
   - name: "BAM Karaoke Box"
     description: "Private karaoke rooms, five venues in Paris, from 10 euros per person for 2 hours, up to 30 people, dedicated birthday offers."
@@ -66,7 +66,7 @@ For ages 12 to 17, our [teen birthday party in Paris](/en/activites-insolites/te
 | Bomb Squad Paris | 3rd, Sébastopol | Action game | 7 | 2 to 6 per team, up to 60 | Package from 30 € / pers |
 | Batman Escape | 19th, Corentin Cariou | Escape game | 7 | 2 to 24 per room | 36 or 50 € / pers |
 | Virtual Room | 11th and 17th | VR escape game | 8 | Group of kids | 40 € / child |
-| PAN Bar | 10th, rue de Paradis | Shooting bar | Adults | 2 to 10 per booth, 66 across booths | From 16 € / pers (1h30) |
+| PAN Bar Paris | 10th, rue de Paradis | Shooting bar | Adults | 2 to 10 per booth, 66 across booths | From 16 € / pers (1h30) |
 | BAM Karaoke Box | 2nd, 8th, 9th, 11th, 17th | Private karaoke | All ages | 1 to 30 | From 10 € / pers (2h) |
 | Les Grands Gamins | 2nd, Cléry | Board game bar | All ages | Small groups | 5 € / pers + drinks |
 
@@ -96,9 +96,9 @@ A detail parents will like, an adult does not have to stay, you drop off and com
 
 We picked three venues here, and our [adult birthday party in Paris](/en/activites-insolites/adult-birthday-party-paris/) guide compares seven, from activity bars to turnkey packages.
 
-### PAN Bar, the shooting bar that keeps the whole evening in one place
+### PAN Bar Paris, the shooting bar that keeps the whole evening in one place
 
-PAN Bar is a leisure bar inspired by clay pigeon shooting, at 6 rue de Paradis in the 10th. You book a booth with two rifles and a tablet to launch around ten in-house games and order food and drinks, with a chef's kitchen and cocktails. Booths hold 2 to 10 people, up to 66 by booking several booths, and sessions start at 16 euros per person for 1h30.
+PAN Bar Paris is a leisure bar inspired by clay pigeon shooting, at 6 rue de Paradis in the 10th. You book a booth with two rifles and a tablet to launch around ten in-house games and order food and drinks, with a chef's kitchen and cocktails. Booths hold 2 to 10 people, up to 66 by booking several booths, and sessions start at 16 euros per person for 1h30.
 
 For a birthday, you can book one or more booths privately and order a cake with candles. The venue is open Tuesday to Sunday from 2pm or 3pm depending on the day, and closed on Mondays. It is the right call for a group that wants to play, eat and toast without changing venues.
 
@@ -147,6 +147,6 @@ Prices, capacities and opening hours checked on the venues' official websites in
 - [Bomb Squad Paris](https://paris.bombsquad.games/)
 - [Batman Escape, birthdays](https://batman-escape.com/evenement-anniversaire)
 - [Virtual Room Paris, kids birthday](https://paris.virtual-room.com/anniversaire-enfant/)
-- [PAN Bar, events](https://pan.bar/evenements/)
+- [PAN Bar Paris, events](https://pan.bar/evenements/)
 - [BAM Karaoke Box Paris](https://fr.bam-karaokebox.com/paris/)
 - [Les Grands Gamins](https://lesgrandsgaminsparis.fr/)

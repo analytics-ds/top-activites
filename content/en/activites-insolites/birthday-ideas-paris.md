@@ -1,7 +1,7 @@
 ---
 title: "Birthday Ideas in Paris: 12 Ways to Celebrate, from Small Budget to Big Party in {annee}"
 seoTitle: "Birthday ideas in Paris: 12 ways to celebrate"
-description: "Birthday ideas in Paris, 12 ways to celebrate depending on your budget, your group and what you feel like, activity, surprise, theme, dinner, with price benchmarks."
+description: "Birthday ideas in Paris, 12 ways to celebrate by budget, group and mood, activity, surprise, theme or dinner, with price benchmarks."
 date: 2026-09-23
 lastmod: 2026-09-23
 author: "Ursule Degarde"

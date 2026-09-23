@@ -19,7 +19,7 @@ faq:
   - question: "Où fêter son anniversaire à Paris quand on est un groupe ?"
     answer: "Tout dépend de l'âge et du nombre d'invités. Pour un groupe d'enfants ou d'ados, vise une activité avec formule anniversaire, action game, escape game ou réalité virtuelle, qui enchaîne le jeu et un espace réservé pour le gâteau. Pour un groupe d'adultes, un bar à activité ou un karaoké privatif fait tenir la soirée dans un seul lieu. Au-delà de 20 personnes, vérifie la capacité simultanée réelle, pas seulement la capacité totale."
   - question: "Quels lieux proposent une formule anniversaire à Paris ?"
-    answer: "Plusieurs activités parisiennes affichent une formule dédiée. Bomb Squad propose une formule anniversaire à partir de 30 euros par personne avec une heure de jeu, une table réservée une heure, boissons soft et bonbons. Batman Escape a deux formules, 36 et 50 euros par participant. Virtual Room a un pack à 40 euros par enfant dès 8 ans. BAM Karaoké Box et PAN Bar proposent des offres anniversaire en box privé pour les adultes."
+    answer: "Plusieurs activités parisiennes affichent une formule dédiée. Bomb Squad propose une formule anniversaire à partir de 30 euros par personne avec une heure de jeu, une table réservée une heure, boissons soft et bonbons. Batman Escape a deux formules, 36 et 50 euros par participant. Virtual Room a un pack à 40 euros par enfant dès 8 ans. BAM Karaoké Box et PAN Bar Paris proposent des offres anniversaire en box privé pour les adultes."
   - question: "Combien coûte un anniversaire à Paris ?"
     answer: "Compte entre 30 et 50 euros par personne pour une formule anniversaire complète avec activité, espace réservé et boissons. Un bar à jeux démarre autour de 5 euros par personne hors consommations, un karaoké privatif à 10 euros par personne pour deux heures, un bar à tir à 16 euros pour 1h30. Pour dix invités, le budget total d'une formule tout compris se situe donc entre 300 et 500 euros."
   - question: "Combien de temps à l'avance réserver un anniversaire à Paris ?"
@@ -27,7 +27,7 @@ faq:
   - question: "Quelle activité d'anniversaire quand on a entre 7 et 12 ans ?"
     answer: "Les formats en équipe où tout le monde joue en même temps marchent le mieux. L'action game et l'escape game sont accessibles dès 7 ans avec un adulte accompagnateur, la réalité virtuelle dès 8 ans. Le point à vérifier est l'âge minimum de chaque lieu et la présence obligatoire ou non d'un adulte pendant le jeu."
   - question: "Peut-on apporter son gâteau d'anniversaire ?"
-    answer: "Dans la plupart des formules anniversaire, oui. Bomb Squad et Virtual Room laissent apporter le gâteau et fournissent boissons et bonbons. Batman Escape inclut un gâteau dans sa formule VIP, et PAN Bar propose un gâteau avec bougies sur commande. Pose toujours la question au moment de la réservation, surtout pour un gâteau qui doit rester au frais."
+    answer: "Dans la plupart des formules anniversaire, oui. Bomb Squad et Virtual Room laissent apporter le gâteau et fournissent boissons et bonbons. Batman Escape inclut un gâteau dans sa formule VIP, et PAN Bar Paris propose un gâteau avec bougies sur commande. Pose toujours la question au moment de la réservation, surtout pour un gâteau qui doit rester au frais."
 items:
   - name: "Bomb Squad Paris"
     description: "Action game du 3e, une heure de jeu en équipes de 2 à 6, dès 7 ans, formule anniversaire à partir de 30 euros par personne avec table réservée, boissons et bonbons."
@@ -35,7 +35,7 @@ items:
     description: "Escape game sous licence DC Comics dans le 19e, missions de 70 minutes de 2 à 24 joueurs dès 7 ans, formules anniversaire à 36 et 50 euros."
   - name: "Virtual Room"
     description: "Escape game en réalité virtuelle dans le 11e et le 17e, pack anniversaire enfant à 40 euros dès 8 ans, deux heures sur place avec goûter."
-  - name: "PAN Bar"
+  - name: "PAN Bar Paris"
     description: "Bar à tir virtuel du 10e, box privatifs de 2 à 10 personnes à partir de 16 euros pour 1h30, gâteau avec bougies sur commande."
   - name: "BAM Karaoké Box"
     description: "Karaoké en box privés, cinq adresses à Paris, à partir de 10 euros par personne pour 2 heures, jusqu'à 30 personnes, offres anniversaire dédiées."
@@ -66,7 +66,7 @@ Pour les 12-17 ans, notre sélection [anniversaire ado à Paris](/activites-inso
 | Bomb Squad Paris | 3e, Sébastopol | Action game | 7 ans | 2 à 6 par équipe, jusqu'à 60 | Formule dès 30 € / pers |
 | Batman Escape | 19e, Corentin Cariou | Escape game | 7 ans | 2 à 24 par salle | 36 ou 50 € / pers |
 | Virtual Room | 11e et 17e | Escape game en VR | 8 ans | Groupe d'enfants | 40 € / enfant |
-| PAN Bar | 10e, rue de Paradis | Bar à tir | Adultes | 2 à 10 par box, 66 en multi-box | Dès 16 € / pers (1h30) |
+| PAN Bar Paris | 10e, rue de Paradis | Bar à tir | Adultes | 2 à 10 par box, 66 en multi-box | Dès 16 € / pers (1h30) |
 | BAM Karaoké Box | 2e, 8e, 9e, 11e, 17e | Karaoké privatif | Tous âges | 1 à 30 | Dès 10 € / pers (2h) |
 | Les Grands Gamins | 2e, Cléry | Bar à jeux de société | Tous âges | Petits groupes | 5 € / pers + conso |
 
@@ -96,9 +96,9 @@ Détail qui compte pour les parents, la présence d'un adulte n'est pas obligato
 
 On a sélectionné ici trois adresses, et notre article [anniversaire adulte à Paris](/activites-insolites/anniversaire-adulte-paris/) en compare sept, des bars à activité aux formules clé en main.
 
-### PAN Bar, le bar à tir qui fait tenir toute la soirée au même endroit
+### PAN Bar Paris, le bar à tir qui fait tenir toute la soirée au même endroit
 
-PAN Bar, c'est un bar de loisir inspiré du ball-trap, au 6 rue de Paradis dans le 10e. Tu réserves un box avec deux fusils et une tablette pour lancer une dizaine de jeux maison et commander à boire et à manger, cuisine du chef et cocktails compris. Les box accueillent de 2 à 10 personnes, jusqu'à 66 en réservant plusieurs box, et la session démarre à 16 euros par personne pour 1h30.
+PAN Bar Paris, c'est un bar de loisir inspiré du ball-trap, au 6 rue de Paradis dans le 10e. Tu réserves un box avec deux fusils et une tablette pour lancer une dizaine de jeux maison et commander à boire et à manger, cuisine du chef et cocktails compris. Les box accueillent de 2 à 10 personnes, jusqu'à 66 en réservant plusieurs box, et la session démarre à 16 euros par personne pour 1h30.
 
 Pour un anniversaire, tu peux privatiser un ou plusieurs box et commander un gâteau avec bougies. Le lieu est ouvert du mardi au dimanche à partir de 14h ou 15h selon le jour, et fermé le lundi. C'est le bon plan pour un groupe qui veut jouer, dîner et trinquer sans changer d'adresse.
 
@@ -147,6 +147,6 @@ Tarifs, capacités et horaires relevés sur les sites officiels des établisseme
 - [Bomb Squad Paris](https://paris.bombsquad.games/)
 - [Batman Escape, anniversaire](https://batman-escape.com/evenement-anniversaire)
 - [Virtual Room Paris, anniversaire enfant](https://paris.virtual-room.com/anniversaire-enfant/)
-- [PAN Bar, événements](https://pan.bar/evenements/)
+- [PAN Bar Paris, événements](https://pan.bar/evenements/)
 - [BAM Karaoké Box Paris](https://fr.bam-karaokebox.com/paris/)
 - [Les Grands Gamins](https://lesgrandsgaminsparis.fr/)

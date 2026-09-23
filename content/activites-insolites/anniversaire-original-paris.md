@@ -23,7 +23,7 @@ faq:
   - question: "Combien coûte un anniversaire insolite à Paris ?"
     answer: "Compte entre 19 et 34 euros par personne pour une heure d'activité insolite. Le lancer de haches démarre à 19 euros par personne chez Les Cognées, le quiz sur plateau à 24 euros, le bar à tir à 16 euros pour 1h30, et les formules anniversaire tout compris, comme celle de Bomb Squad, démarrent à 30 euros par personne."
   - question: "Quelle activité originale pour un anniversaire d'enfant à Paris ?"
-    answer: "Pour les enfants, l'action game est accessible dès 7 ans avec un adulte, la réalité virtuelle dès 8 ans, et Quiz Room propose une version Kids dès 8 ans. Le bar à tir vise plutôt les adultes, et pour le lancer de haches, vérifie l'âge minimum directement auprès du lieu."
+    answer: "Pour les enfants, l'action game est accessible dès 7 ans avec un adulte, la réalité virtuelle dès 8 ans, et Quiz Room propose une version Kids dès 8 ans. Le jeu du bar à tir est accessible dès 16 ans, avec un adulte pour les mineurs, et pour le lancer de haches, vérifie l'âge minimum directement auprès du lieu."
   - question: "Quelle est l'activité la plus insolite à faire à Paris pour un anniversaire ?"
     answer: "Tout dépend du groupe, mais deux formats sont quasiment introuvables ailleurs. Le bar à tir de PAN Bar Paris, où l'on vise des cibles virtuelles au fusil depuis un box en commandant des cocktails, et l'action game de Bomb Squad, un parcours d'épreuves physiques qui se termine par le désamorçage d'une bombe. Le lancer de haches arrive juste derrière pour l'effet surprise."
 items:
@@ -66,7 +66,7 @@ Tu cherches plutôt un lieu selon l'âge de la personne fêtée ? Notre guide [o
 | Activité | Quartier | Format | Âge minimum | Groupe | Prix |
 |---|---|---|---|---|---|
 | Bomb Squad Paris | 3e, Sébastopol | Action game | 7 ans | 2 à 6 par équipe, jusqu'à 60 | Formule dès 30 € / pers |
-| PAN Bar Paris | 10e, rue de Paradis | Bar à tir | Adultes | 2 à 10 par box, 66 en multi-box | Dès 16 € / pers (1h30) |
+| PAN Bar Paris | 10e, rue de Paradis | Bar à tir | 16 ans (bar réservé aux majeurs) | 2 à 10 par box, 66 en multi-box | Dès 16 € / pers (1h30) |
 | Quiz Room | 6e, 9e, 10e, 19e | Quiz sur plateau TV | 14 ans (Kids dès 8) | 3 à 54 | 24 à 26 € / pers (1h) |
 | Wildness | 13e, rue de Patay | Lancer de haches | Voir le lieu | 2 à 3 par piste | 22 à 27 € / pers |
 | Les Cognées | 18e, rue Stephenson | Haches et tir à l'arc | Voir le lieu | Par cible | 19 à 27 € / pers |

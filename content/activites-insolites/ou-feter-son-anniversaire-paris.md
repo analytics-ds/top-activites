@@ -66,7 +66,7 @@ Pour les 12-17 ans, notre sélection [anniversaire ado à Paris](/activites-inso
 | Bomb Squad Paris | 3e, Sébastopol | Action game | 7 ans | 2 à 6 par équipe, jusqu'à 60 | Formule dès 30 € / pers |
 | Batman Escape | 19e, Corentin Cariou | Escape game | 7 ans | 2 à 24 par salle | 36 ou 50 € / pers |
 | Virtual Room | 11e et 17e | Escape game en VR | 8 ans | Groupe d'enfants | 40 € / enfant |
-| PAN Bar Paris | 10e, rue de Paradis | Bar à tir | Adultes | 2 à 10 par box, 66 en multi-box | Dès 16 € / pers (1h30) |
+| PAN Bar Paris | 10e, rue de Paradis | Bar à tir | 16 ans (bar réservé aux majeurs) | 2 à 10 par box, 66 en multi-box | Dès 16 € / pers (1h30) |
 | BAM Karaoké Box | 2e, 8e, 9e, 11e, 17e | Karaoké privatif | Tous âges | 1 à 30 | Dès 10 € / pers (2h) |
 | Les Grands Gamins | 2e, Cléry | Bar à jeux de société | Tous âges | Petits groupes | 5 € / pers + conso |
 

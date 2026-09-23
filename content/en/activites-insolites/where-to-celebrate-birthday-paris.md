@@ -66,7 +66,7 @@ For ages 12 to 17, our [teen birthday party in Paris](/en/activites-insolites/te
 | Bomb Squad Paris | 3rd, Sébastopol | Action game | 7 | 2 to 6 per team, up to 60 | Package from 30 € / pers |
 | Batman Escape | 19th, Corentin Cariou | Escape game | 7 | 2 to 24 per room | 36 or 50 € / pers |
 | Virtual Room | 11th and 17th | VR escape game | 8 | Group of kids | 40 € / child |
-| PAN Bar Paris | 10th, rue de Paradis | Shooting bar | Adults | 2 to 10 per booth, 66 across booths | From 16 € / pers (1h30) |
+| PAN Bar Paris | 10th, rue de Paradis | Shooting bar | 16 (bar for over 18s) | 2 to 10 per booth, 66 across booths | From 16 € / pers (1h30) |
 | BAM Karaoke Box | 2nd, 8th, 9th, 11th, 17th | Private karaoke | All ages | 1 to 30 | From 10 € / pers (2h) |
 | Les Grands Gamins | 2nd, Cléry | Board game bar | All ages | Small groups | 5 € / pers + drinks |
 

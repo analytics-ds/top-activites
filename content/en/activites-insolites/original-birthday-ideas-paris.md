@@ -23,7 +23,7 @@ faq:
   - question: "How much does an unusual birthday party cost in Paris?"
     answer: "Count between 19 and 34 euros per person for one hour of unusual activity. Axe throwing starts at 19 euros per person at Les Cognées, the TV quiz at 24 euros, the shooting bar at 16 euros for 1h30, and all-inclusive birthday packages, like Bomb Squad's, start at 30 euros per person."
   - question: "What original activity works for a kids birthday in Paris?"
-    answer: "For kids, the action game is open from age 7 with an adult, virtual reality from age 8, and Quiz Room has a Kids version from age 8. The shooting bar is aimed at adults, and for axe throwing, check the minimum age directly with the venue."
+    answer: "For kids, the action game is open from age 7 with an adult, virtual reality from age 8, and Quiz Room has a Kids version from age 8. The shooting bar game is open from age 16, with an adult for under 18s, and for axe throwing, check the minimum age directly with the venue."
   - question: "What is the most unusual birthday activity in Paris?"
     answer: "It depends on the group, but two formats are almost impossible to find elsewhere. The shooting bar at PAN Bar Paris, where you aim at virtual targets with a rifle from a private booth while ordering cocktails, and Bomb Squad's action game, a course of physical challenges that ends with defusing a bomb. Axe throwing comes just behind for the surprise effect."
 items:
@@ -66,7 +66,7 @@ Looking for a venue based on the birthday person's age instead? Our guide on [wh
 | Activity | Area | Format | Minimum age | Group | Price |
 |---|---|---|---|---|---|
 | Bomb Squad Paris | 3rd, Sébastopol | Action game | 7 | 2 to 6 per team, up to 60 | Package from 30 € / pers |
-| PAN Bar Paris | 10th, rue de Paradis | Shooting bar | Adults | 2 to 10 per booth, 66 across booths | From 16 € / pers (1h30) |
+| PAN Bar Paris | 10th, rue de Paradis | Shooting bar | 16 (bar for over 18s) | 2 to 10 per booth, 66 across booths | From 16 € / pers (1h30) |
 | Quiz Room | 6th, 9th, 10th, 19th | TV-style quiz | 14 (Kids from 8) | 3 to 54 | 24 to 26 € / pers (1h) |
 | Wildness | 13th, rue de Patay | Axe throwing | Check with venue | 2 to 3 per lane | 22 to 27 € / pers |
 | Les Cognées | 18th, rue Stephenson | Axes and archery | Check with venue | Per target | 19 to 27 € / pers |

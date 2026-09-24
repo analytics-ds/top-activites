@@ -256,10 +256,10 @@ articles:
     volume: 1455
     kd: null
     scheduled_date: 2026-09-24
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-24
+    published_url_fr: "https://top-activites.fr/activites-insolites/soiree-nouvel-an-paris/"
+    published_url_en: "https://top-activites.fr/en/activites-insolites/new-years-eve-party-paris/"
     error: null
 
   - kw: "lancer de hache paris"

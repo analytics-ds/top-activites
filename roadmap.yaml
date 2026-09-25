@@ -267,10 +267,10 @@ articles:
     volume: 3385
     kd: null
     scheduled_date: 2026-09-25
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-25
+    published_url_fr: "https://top-activites.fr/activites-insolites/lancer-de-hache-paris/"
+    published_url_en: "https://top-activites.fr/en/activites-insolites/axe-throwing-paris/"
     error: null
 
   - kw: "activites evg paris"

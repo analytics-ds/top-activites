@@ -278,10 +278,10 @@ articles:
     volume: 127
     kd: null
     scheduled_date: 2026-09-26
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-26
+    published_url_fr: "https://top-activites.fr/evg/activites-evg-paris/"
+    published_url_en: "https://top-activites.fr/en/evg/bachelor-party-paris/"
     error: null
 
   - kw: "privatiser un bar paris"

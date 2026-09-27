@@ -289,10 +289,10 @@ articles:
     volume: 100
     kd: null
     scheduled_date: 2026-09-27
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-27
+    published_url_fr: "https://top-activites.fr/bars-lieux-ludiques/privatiser-un-bar-paris/"
+    published_url_en: "https://top-activites.fr/en/bars-lieux-ludiques/privatize-a-bar-in-paris/"
     error: null
 
   - kw: "date original paris"

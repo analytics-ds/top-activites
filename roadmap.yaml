@@ -300,10 +300,10 @@ articles:
     volume: 170
     kd: null
     scheduled_date: 2026-09-28
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-28
+    published_url_fr: "https://top-activites.fr/activites-insolites/date-original-paris/"
+    published_url_en: "https://top-activites.fr/en/activites-insolites/original-date-ideas-paris/"
     error: null
 
   - kw: "escape game sportif paris"

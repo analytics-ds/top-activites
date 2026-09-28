@@ -3,7 +3,7 @@ title: "Privatiser un bar à Paris : le guide complet en {annee}"
 seoTitle: "Privatiser un bar à Paris : le guide complet"
 description: "Le guide pour privatiser un bar à Paris, prix par personne, capacités selon les jours et alternatives selon le nombre d'invités."
 date: 2026-09-27
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
 categories: ["Bars et lieux ludiques"]
@@ -67,7 +67,7 @@ Le choix entre réservation, privatisation partielle et privatisation totale dé
 | Pot de départ d'entreprise | 15 à 40 personnes | Privatisation partielle | 25 à 40 euros par personne |
 | Soirée d'équipe ou team building | 20 à 50 personnes | Privatisation totale | Forfait sur devis |
 
-Ce tableau reste indicatif, chaque établissement fixe ses propres seuils. Pour une soirée d'entreprise plus large, notre guide sur la [soirée de fin d'année entreprise à Paris](/team-building-seminaires/soiree-fin-annee-entreprise-paris/) détaille les budgets et le rétroplanning à prévoir pour un groupe de plusieurs dizaines de personnes.
+Ce tableau reste indicatif, chaque établissement fixe ses propres seuils. Pour une soirée d'entreprise plus large, notre guide sur la [soirée de fin d'année entreprise à Paris](/team-building-seminaires/soiree-fin-annee-entreprise-paris/) détaille les budgets et le rétroplanning à prévoir pour un groupe de plusieurs dizaines de personnes. Et pour choisir l'adresse, notre sélection pour [privatiser un bar pour un événement d'entreprise à Paris](/team-building-seminaires/privatiser-bar-evenement-entreprise-paris/) compare 8 lieux, capacités et prix à l'appui.
 
 ## Comment réserver sans mauvaise surprise
 

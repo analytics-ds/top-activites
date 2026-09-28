@@ -3,7 +3,7 @@ title: "How to privatize a bar in Paris: the complete guide for {annee}"
 seoTitle: "Privatize a bar in Paris: the complete guide"
 description: "The guide to privatizing a bar in Paris, price per person, capacity by day of the week and alternatives based on guest count."
 date: 2026-09-27
-lastmod: 2026-09-27
+lastmod: 2026-09-28
 author: "Thomas Bérard"
 authors: ["Thomas Bérard"]
 categories: ["Fun bars and venues"]
@@ -67,7 +67,7 @@ The choice between booking, partial privatization and full privatization mainly 
 | Company farewell drinks | 15 to 40 people | Partial privatization | 25 to 40 euros per person |
 | Team night out or team building | 20 to 50 people | Full privatization | Package on quote |
 
-This table stays indicative, each venue sets its own thresholds. For a larger company event, our guide to the [company end of year party in Paris](/en/team-building-seminaires/company-end-of-year-party-paris/) details the budgets and timeline to plan for a group of several dozen people.
+This table stays indicative, each venue sets its own thresholds. For a larger company event, our guide to the [company end of year party in Paris](/en/team-building-seminaires/company-end-of-year-party-paris/) details the budgets and timeline to plan for a group of several dozen people. And to pick the venue, our selection to [privatize a bar for a corporate event in Paris](/en/team-building-seminaires/privatize-bar-corporate-event-paris/) compares 8 places, with capacities and prices.
 
 ## How to book without a bad surprise
 

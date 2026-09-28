@@ -1097,10 +1097,21 @@ articles:
     volume: null
     kd: null
     scheduled_date: 2026-12-11
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-28
+    published_url_fr: "https://top-activites.fr/team-building-seminaires/privatiser-bar-evenement-entreprise-paris/"
+    published_url_en: "https://top-activites.fr/en/team-building-seminaires/privatize-bar-corporate-event-paris/"
+    error: null
+
+  - kw: "privatiser un bar pour evenement d'entreprise paris"
+    category: "Team building et séminaires"
+    volume: null
+    kd: null
+    scheduled_date: 2026-09-28
+    status: done
+    published_date: 2026-09-28
+    published_url_fr: "https://top-activites.fr/team-building-seminaires/privatiser-bar-evenement-entreprise-paris/"
+    published_url_en: "https://top-activites.fr/en/team-building-seminaires/privatize-bar-corporate-event-paris/"
     error: null
 
   - kw: "activite comme prison island paris"

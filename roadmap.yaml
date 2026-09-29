@@ -311,10 +311,10 @@ articles:
     volume: 70
     kd: null
     scheduled_date: 2026-09-29
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-29
+    published_url_fr: "https://top-activites.fr/activites-insolites/escape-game-sportif-paris/"
+    published_url_en: "https://top-activites.fr/en/activites-insolites/sporty-escape-room-paris/"
     error: null
 
   - kw: "game room paris"

@@ -322,10 +322,10 @@ articles:
     volume: 170
     kd: null
     scheduled_date: 2026-09-30
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-09-30
+    published_url_fr: "https://top-activites.fr/bars-lieux-ludiques/game-room-paris/"
+    published_url_en: "https://top-activites.fr/en/bars-lieux-ludiques/game-rooms-paris/"
     error: null
 
   - kw: "ou feter son anniversaire a paris"

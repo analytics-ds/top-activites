@@ -1384,3 +1384,14 @@ articles_manuels_open_data:
     published_url_fr: "https://top-activites.fr/anniversaires/idee-anniversaire-paris/"
     published_url_en: "https://top-activites.fr/en/anniversaires/birthday-ideas-paris/"
     error: null
+
+  - kw: "winter party paris"
+    category: "Team building et séminaires"
+    volume: 320
+    kd: null
+    scheduled_date: 2026-10-02
+    status: done
+    published_date: 2026-10-02
+    published_url_fr: "https://top-activites.fr/team-building-seminaires/winter-party-paris/"
+    published_url_en: "https://top-activites.fr/en/team-building-seminaires/winter-party-venues-paris/"
+    error: null

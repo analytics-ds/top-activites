@@ -344,10 +344,10 @@ articles:
     volume: 800
     kd: null
     scheduled_date: 2026-10-02
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-10-02
+    published_url_fr: "https://top-activites.fr/afterwork/afterwork-paris/"
+    published_url_en: "https://top-activites.fr/en/afterwork/after-work-drinks-paris/"
     error: null
 
   - kw: "anniversaire ado paris"

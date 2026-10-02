@@ -104,6 +104,8 @@ Charte de style du média, détaillée dans `LIGNE-EDITORIALE.md`, résumé opé
 
 Tout article sur un anniversaire va dans le hub Anniversaires (`anniversaires/`) et renvoie vers le pilier `/anniversaires/ou-feter-son-anniversaire-paris/` (EN `/en/anniversaires/where-to-celebrate-birthday-paris/`).
 
+Tout article sur la fin d'année en entreprise (soirée de fin d'année, séminaire de fin d'année, Secret Santa, cadeaux salariés, soirée de Noël, soirée de gala, soirée des vœux, winter party) renvoie vers le pilier `/team-building-seminaires/fin-annee-entreprise-paris/` (EN `/en/team-building-seminaires/end-of-year-company-events-paris/`), et le pilier doit recevoir en retour un lien vers le nouvel article dans la section du format concerné.
+
 Deux fiches sont figées et vérifiées sur les sites officiels, réutilisables telles quelles quand le sujet s'y prête, sans jamais les forcer :
 
 - **Bomb Squad Paris**, action game, boulevard de Sébastopol dans le 3e. Une heure de jeu, équipes de 2 à 6 joueurs, départs échelonnés permettant jusqu'à 60 participants sur deux heures, tarif dégressif de 45 euros par joueur à deux jusqu'à 28 euros à six, accessible dès 7 ans avec un adulte jusqu'à 15 ans.

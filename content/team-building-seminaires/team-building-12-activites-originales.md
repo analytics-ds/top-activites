@@ -3,7 +3,7 @@ title: "Les meilleures activités de team building à Paris en {annee}"
 seoTitle: "Meilleures activités de team building à Paris en {annee}"
 description: "Notre sélection d'activités de team building à Paris, avec les tarifs réels, les effectifs acceptés et les repères pour choisir selon l'équipe, le budget et l'ambiance recherchée."
 date: 2026-07-20
-lastmod: 2026-08-28
+lastmod: 2026-10-02
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building et séminaires"]
@@ -137,4 +137,4 @@ Deux réserves pratiques méritent d'être connues avant de réserver. Les forma
 - Les créneaux du soir en semaine, très demandés, se réservent tôt, surtout de novembre à décembre.
 - Demander systématiquement si la formule inclut une consommation ou un repas, l'écart de budget se joue souvent là.
 
-Pour aller plus loin, nos sélections par occasion précisent les formats les mieux adaptés à chaque contexte, du [séminaire d'entreprise](/team-building-seminaires/) à la soirée d'équipe.
+Pour aller plus loin, nos sélections par occasion précisent les formats les mieux adaptés à chaque contexte, du [séminaire d'entreprise](/team-building-seminaires/) à la soirée d'équipe. En novembre et décembre, notre guide de la [fin d'année en entreprise à Paris](/team-building-seminaires/fin-annee-entreprise-paris/) montre comment combiner une activité avec la soirée de fin d'année.

@@ -3,7 +3,7 @@ title: "Company end of year party in Paris: the guide to getting it all booked i
 seoTitle: "Company end of year party in Paris: the guide"
 description: "Company end of year party in Paris, everything to settle before booking: budget per person, formats, entertainment, timeline and the legal basics."
 date: 2026-09-15
-lastmod: 2026-09-15
+lastmod: 2026-10-02
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building and seminars"]
@@ -129,7 +129,7 @@ One last point, the one always forgotten. The employer's duty of care does not s
 
 ## For the rest of the year
 
-The end of year gets all the attention, but the same venues and the same formats work all year round, without the pressure on availability or the December premium. Our [team building and seminars](/en/team-building-seminaires/) hub gathers the organisation guides and the formats by headcount, and our overview of [fun bars and venues](/en/bars-lieux-ludiques/) covers the places where you can have a drink while doing something other than standing around a high table.
+The end of year gets all the attention, but the same venues and the same formats work all year round, without the pressure on availability or the December premium. Our [team building and seminars](/en/team-building-seminaires/) hub gathers the organisation guides and the formats by headcount, and our overview of [fun bars and venues](/en/bars-lieux-ludiques/) covers the places where you can have a drink while doing something other than standing around a high table. If you are still weighing the format, our guide to the [end of year at work in Paris](/en/team-building-seminaires/end-of-year-company-events-paris/) compares the six options of the period, and if December is already full, our selection of [winter party venues in Paris](/en/team-building-seminaires/winter-party-venues-paris/) moves the party to January.
 
 ## Sources and useful links
 

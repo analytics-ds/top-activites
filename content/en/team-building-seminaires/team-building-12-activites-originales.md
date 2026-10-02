@@ -3,7 +3,7 @@ title: "The best team building activities in Paris in {annee}"
 seoTitle: "Best team building activities in Paris in {annee}"
 description: "Our selection of team building activities in Paris, with real prices, group sizes and the cues to choose based on your team, your budget and the mood you are after."
 date: 2026-07-20
-lastmod: 2026-08-28
+lastmod: 2026-10-02
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building and seminars"]
@@ -137,4 +137,4 @@ Two practical caveats are worth knowing before booking. Sporty formats call for 
 - Weekday evening slots are in high demand and book early, especially from November to December.
 - Always ask whether the package includes a drink or a meal, that is often where the budget gap sits.
 
-To go further, our selections by occasion set out the formats best suited to each context, from the [corporate seminar](/en/team-building-seminaires/) to the team evening.
+To go further, our selections by occasion set out the formats best suited to each context, from the [corporate seminar](/en/team-building-seminaires/) to the team evening. In November and December, our guide to the [end of year at work in Paris](/en/team-building-seminaires/end-of-year-company-events-paris/) shows how to combine an activity with the end-of-year party.

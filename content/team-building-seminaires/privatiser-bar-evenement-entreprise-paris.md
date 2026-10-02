@@ -3,7 +3,7 @@ title: "Privatiser un bar pour un événement d'entreprise à Paris : 8 adresses
 seoTitle: "Privatiser un bar pour un événement d'entreprise à Paris"
 description: "Privatiser un bar pour un événement d'entreprise à Paris, 8 adresses comparées avec capacités, formules et prix réels, du bar à tir au bar dansant."
 date: 2026-09-28
-lastmod: 2026-09-28
+lastmod: 2026-10-02
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building et séminaires"]
@@ -151,7 +151,7 @@ Quatre points à vérifier avant de verser un acompte.
 3. **Le minimum de consommation.** S'il n'est pas atteint, la différence est facturée. Fais-le écrire noir sur blanc.
 4. **L'horaire de fin et le jour.** Un mardi ou un mercredi se négocie mieux qu'un jeudi de décembre, et l'heure de fermeture change tout pour une soirée qui danse.
 
-Pour une équipe qui préfère une activité à un bar, notre sélection des [activités de team building à Paris](/team-building-seminaires/team-building-12-activites-originales/) compare 12 idées. Et si tu cherches un lieu qui sort de l'apéro classique, jette un œil à nos [alternatives au bar classique à Paris](/bars-lieux-ludiques/alternative-bar-classique-paris/) ou à notre sélection des [bars à jeux à Paris](/bars-lieux-ludiques/bars-a-jeux-paris/).
+Pour une équipe qui préfère une activité à un bar, notre sélection des [activités de team building à Paris](/team-building-seminaires/team-building-12-activites-originales/) compare 12 idées. Et si tu cherches un lieu qui sort de l'apéro classique, jette un œil à nos [alternatives au bar classique à Paris](/bars-lieux-ludiques/alternative-bar-classique-paris/) ou à notre sélection des [bars à jeux à Paris](/bars-lieux-ludiques/bars-a-jeux-paris/). Si ta soirée s'inscrit dans la fin d'année, notre guide de la [fin d'année en entreprise à Paris](/team-building-seminaires/fin-annee-entreprise-paris/) t'aide à choisir entre soirée, team building, séminaire et winter party.
 
 ## Sources et liens utiles
 

@@ -82,7 +82,7 @@ For this second category, it pays to plan it like a real company event. Our guid
 
 ## In short
 
-A successful after-work comes down to three simple habits, pick a venue close by and easy to reach, give the group a few days' notice, and vary the format now and then so it stays a pleasure rather than a routine. The rest is a question of budget and day of the week, with Thursday remaining the safe bet for most Parisian teams.
+A successful after-work comes down to three simple habits, pick a venue close by and easy to reach, give the group a few days' notice, and vary the format now and then so it stays a pleasure rather than a routine. The rest is a question of budget and day of the week, with Thursday remaining the safe bet for most Parisian teams. In December, after-work drinks are also one of the six formats in our guide to the [end of year at work in Paris](/en/team-building-seminaires/end-of-year-company-events-paris/).
 
 ## Sources and useful links
 

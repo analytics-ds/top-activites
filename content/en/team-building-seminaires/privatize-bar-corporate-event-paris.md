@@ -3,7 +3,7 @@ title: "Privatize a bar for a corporate event in Paris: 8 venues for {annee}"
 seoTitle: "Privatize a bar for a corporate event in Paris"
 description: "Privatize a bar for a corporate event in Paris, 8 venues compared with real capacities, packages and prices, from a shooting bar to a dance bar."
 date: 2026-09-28
-lastmod: 2026-09-28
+lastmod: 2026-10-02
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building and seminars"]
@@ -151,7 +151,7 @@ Four points to check before paying a deposit.
 3. **The minimum spend.** If it is not reached, the difference is billed. Get it in writing.
 4. **The closing time and the day.** A Tuesday or Wednesday is easier to negotiate than a Thursday in December, and the closing time changes everything for an evening that dances.
 
-For a team that prefers an activity to a bar, our selection of [team building activities in Paris](/en/team-building-seminaires/team-building-12-activites-originales/) compares 12 ideas. And if you want a venue that breaks away from the usual drinks, take a look at our [alternatives to a classic bar in Paris](/en/bars-lieux-ludiques/alternative-to-a-classic-bar-paris/) or our selection of [board game bars in Paris](/en/bars-lieux-ludiques/board-game-bars-paris/).
+For a team that prefers an activity to a bar, our selection of [team building activities in Paris](/en/team-building-seminaires/team-building-12-activites-originales/) compares 12 ideas. And if you want a venue that breaks away from the usual drinks, take a look at our [alternatives to a classic bar in Paris](/en/bars-lieux-ludiques/alternative-to-a-classic-bar-paris/) or our selection of [board game bars in Paris](/en/bars-lieux-ludiques/board-game-bars-paris/). If your evening is part of the end of year, our guide to the [end of year at work in Paris](/en/team-building-seminaires/end-of-year-company-events-paris/) helps you choose between party, team building, seminar and winter party.
 
 ## Sources and useful links
 

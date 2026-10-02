@@ -82,7 +82,7 @@ Pour cette seconde catégorie, mieux vaut anticiper comme pour un vrai événeme
 
 ## En résumé
 
-L'afterwork réussi tient en trois réflexes simples, choisir un lieu proche et accessible, prévenir le groupe quelques jours à l'avance, et varier les formats de temps en temps pour que ça reste un plaisir plutôt qu'une habitude. Le reste n'est qu'une question de budget et de jour de la semaine, le jeudi restant la valeur sûre pour la majorité des équipes parisiennes.
+L'afterwork réussi tient en trois réflexes simples, choisir un lieu proche et accessible, prévenir le groupe quelques jours à l'avance, et varier les formats de temps en temps pour que ça reste un plaisir plutôt qu'une habitude. Le reste n'est qu'une question de budget et de jour de la semaine, le jeudi restant la valeur sûre pour la majorité des équipes parisiennes. En décembre, l'afterwork est aussi l'un des six formats de notre guide de la [fin d'année en entreprise à Paris](/team-building-seminaires/fin-annee-entreprise-paris/).
 
 ## Sources et liens utiles
 

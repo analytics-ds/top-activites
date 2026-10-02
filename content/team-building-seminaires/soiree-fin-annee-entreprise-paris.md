@@ -3,7 +3,7 @@ title: "Soirée de fin d'année entreprise à Paris : le guide pour tout caler e
 seoTitle: "Soirée de fin d'année entreprise Paris : le guide"
 description: "Soirée de fin d'année entreprise à Paris, tout ce qu'il faut caler avant de réserver : budget par personne, formats, animation, rétroplanning et cadre légal."
 date: 2026-09-15
-lastmod: 2026-09-15
+lastmod: 2026-10-02
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building et séminaires"]
@@ -129,7 +129,7 @@ Dernier point, celui qu'on oublie toujours. La responsabilité de l'employeur ne
 
 ## Pour le reste de l'année
 
-La fin d'année concentre l'attention, mais les mêmes lieux et les mêmes formats fonctionnent toute l'année, sans la tension sur les disponibilités ni la surcote de décembre. Notre hub [team building et séminaires](/team-building-seminaires/) rassemble les guides d'organisation et les formats par effectif, et notre panorama des [bars et lieux ludiques](/bars-lieux-ludiques/) couvre les adresses où boire un verre en faisant autre chose que se tenir debout autour d'une table haute.
+La fin d'année concentre l'attention, mais les mêmes lieux et les mêmes formats fonctionnent toute l'année, sans la tension sur les disponibilités ni la surcote de décembre. Notre hub [team building et séminaires](/team-building-seminaires/) rassemble les guides d'organisation et les formats par effectif, et notre panorama des [bars et lieux ludiques](/bars-lieux-ludiques/) couvre les adresses où boire un verre en faisant autre chose que se tenir debout autour d'une table haute. Si tu hésites encore sur le format, notre guide de la [fin d'année en entreprise à Paris](/team-building-seminaires/fin-annee-entreprise-paris/) compare les six options de la période, et si décembre est déjà complet, notre sélection des [lieux pour une winter party à Paris](/team-building-seminaires/winter-party-paris/) décale la fête en janvier.
 
 ## Sources et liens utiles
 

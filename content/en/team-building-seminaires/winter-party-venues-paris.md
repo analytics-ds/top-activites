@@ -133,7 +133,7 @@ Event agencies and venue booking platforms save time when you compare several pl
 4. **Easy public transport access.** The cold and nightfall at 5 pm discourage complicated journeys.
 5. **The right day.** A Tuesday or Wednesday in January is far easier to negotiate than a Thursday.
 
-For the full planning, read our guide to the [company end-of-year party in Paris](/en/team-building-seminaires/company-end-of-year-party-paris/), which also works for a January party. If you mainly want a bar, our selection to [privatize a bar for a corporate event in Paris](/en/team-building-seminaires/privatize-bar-corporate-event-paris/) compares 8 venues. And for a group activity before the party, have a look at our [team building activities in Paris](/en/team-building-seminaires/team-building-12-activites-originales/).
+For the full planning, read our guide to the [company end-of-year party in Paris](/en/team-building-seminaires/company-end-of-year-party-paris/), which also works for a January party. If you mainly want a bar, our selection to [privatize a bar for a corporate event in Paris](/en/team-building-seminaires/privatize-bar-corporate-event-paris/) compares 8 venues. And for a group activity before the party, have a look at our [team building activities in Paris](/en/team-building-seminaires/team-building-12-activites-originales/). And to see the winter party among all the options of the period, our guide to the [end of year at work in Paris](/en/team-building-seminaires/end-of-year-company-events-paris/) compares the six formats.
 
 ## Sources and useful links
 

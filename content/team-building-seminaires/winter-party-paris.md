@@ -133,7 +133,7 @@ Les agences événementielles et les plateformes de location de salles font gagn
 4. **Un accès simple en transports.** Le froid et la nuit tombée à 17h découragent les trajets compliqués.
 5. **Le bon jour.** Un mardi ou un mercredi de janvier se négocie bien mieux qu'un jeudi.
 
-Pour le rétroplanning complet, lis notre guide de la [soirée de fin d'année entreprise à Paris](/team-building-seminaires/soiree-fin-annee-entreprise-paris/), qui vaut aussi pour une soirée de janvier. Si tu cherches surtout un bar, notre sélection pour [privatiser un bar pour un événement d'entreprise à Paris](/team-building-seminaires/privatiser-bar-evenement-entreprise-paris/) compare 8 adresses. Et pour une activité de groupe avant la fête, jette un œil à nos [activités de team building à Paris](/team-building-seminaires/team-building-12-activites-originales/).
+Pour le rétroplanning complet, lis notre guide de la [soirée de fin d'année entreprise à Paris](/team-building-seminaires/soiree-fin-annee-entreprise-paris/), qui vaut aussi pour une soirée de janvier. Si tu cherches surtout un bar, notre sélection pour [privatiser un bar pour un événement d'entreprise à Paris](/team-building-seminaires/privatiser-bar-evenement-entreprise-paris/) compare 8 adresses. Et pour une activité de groupe avant la fête, jette un œil à nos [activités de team building à Paris](/team-building-seminaires/team-building-12-activites-originales/). Et pour voir la winter party parmi toutes les options de la période, notre guide de la [fin d'année en entreprise à Paris](/team-building-seminaires/fin-annee-entreprise-paris/) compare les six formats.
 
 ## Sources et liens utiles
 

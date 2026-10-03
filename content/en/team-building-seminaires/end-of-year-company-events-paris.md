@@ -50,7 +50,7 @@ Budget ranges reflect the price tiers seen on the Paris market and the prices pu
 
 It is the format everyone has in mind, and the one most often spoiled by lack of planning. In Paris, about ten December evenings concentrate most of the demand, and the most popular venues go by autumn. The real issue is not the venue but the date, then the entertainment in the first hour, the one that breaks up department tables.
 
-For the full planning, the budget tiers and the legal framework, read our guide to the [company end-of-year party in Paris](/en/team-building-seminaires/company-end-of-year-party-paris/). And if the party should happen in a bar rather than a venue, our selection to [privatize a bar for a corporate event in Paris](/en/team-building-seminaires/privatize-bar-corporate-event-paris/) compares 8 venues with their capacities and packages.
+For the full planning, the budget tiers and the legal framework, read our guide to the [company end-of-year party in Paris](/en/team-building-seminaires/company-end-of-year-party-paris/). And if the party should happen in a bar rather than a venue, our selection to [privatize a bar for a corporate event in Paris](/en/team-building-seminaires/privatize-bar-corporate-event-paris/) compares 8 venues with their capacities and packages. And to do it all in one place, our selection of [venues for a corporate party with activity, dinner and open bar in Paris](/en/team-building-seminaires/corporate-party-activity-dinner-open-bar-paris/) compares 7.
 
 ## End-of-year team building, to rebuild ties
 

@@ -50,7 +50,7 @@ Les fourchettes de budget reprennent les paliers observés sur le marché parisi
 
 C'est le format que tout le monde a en tête, et celui qui se rate le plus souvent par manque d'anticipation. À Paris, une dizaine de soirs de décembre concentrent l'essentiel de la demande, et les lieux les plus courus partent dès l'automne. Le vrai sujet n'est pas le lieu mais la date, puis l'animation de la première heure, celle qui casse les tables par service.
 
-Pour le rétroplanning complet, le budget par palier et le cadre légal, lis notre guide de la [soirée de fin d'année entreprise à Paris](/team-building-seminaires/soiree-fin-annee-entreprise-paris/). Et si la soirée doit se tenir dans un bar plutôt que dans une salle, notre sélection pour [privatiser un bar pour un événement d'entreprise à Paris](/team-building-seminaires/privatiser-bar-evenement-entreprise-paris/) compare 8 adresses avec leurs capacités et leurs formules.
+Pour le rétroplanning complet, le budget par palier et le cadre légal, lis notre guide de la [soirée de fin d'année entreprise à Paris](/team-building-seminaires/soiree-fin-annee-entreprise-paris/). Et si la soirée doit se tenir dans un bar plutôt que dans une salle, notre sélection pour [privatiser un bar pour un événement d'entreprise à Paris](/team-building-seminaires/privatiser-bar-evenement-entreprise-paris/) compare 8 adresses avec leurs capacités et leurs formules. Et pour tout faire au même endroit, notre sélection des [lieux de soirée d'entreprise avec activité, dîner et open bar à Paris](/team-building-seminaires/soiree-entreprise-activite-diner-open-bar-paris/) en compare 7.
 
 ## Le team building de fin d'année, pour recréer du lien
 

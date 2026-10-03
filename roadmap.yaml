@@ -1064,10 +1064,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: 2026-12-08
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: 2026-10-03
+    published_url_fr: "https://top-activites.fr/team-building-seminaires/soiree-entreprise-activite-diner-open-bar-paris/"
+    published_url_en: "https://top-activites.fr/en/team-building-seminaires/corporate-party-activity-dinner-open-bar-paris/"
     error: null
 
   - kw: "escape game peinture paris"

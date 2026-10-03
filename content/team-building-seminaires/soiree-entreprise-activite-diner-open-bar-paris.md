@@ -78,13 +78,13 @@ Avant de comparer, mets-toi d'accord avec le lieu sur le sens des mots. Trois fo
 
 ### PAN Bar Paris, l'activité au cœur de la soirée
 
-PAN Bar Paris, au 6 rue de Paradis dans le 10e, est un bar à tir unique à Paris. Chaque box a ses fusils et une tablette qui lance une dizaine de jeux maison et sert à commander cocktails et plats à partager, cuisinés sur place par un chef. Trois formules sont publiées, des box de 2 à 66 personnes à partir de 16 euros par personne, une formule team building à partir de 36 euros par personne avec une boisson, un plat pour quatre et une photo de groupe, et la privatisation du lieu entier à partir de 30 personnes, jusqu'à 150, avec un animateur dédié et la possibilité de projeter une présentation. Côté boissons, pas de formule open bar affichée, la carte ou un traiteur se calent sur devis. Fermé le lundi, jeu dès 16 ans, bar réservé aux majeurs.
+PAN Bar Paris, au 6 rue de Paradis dans le 10e, est un bar à tir unique à Paris. Chaque box a ses fusils et une tablette qui lance une dizaine de jeux maison et sert à commander cocktails et plats à partager, cuisinés sur place par un chef. Trois formules sont publiées, des box de 2 à 66 personnes à partir de 16 euros par personne, une formule team building à partir de 36 euros par personne avec une boisson, un plat pour quatre et une photo de groupe, et la privatisation du lieu entier à partir de 30 personnes, jusqu'à 150, avec un animateur dédié et la possibilité de projeter une présentation. Côté boissons, pas de formule open bar affichée, la carte ou un traiteur se calent sur devis. Fermé le lundi, jeu dès 16 ans, bar réservé aux majeurs. Le lieu figure aussi dans notre sélection des [bars à jeux à Paris](/bars-lieux-ludiques/bars-a-jeux-paris/).
 
 **Pour qui**, les équipes de 30 à 150 personnes pour qui l'activité est le cœur de la soirée, avec des services qui se mélangent dans les box. Si l'open bar illimité est un impératif, demande-le noir sur blanc dans le devis.
 
 ### Bomb Squad Paris, l'action game avant le cocktail
 
-Bomb Squad Paris, boulevard de Sébastopol dans le 3e, est un action game. Les équipes de 2 à 6 ont une heure pour enchaîner des défis physiques et de réflexion et désamorcer une bombe de peinture. Les départs toutes les 10 minutes font passer jusqu'à 60 participants sur deux heures pendant que les autres profitent de l'espace de réception et de son bar à thème, privatisable avec cocktail dînatoire ou buffet sur mesure. Le tarif va de 45 euros par joueur à deux jusqu'à 28 euros à six.
+Bomb Squad Paris, boulevard de Sébastopol dans le 3e, est un [action game](/activites-insolites/action-game-paris/), un format plus physique qu'un escape game. Les équipes de 2 à 6 ont une heure pour enchaîner des défis physiques et de réflexion et désamorcer une bombe de peinture. Les départs toutes les 10 minutes font passer jusqu'à 60 participants sur deux heures pendant que les autres profitent de l'espace de réception et de son bar à thème, privatisable avec cocktail dînatoire ou buffet sur mesure. Le tarif va de 45 euros par joueur à deux jusqu'à 28 euros à six.
 
 **Pour qui**, les équipes jusqu'à 60 personnes qui veulent bouger avant de passer à table. Le repas reste un cocktail dînatoire ou un buffet, pas un dîner servi à l'assiette.
 
@@ -127,7 +127,7 @@ Soyons honnêtes sur les limites. Seul un lieu de la liste, La Fabrique Généra
 1. **L'open bar, c'est quoi exactement ?** Durée du créneau, boissons incluses, alcools forts ou non.
 2. **Le repas est-il servi ou à partager ?** Dîner assis, cocktail dînatoire ou planches, la jauge change avec le format.
 3. **Combien de personnes jouent en même temps ?** Et que font les autres pendant ce temps.
-4. **L'heure de fin et le jour.** Un mardi ou un mercredi se négocie mieux qu'un jeudi de décembre.
+4. **L'heure de fin et le jour.** Un mardi ou un mercredi se négocie mieux qu'un jeudi de décembre. Et si décembre est complet, une [winter party à Paris](/team-building-seminaires/winter-party-paris/) en janvier rouvre le choix.
 
 Si ta soirée s'inscrit dans la fin d'année, notre guide de la [fin d'année en entreprise à Paris](/team-building-seminaires/fin-annee-entreprise-paris/) aide à choisir le bon format. Pour une soirée centrée sur un bar, notre sélection pour [privatiser un bar pour un événement d'entreprise à Paris](/team-building-seminaires/privatiser-bar-evenement-entreprise-paris/) compare 8 adresses, et nos [activités de team building à Paris](/team-building-seminaires/team-building-12-activites-originales/) élargissent le choix côté activité.
 

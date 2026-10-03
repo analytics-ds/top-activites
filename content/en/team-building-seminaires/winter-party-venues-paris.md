@@ -3,7 +3,7 @@ title: "Winter party in Paris: 7 original venues for your winter company party i
 seoTitle: "Winter party in Paris: 7 original venues to book"
 description: "Where to throw a winter party in Paris, from a shooting bar to a heated barge and a winter chalet, with capacities and prices checked on official sites."
 date: 2026-10-02
-lastmod: 2026-10-02
+lastmod: 2026-10-03
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building and seminars"]
@@ -133,7 +133,7 @@ Event agencies and venue booking platforms save time when you compare several pl
 4. **Easy public transport access.** The cold and nightfall at 5 pm discourage complicated journeys.
 5. **The right day.** A Tuesday or Wednesday in January is far easier to negotiate than a Thursday.
 
-For the full planning, read our guide to the [company end-of-year party in Paris](/en/team-building-seminaires/company-end-of-year-party-paris/), which also works for a January party. If you mainly want a bar, our selection to [privatize a bar for a corporate event in Paris](/en/team-building-seminaires/privatize-bar-corporate-event-paris/) compares 8 venues. And for a group activity before the party, have a look at our [team building activities in Paris](/en/team-building-seminaires/team-building-12-activites-originales/). And to see the winter party among all the options of the period, our guide to the [end of year at work in Paris](/en/team-building-seminaires/end-of-year-company-events-paris/) compares the six formats.
+For the full planning, read our guide to the [company end-of-year party in Paris](/en/team-building-seminaires/company-end-of-year-party-paris/), which also works for a January party. If you mainly want a bar, our selection to [privatize a bar for a corporate event in Paris](/en/team-building-seminaires/privatize-bar-corporate-event-paris/) compares 8 venues. And for a group activity before the party, have a look at our [team building activities in Paris](/en/team-building-seminaires/team-building-12-activites-originales/). And to see the winter party among all the options of the period, our guide to the [end of year at work in Paris](/en/team-building-seminaires/end-of-year-company-events-paris/) compares the six formats. For an evening where the team plays, eats and drinks in one place, see also our [venues for a corporate party with activity, dinner and open bar](/en/team-building-seminaires/corporate-party-activity-dinner-open-bar-paris/).
 
 ## Sources and useful links
 

@@ -78,13 +78,13 @@ Before comparing, agree with the venue on what the words mean. Three formulas hi
 
 ### PAN Bar Paris, the activity at the heart of the evening
 
-PAN Bar Paris, at 6 rue de Paradis in the 10th, is a one-of-a-kind shooting bar in Paris. Each booth has its guns and a tablet that launches a dozen in-house games and is used to order cocktails and sharing plates cooked on site by a chef. Three packages are published, booths for 2 to 66 people from 16 euros per person, a team building package from 36 euros per person with a drink, one dish for four and a group photo, and full private hire from 30 people, up to 150, with a dedicated host and the option of projecting a presentation. For drinks, no open bar package is listed, the menu or a caterer are set on quote. Closed on Mondays, games from age 16, bar for adults only.
+PAN Bar Paris, at 6 rue de Paradis in the 10th, is a one-of-a-kind shooting bar in Paris. Each booth has its guns and a tablet that launches a dozen in-house games and is used to order cocktails and sharing plates cooked on site by a chef. Three packages are published, booths for 2 to 66 people from 16 euros per person, a team building package from 36 euros per person with a drink, one dish for four and a group photo, and full private hire from 30 people, up to 150, with a dedicated host and the option of projecting a presentation. For drinks, no open bar package is listed, the menu or a caterer are set on quote. Closed on Mondays, games from age 16, bar for adults only. The venue also features in our selection of [board game bars in Paris](/en/bars-lieux-ludiques/board-game-bars-paris/).
 
 **Who it is for**, teams of 30 to 150 people for whom the activity is the heart of the evening, with departments mixing in the booths. If an unlimited open bar is a must, get it in writing in the quote.
 
 ### Bomb Squad Paris, the action game before the cocktail
 
-Bomb Squad Paris, on boulevard de Sébastopol in the 3rd, is an action game. Teams of 2 to 6 have one hour to complete physical and brain challenges and defuse a paint bomb. Starts every 10 minutes let up to 60 participants play over two hours while the others enjoy the reception area and its themed bar, available for private hire with a walking dinner or a custom buffet. Pricing goes from 45 euros per player for two down to 28 euros for six.
+Bomb Squad Paris, on boulevard de Sébastopol in the 3rd, is an [action game](/en/activites-insolites/action-game-paris/), a more physical format than an escape room. Teams of 2 to 6 have one hour to complete physical and brain challenges and defuse a paint bomb. Starts every 10 minutes let up to 60 participants play over two hours while the others enjoy the reception area and its themed bar, available for private hire with a walking dinner or a custom buffet. Pricing goes from 45 euros per player for two down to 28 euros for six.
 
 **Who it is for**, teams of up to 60 people who want to move before eating. The meal is a walking dinner or buffet, not a plated dinner.
 
@@ -127,7 +127,7 @@ Let us be honest about the limits. Only one venue on the list, La Fabrique Gén�
 1. **What exactly is the open bar?** Slot duration, drinks included, spirits or not.
 2. **Is the meal served or shared?** Seated dinner, walking dinner or boards, capacity changes with the format.
 3. **How many people play at the same time?** And what the others do meanwhile.
-4. **Closing time and day.** A Tuesday or Wednesday is easier to negotiate than a Thursday in December.
+4. **Closing time and day.** A Tuesday or Wednesday is easier to negotiate than a Thursday in December. And if December is full, a [winter party in Paris](/en/team-building-seminaires/winter-party-venues-paris/) in January reopens the choice.
 
 If your evening is part of the end of year, our guide to the [end of year at work in Paris](/en/team-building-seminaires/end-of-year-company-events-paris/) helps pick the right format. For an evening centred on a bar, our selection to [privatize a bar for a corporate event in Paris](/en/team-building-seminaires/privatize-bar-corporate-event-paris/) compares 8 venues, and our [team building activities in Paris](/en/team-building-seminaires/team-building-12-activites-originales/) widen the choice on the activity side.
 

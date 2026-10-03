@@ -3,7 +3,7 @@ title: "Company end of year party in Paris: the guide to getting it all booked i
 seoTitle: "Company end of year party in Paris: the guide"
 description: "Company end of year party in Paris, everything to settle before booking: budget per person, formats, entertainment, timeline and the legal basics."
 date: 2026-09-15
-lastmod: 2026-10-02
+lastmod: 2026-10-03
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building and seminars"]
@@ -79,7 +79,7 @@ There is no good format in the abstract, there is a format that matches your hea
 
 The activity then meal format is the most forgiving. It fills the first hour, the one where nobody knows what to say, and it gives everyone a shared topic for the rest of the evening. It is also the one that works best with a mixed group, because it does not force anyone to make conversation from a standing start.
 
-Two concrete Paris examples, with their real constraints. Bomb Squad, an action game venue on boulevard de Sébastopol in the 3rd arrondissement, runs teams of 2 to 6 players over one hour, with staggered start times that allow up to 60 participants across two hours, on a sliding rate from 45 euros per player for two down to 28 euros for six. PAN Bar, a shooting bar in the 10th, starts at 16 euros per person with boxes of 2 to 10 players, goes up to 66 players across multiple boxes and privatises its 400 sq m from 30 people onwards, bearing in mind that it is closed on Mondays.
+Two concrete Paris examples, with their real constraints. Bomb Squad, an action game venue on boulevard de Sébastopol in the 3rd arrondissement, runs teams of 2 to 6 players over one hour, with staggered start times that allow up to 60 participants across two hours, on a sliding rate from 45 euros per player for two down to 28 euros for six. PAN Bar Paris, a shooting bar in the 10th, starts at 16 euros per person with boxes of 2 to 10 players, goes up to 66 players across multiple boxes and can be fully privatised for 30 to 150 people, bearing in mind that it is closed on Mondays. For other venues combining activity, food and bar, see our selection of [venues for a corporate party with activity, dinner and open bar in Paris](/en/team-building-seminaires/corporate-party-activity-dinner-open-bar-paris/).
 
 Other evening formats are laid out in our comparison of [alternatives to a classic bar in Paris](/en/bars-lieux-ludiques/alternative-to-a-classic-bar-paris/), which works just as well for a professional group.
 
@@ -136,6 +136,6 @@ The end of year gets all the attention, but the same venues and the same formats
 Prices, capacities and opening hours checked on the venues' official websites in September {{< year >}}. Budget ranges are indicative and vary with the date, the day of the week and the group size.
 
 - [Bomb Squad Paris](https://paris.bombsquad.games/)
-- [PAN Bar](https://pan.bar/)
+- [PAN Bar Paris](https://pan.bar/)
 - [Urssaf, benefits provided by the employer and the works council](https://www.urssaf.fr/)
 - [Entreprendre, French public service portal](https://entreprendre.service-public.fr/)

@@ -3,7 +3,7 @@ title: "Soirée de fin d'année entreprise à Paris : le guide pour tout caler e
 seoTitle: "Soirée de fin d'année entreprise Paris : le guide"
 description: "Soirée de fin d'année entreprise à Paris, tout ce qu'il faut caler avant de réserver : budget par personne, formats, animation, rétroplanning et cadre légal."
 date: 2026-09-15
-lastmod: 2026-10-02
+lastmod: 2026-10-03
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building et séminaires"]
@@ -79,7 +79,7 @@ Il n'y a pas de bon format dans l'absolu, il y a un format qui colle à ton effe
 
 Le format activité puis repas est celui qui pardonne le plus. Il occupe la première heure, celle où personne ne sait quoi dire, et il donne à tout le monde un sujet de conversation commun pour le reste de la soirée. C'est aussi celui qui fonctionne le mieux avec un effectif hétérogène, parce qu'il n'oblige personne à faire la conversation à froid.
 
-Deux exemples concrets de ce que ça donne à Paris, avec leurs contraintes réelles. Bomb Squad, action game installé boulevard de Sébastopol dans le 3e, fait jouer des équipes de 2 à 6 personnes sur une heure, avec des départs échelonnés qui permettent d'accueillir jusqu'à 60 participants sur deux heures, pour un tarif dégressif de 45 euros par joueur à deux jusqu'à 28 euros à six. PAN Bar, bar à tir du 10e, démarre à 16 euros par personne avec des box de 2 à 10 joueurs, monte jusqu'à 66 joueurs en multi-box et privatise ses 400 m² à partir de 30 personnes, en gardant à l'esprit qu'il est fermé le lundi.
+Deux exemples concrets de ce que ça donne à Paris, avec leurs contraintes réelles. Bomb Squad, action game installé boulevard de Sébastopol dans le 3e, fait jouer des équipes de 2 à 6 personnes sur une heure, avec des départs échelonnés qui permettent d'accueillir jusqu'à 60 participants sur deux heures, pour un tarif dégressif de 45 euros par joueur à deux jusqu'à 28 euros à six. PAN Bar Paris, bar à tir du 10e, démarre à 16 euros par personne avec des box de 2 à 10 joueurs, monte jusqu'à 66 joueurs en multi-box et se privatise en entier de 30 à 150 personnes, en gardant à l'esprit qu'il est fermé le lundi. Pour d'autres lieux qui réunissent activité, repas et bar, vois notre sélection des [lieux de soirée d'entreprise avec activité, dîner et open bar à Paris](/team-building-seminaires/soiree-entreprise-activite-diner-open-bar-paris/).
 
 D'autres formats de soirée sont détaillés dans notre comparatif des [alternatives à un bar classique à Paris](/bars-lieux-ludiques/alternative-bar-classique-paris/), qui vaut aussi pour un groupe professionnel.
 
@@ -136,6 +136,6 @@ La fin d'année concentre l'attention, mais les mêmes lieux et les mêmes forma
 Tarifs, capacités et horaires relevés sur les sites officiels des établissements en septembre {{< year >}}. Les fourchettes de budget sont indicatives et varient selon la date, le jour de la semaine et la jauge.
 
 - [Bomb Squad Paris](https://paris.bombsquad.games/)
-- [PAN Bar](https://pan.bar/)
+- [PAN Bar Paris](https://pan.bar/)
 - [Urssaf, avantages versés par le CSE et l'employeur](https://www.urssaf.fr/)
 - [Entreprendre, Service Public](https://entreprendre.service-public.fr/)

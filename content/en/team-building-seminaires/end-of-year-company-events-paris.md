@@ -3,7 +3,7 @@ title: "End of year at work in Paris: every format to celebrate in {annee}"
 seoTitle: "End of year company events in Paris: the full guide"
 description: "End of year at work in Paris, party, team building, seminar, after-work, gifts or a January winter party, which format to pick and when to book it."
 date: 2026-10-02
-lastmod: 2026-10-02
+lastmod: 2026-10-03
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building and seminars"]
@@ -62,7 +62,7 @@ In Paris, two families of activities fill that role well. Physical activities, s
 
 The end-of-year seminar is a working format. It brings together a team, a department or a leadership committee to look back on the year and set the priorities for the next one. It takes place during the day, ideally away from the office, and is best ended with a friendly moment so the team does not leave on a spreadsheet.
 
-The classic mistake is trying to do both at once, slipping a work session into the middle of the end-of-year party. The team quickly understands they were sold a party to sit through a meeting. Separate the two, seminar in the afternoon, activity or party afterwards. For the method, our [team building tips](/en/team-building-seminaires/team-building-tips/) also apply to a seminar, from framing the goal to choosing a supplier.
+The classic mistake is trying to do both at once, slipping a work session into the middle of the end-of-year party. The team quickly understands they were sold a party to sit through a meeting. Separate the two, seminar in the afternoon, activity or party afterwards. Our guide to the [year-end company seminar in Paris](/en/team-building-seminaires/year-end-company-seminar-paris/) details a typical one-day schedule, choosing the venue and the closing activity. For the general method, our [team building tips](/en/team-building-seminaires/team-building-tips/) also apply to a seminar, from framing the goal to choosing a supplier.
 
 ## December after-work drinks, the light version
 

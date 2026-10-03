@@ -3,7 +3,7 @@ title: "Fin d'année en entreprise à Paris : tous les formats pour célébrer e
 seoTitle: "Fin d'année en entreprise à Paris : le guide complet"
 description: "Fin d'année en entreprise à Paris, soirée, team building, séminaire, afterwork, cadeaux ou winter party en janvier, quel format choisir et quand le réserver."
 date: 2026-10-02
-lastmod: 2026-10-02
+lastmod: 2026-10-03
 author: "Sarah Nguyen"
 authors: ["Sarah Nguyen"]
 categories: ["Team building et séminaires"]
@@ -62,7 +62,7 @@ Une activité de groupe en fin d'année n'a pas la même fonction qu'en septembr
 
 Le séminaire de fin d'année est un format de travail. Il réunit une équipe, un service ou un comité de direction pour regarder l'année écoulée et poser les priorités de la suivante. Il se tient en journée, idéalement hors des bureaux, et gagne à se terminer par un moment convivial pour ne pas laisser l'équipe sur un tableur.
 
-L'erreur classique est de vouloir faire les deux en un, c'est-à-dire glisser un atelier de travail au milieu de la soirée de fin d'année. L'équipe comprend vite qu'on lui a vendu une fête pour lui faire une réunion. Sépare les temps, séminaire l'après-midi, activité ou soirée ensuite. Pour la partie méthode, nos [10 conseils pour organiser un team building](/team-building-seminaires/organiser-un-team-building-conseils/) valent aussi pour un séminaire, du cadrage de l'objectif au choix du prestataire.
+L'erreur classique est de vouloir faire les deux en un, c'est-à-dire glisser un atelier de travail au milieu de la soirée de fin d'année. L'équipe comprend vite qu'on lui a vendu une fête pour lui faire une réunion. Sépare les temps, séminaire l'après-midi, activité ou soirée ensuite. Notre guide du [séminaire de fin d'année à Paris](/team-building-seminaires/seminaire-fin-annee-entreprise-paris/) détaille le déroulé type d'une journée, le choix du lieu et l'activité de clôture. Pour la partie méthode générale, nos [10 conseils pour organiser un team building](/team-building-seminaires/organiser-un-team-building-conseils/) valent aussi pour un séminaire, du cadrage de l'objectif au choix du prestataire.
 
 ## L'afterwork de décembre, la version légère
 
